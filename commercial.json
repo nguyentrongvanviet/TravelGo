@@ -1,0 +1,1109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Station Mall",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường An Khánh",
+        "postcode": "71108",
+        "suburb": "Khu phố 7",
+        "street": "Quốc Hương",
+        "housenumber": "12",
+        "lon": 106.7331602,
+        "lat": 10.8011701,
+        "formatted": "Station Mall, 12, Quốc Hương, Khu phố 7, 71108, Vietnam",
+        "address_line1": "Station Mall",
+        "address_line2": "12, Quốc Hương, Khu phố 7, 71108, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Station Mall",
+            "shop": "mall",
+            "osm_id": 2624268215,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 4679,
+        "place_id": "51a46ec218ecae5a4059eca39ff7329a2540f00103f901b7276b9c0000000092030c53746174696f6e204d616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73316019999999,
+          10.801170099484771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TTTM RomeA",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "postcode": "70001",
+        "street": "Nguyễn Đình Chiểu",
+        "lon": 106.69015302365251,
+        "lat": 10.7780726,
+        "formatted": "TTTM RomeA, Nguyễn Đình Chiểu, 70001, Vietnam",
+        "address_line1": "TTTM RomeA",
+        "address_line2": "Nguyễn Đình Chiểu, 70001, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "TTTM RomeA",
+            "shop": "mall",
+            "osm_id": 587505132,
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 709,
+        "place_id": "51ac7496772bac5a4059686321885f8e2540f00102f901ec9d04230000000092030a5454544d20526f6d6541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6901530236525,
+          10.778072599483224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taka Plaza",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "suburb": "Saigon",
+        "street": "Nam Kỳ Khởi Nghĩa",
+        "lon": 106.69998784795006,
+        "lat": 10.774447550000001,
+        "formatted": "Taka Plaza, Nam Kỳ Khởi Nghĩa, Saigon, 71009, Vietnam",
+        "address_line1": "Taka Plaza",
+        "address_line2": "Nam Kỳ Khởi Nghĩa, Saigon, 71009, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Taka Plaza",
+            "shop": "mall",
+            "osm_id": 802105028,
+            "name:ru": "Така Плаза",
+            "name:zh": "大卡",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "ru": "Така Плаза",
+          "zh": "大卡"
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 555,
+        "place_id": "51bfa2d499ccac5a405956fea263848c2540f00102f901c426cf2f0000000092030a54616b6120506c617a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69998784795006,
+          10.774447549482982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lucky Plaza",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 8",
+        "suburb": "Saigon",
+        "street": "Nguyen Hue Boulevard",
+        "lon": 106.70454424484579,
+        "lat": 10.7741921,
+        "formatted": "Lucky Plaza, Nguyen Hue Boulevard, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Lucky Plaza",
+        "address_line2": "Nguyen Hue Boulevard, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [
+          "details",
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lucky Plaza",
+            "shop": "mall",
+            "osm_id": 187895187,
+            "name:ja": "ラッキープラザ",
+            "building": "yes",
+            "osm_type": "w",
+            "building:levels": 3
+          }
+        },
+        "name_international": {
+          "ja": "ラッキープラザ"
+        },
+        "building": {
+          "levels": 3
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 954,
+        "place_id": "51a68cbe4017ad5a4059aa3328e8628c2540f00102f901930d330b0000000092030b4c75636b7920506c617a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70454424484578,
+          10.774192099482963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71006",
+        "suburb": "Saigon",
+        "street": "Le Loi Boulevard",
+        "lon": 106.70097629788441,
+        "lat": 10.773544000000001,
+        "formatted": "Le Loi Boulevard, Saigon, 71006, Vietnam",
+        "address_line1": "Le Loi Boulevard",
+        "address_line2": "Saigon, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "mall",
+            "osm_id": 802125675,
+            "osm_type": "w",
+            "building:part": "yes"
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 693,
+        "place_id": "51d2abb0cbdcac5a4059a29787f50d8c2540f00102f9016b77cf2f00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70097629788441,
+          10.773543999482914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 6",
+        "suburb": "Saigon",
+        "street": "Pasteur Street",
+        "lon": 106.70097629788441,
+        "lat": 10.773544000000001,
+        "formatted": "Pasteur Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Pasteur Street",
+        "address_line2": "Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "mall",
+            "height": 170,
+            "osm_id": 802125676,
+            "osm_type": "w",
+            "building:part": "yes"
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 700,
+        "place_id": "51d2abb0cbdcac5a4059a29787f50d8c2540f00102f9016c77cf2f00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70097629788441,
+          10.773543999482914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toà Nhà Saigon Centre",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71006",
+        "suburb": "Saigon",
+        "street": "Le Loi Boulevard",
+        "housenumber": "65",
+        "lon": 106.7009017111145,
+        "lat": 10.7734944,
+        "formatted": "Toà Nhà Saigon Centre, 65, Le Loi Boulevard, Saigon, 71006, Vietnam",
+        "address_line1": "Toà Nhà Saigon Centre",
+        "address_line2": "65, Le Loi Boulevard, Saigon, 71006, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Toà Nhà Saigon Centre",
+            "shop": "mall",
+            "osm_id": 802125677,
+            "name:ru": "Сайгон Сентер",
+            "name:zh": "西贡中心",
+            "building": "commercial",
+            "osm_type": "w",
+            "addr:street": "Lê Lợi",
+            "name:zh-Hant": "西貢中心",
+            "addr:postcode": 71006,
+            "addr:housenumber": 65
+          }
+        },
+        "name_international": {
+          "ru": "Сайгон Сентер",
+          "zh": "西贡中心"
+        },
+        "building": {
+          "type": "commercial"
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 687,
+        "place_id": "519fbcd992dbac5a405928d63a75078c2540f00102f9016d77cf2f00000000920317546fc3a0204e68c3a020536169676f6e2043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7009017111145,
+          10.773494399482914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trung tâm mua sắm Sài Gòn Garden",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 8",
+        "suburb": "Saigon",
+        "street": "Nguyen Hue Boulevard",
+        "lon": 106.7038659,
+        "lat": 10.7733608,
+        "formatted": "Trung tâm mua sắm Sài Gòn Garden, Nguyen Hue Boulevard, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Trung tâm mua sắm Sài Gòn Garden",
+        "address_line2": "Nguyen Hue Boulevard, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trung tâm mua sắm Sài Gòn Garden",
+            "shop": "mall",
+            "osm_id": 9586890718,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 959,
+        "place_id": "5141518f230cad5a405934935bf2f58b2540f00103f901de576c3b020000009203255472756e672074c3a26d206d75612073e1baaf6d2053c3a0692047c3b26e2047617264656e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7038659,
+          10.773360799482909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71006",
+        "suburb": "Saigon",
+        "street": "Le Loi Boulevard",
+        "lon": 106.70057244958863,
+        "lat": 10.773152150000001,
+        "formatted": "Le Loi Boulevard, Saigon, 71006, Vietnam",
+        "address_line1": "Le Loi Boulevard",
+        "address_line2": "Saigon, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "mall",
+            "osm_id": 827000695,
+            "osm_type": "w",
+            "building:part": "yes"
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 718,
+        "place_id": "518eddd32dd6ac5a4059e4b83999da8b2540f00102f90177074b3100000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70057244958863,
+          10.77315214948289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trung tâm mua sắm Saigon Centre",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "suburb": "Saigon",
+        "street": "Nam Kỳ Khởi Nghĩa",
+        "lon": 106.70065720127207,
+        "lat": 10.772948549999999,
+        "formatted": "Trung tâm mua sắm Saigon Centre, Nam Kỳ Khởi Nghĩa, Saigon, 71009, Vietnam",
+        "address_line1": "Trung tâm mua sắm Saigon Centre",
+        "address_line2": "Nam Kỳ Khởi Nghĩa, Saigon, 71009, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trung tâm mua sắm Saigon Centre",
+            "shop": "mall",
+            "height": 193,
+            "osm_id": 802125674,
+            "osm_type": "w",
+            "building:part": "yes",
+            "building:levels": 39
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 732,
+        "place_id": "51e84a4d91d7ac5a4059070a8be9bf8b2540f00102f9016a77cf2f000000009203225472756e672074c3a26d206d75612073e1baaf6d20536169676f6e2043656e747265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70065720127207,
+          10.772948549482875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SALA Shopping Mall Thiso mall",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường An Khánh",
+        "city": "Ho Chi Minh City",
+        "postcode": "70000",
+        "suburb": "Khu phố 4",
+        "street": "Mai Chi Tho Boulevard",
+        "housenumber": "10 Đ",
+        "lon": 106.72177339321901,
+        "lat": 10.77206425,
+        "formatted": "SALA Shopping Mall Thiso mall, 10 Đ, Mai Chi Tho Boulevard, Khu phố 4, Ho Chi Minh City, 70000, Vietnam",
+        "address_line1": "SALA Shopping Mall Thiso mall",
+        "address_line2": "10 Đ, Mai Chi Tho Boulevard, Khu phố 4, Ho Chi Minh City, 70000, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "SALA Shopping Mall Thiso mall",
+            "shop": "mall",
+            "height": 45,
+            "osm_id": 605774020,
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Thành phố Hồ Chí Minh",
+            "addr:street": "Mai Chí Thọ",
+            "addr:district": "Quận 2",
+            "addr:postcode": 70000,
+            "addr:housenumber": "10 Đ",
+            "addr:subdistrict": "Thủ Thiêm"
+          }
+        },
+        "building": {
+          "height": 45
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 2737,
+        "place_id": "51e9bf078931ae5a405906e15b014c8b2540f00102f901c4601b240000000092031d53414c412053686f7070696e67204d616c6c20546869736f206d616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72177339321901,
+          10.77206424948282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vạn Hạnh Mall",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Hòa Hưng",
+        "postcode": "72712",
+        "street": "Su Van Hanh",
+        "housenumber": "11",
+        "lon": 106.66956307942868,
+        "lat": 10.770484249999999,
+        "formatted": "Vạn Hạnh Mall, 11, Su Van Hanh, 72712, Vietnam",
+        "address_line1": "Vạn Hạnh Mall",
+        "address_line2": "11, Su Van Hanh, 72712, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.shopping_mall",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vạn Hạnh Mall",
+            "shop": "mall",
+            "osm_id": 556234623,
+            "name:ja": "ヴァンハン モール",
+            "website": "https://vanhanhmall.com/",
+            "building": "retail",
+            "osm_type": "w",
+            "wheelchair": "yes",
+            "addr:street": "Sư Vạn Hạnh",
+            "addr:district": "Quận 10",
+            "addr:province": "Thành phố Hồ Chí Minh",
+            "building:levels": 7,
+            "addr:housenumber": 11
+          }
+        },
+        "website": "https://vanhanhmall.com/",
+        "name_international": {
+          "ja": "ヴァンハン モール"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "building": {
+          "levels": 7,
+          "type": "retail"
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 3068,
+        "place_id": "5156301a1fdaaa5a405904395be97c8a2540f00102f9017f7727210000000092031156e1baa16e2048e1baa16e68204d616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.66956307942868,
+          10.770484249482713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saigon Mall Cao Thắng",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bàn Cờ",
+        "postcode": "72406",
+        "street": "Cao Thang",
+        "lon": 106.6829983,
+        "lat": 10.7692463,
+        "formatted": "Saigon Mall Cao Thắng, Cao Thang, 72406, Vietnam",
+        "address_line1": "Saigon Mall Cao Thắng",
+        "address_line2": "Cao Thang, 72406, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Saigon Mall Cao Thắng",
+            "shop": "mall",
+            "osm_id": 9584911952,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 1846,
+        "place_id": "514e6e803eb6ab5a4059a0b1a5a6da892540f00103f90150264e3b02000000920317536169676f6e204d616c6c2043616f205468e1baaf6e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68299829999998,
+          10.769246299482631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chợ Dân Sinh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 8",
+        "street": "Ky Con Street",
+        "lon": 106.69799550661389,
+        "lat": 10.76659415,
+        "formatted": "Dan Sinh market, Ky Con Street, Khu phố 8, 71010, Vietnam",
+        "address_line1": "Dan Sinh market",
+        "address_line2": "Ky Con Street, Khu phố 8, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chợ Dân Sinh",
+            "shop": "mall",
+            "osm_id": 806860787,
+            "landuse": "retail",
+            "name:de": "Chợ Dân Sinh (American Market)",
+            "name:en": "Dan Sinh market",
+            "name:es": "Mercado Dan Sinh",
+            "name:id": "Pasar Dan Sinh",
+            "name:ru": "Рынок Зан Синь",
+            "name:zh": "民生市场",
+            "osm_type": "w",
+            "wikidata": "Q10748771"
+          }
+        },
+        "name_international": {
+          "de": "Chợ Dân Sinh (American Market)",
+          "en": "Dan Sinh market",
+          "es": "Mercado Dan Sinh",
+          "id": "Pasar Dan Sinh",
+          "ru": "Рынок Зан Синь",
+          "zh": "民生市场"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q10748771"
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 1287,
+        "place_id": "51586a58f5abac5a405906aa42077f882540f00102f901f3b717300000000092030f4368e1bba32044c3a26e2053696e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69799550661389,
+          10.766594149482454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trung Tâm Mua Sắm Nowzone",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "72760",
+        "street": "Nguyễn Văn Cừ",
+        "housenumber": "235",
+        "lon": 106.68246025703363,
+        "lat": 10.764340449999999,
+        "formatted": "Trung Tâm Mua Sắm Nowzone, 235, Nguyễn Văn Cừ, 72760, Vietnam",
+        "address_line1": "Trung Tâm Mua Sắm Nowzone",
+        "address_line2": "235, Nguyễn Văn Cừ, 72760, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trung Tâm Mua Sắm Nowzone",
+            "shop": "mall",
+            "osm_id": 289968620,
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Nguyễn Văn Cừ",
+            "addr:housenumber": 235
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 2210,
+        "place_id": "51de31c96dadab5a4059aa12a3a157872540f00102f901ec9148110000000092031c5472756e672054c3a26d204d75612053e1baaf6d204e6f777a6f6e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68246025703363,
+          10.764340449482308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trung Tâm Mua Sắm Nowzone - Nguyễn Văn Cừ",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "72760",
+        "street": "Nguyễn Văn Cừ",
+        "housenumber": "235",
+        "lon": 106.6824266,
+        "lat": 10.764339,
+        "formatted": "Trung Tâm Mua Sắm Nowzone - Nguyễn Văn Cừ, 235, Nguyễn Văn Cừ, 72760, Vietnam",
+        "address_line1": "Trung Tâm Mua Sắm Nowzone - Nguyễn Văn Cừ",
+        "address_line2": "235, Nguyễn Văn Cừ, 72760, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trung Tâm Mua Sắm Nowzone - Nguyễn Văn Cừ",
+            "shop": "mall",
+            "osm_id": 9585835375,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 2243,
+        "place_id": "51e93a9ee0acab5a4059f1aafb7057872540f00103f9016f3d5c3b020000009203315472756e672054c3a26d204d75612053e1baaf6d204e6f777a6f6e65202d204e677579e1bb856e2056c4836e2043e1bbab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6824266,
+          10.764338999482307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trung Tâm Mua Sắm Russian",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "city": "Ho Chi Minh City",
+        "postcode": "71010",
+        "district": "Khu phố 6",
+        "street": "Vo Van Kiet Highway",
+        "lon": 106.6950862,
+        "lat": 10.7617399,
+        "formatted": "RUSSIAN Clothes Market, Vo Van Kiet Highway, Ho Chi Minh City, 71010, Vietnam",
+        "address_line1": "RUSSIAN Clothes Market",
+        "address_line2": "Vo Van Kiet Highway, Ho Chi Minh City, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [
+          "details",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trung Tâm Mua Sắm Russian",
+            "shop": "mall",
+            "osm_id": 4596372690,
+            "name:en": "RUSSIAN Clothes Market",
+            "name:id": "Pasar Rusia",
+            "name:ru": "Русский Рынок",
+            "name:vi": "Chợ Nga",
+            "name:zh": "俄罗斯市场",
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Võ Văn Kiệt",
+            "name:zh-Hant": "俄羅斯市場",
+            "payment:cash": "yes",
+            "addr:district": "Quan 1",
+            "addr:postcode": 710200,
+            "opening_hours": "Mo-Su 09:00-21:00",
+            "addr:subdistrict": "Phường Cô Giang"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "name_international": {
+          "en": "RUSSIAN Clothes Market",
+          "id": "Pasar Rusia",
+          "ru": "Русский Рынок",
+          "vi": "Chợ Nga",
+          "zh": "俄罗斯市场"
+        },
+        "payment_options": {
+          "cash": true
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 1883,
+        "place_id": "51a839d44a7cac5a40590eaba8c502862540f00103f901d214f7110100000092031c5472756e672054c3a26d204d75612053e1baaf6d205275737369616e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69508619999999,
+          10.761739899482134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trung tâm Thương Mại An Đông Plaza",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường An Đông",
+        "postcode": "72712",
+        "street": "Đường Yết Kiêu",
+        "lon": 106.67330400578584,
+        "lat": 10.757868550000001,
+        "formatted": "Trung tâm Thương Mại An Đông Plaza, Đường Yết Kiêu, 72712, Vietnam",
+        "address_line1": "Trung tâm Thương Mại An Đông Plaza",
+        "address_line2": "Đường Yết Kiêu, 72712, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trung tâm Thương Mại An Đông Plaza",
+            "shop": "mall",
+            "osm_id": 1388259750,
+            "landuse": "retail",
+            "osm_type": "w"
+          }
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 3409,
+        "place_id": "516c47af6917ab5a40591a62b55807842540f00102f901a629bf52000000009203295472756e672074c3a26d205468c6b0c6a16e67204de1baa16920416e20c490c3b46e6720506c617a61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67330400578584,
+          10.757868549481874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkson Hùng Vương",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường An Đông",
+        "city": "Ho Chi Minh City",
+        "postcode": "72415",
+        "street": "Hùng Vương",
+        "housenumber": "126",
+        "lon": 106.6629025,
+        "lat": 10.7557757,
+        "formatted": "Parkson Hùng Vương, 126, Hùng Vương, Ho Chi Minh City, 72415, Vietnam",
+        "address_line1": "Parkson Hùng Vương",
+        "address_line2": "126, Hùng Vương, Ho Chi Minh City, 72415, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [
+          "details",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parkson Hùng Vương",
+            "shop": "mall",
+            "osm_id": 6536295071,
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Hùng Vương",
+            "payment:cash": "yes",
+            "payment:visa": "yes",
+            "addr:district": "Quận 5",
+            "opening_hours": "Mo-Su 09:00-22:00",
+            "addr:housenumber": 126,
+            "addr:subdistrict": 12,
+            "payment:mastercard": "yes",
+            "payment:debit_cards": "yes",
+            "payment:credit_cards": "yes"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "payment_options": {
+          "cash": true,
+          "visa": true,
+          "mastercard": true,
+          "debit_cards": true,
+          "credit_cards": true
+        },
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 4502,
+        "place_id": "51f27b9bfe6caa5a40596bc55008f5822540f00103f9019ff29785010000009203155061726b736f6e2048c3b96e672056c6b0c6a16e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6629025,
+          10.755775699481736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parc Mall",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Chánh Hưng",
+        "postcode": "72900",
+        "street": "Tạ Quang Bửu",
+        "housenumber": "547-549",
+        "lon": 106.67915470094432,
+        "lat": 10.7407426,
+        "formatted": "Parc Mall, 547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "address_line1": "Parc Mall",
+        "address_line2": "547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.shopping_mall"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Parc Mall",
+            "shop": "mall",
+            "osm_id": 1226734708,
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Tạ Quang Bửu",
+            "addr:district": 8,
+            "opening_hours": "Mo-Fr 10:00-22:00; Sa-Su 09:00-22:00",
+            "addr:housenumber": "547-549",
+            "addr:subdistrict": 4
+          }
+        },
+        "opening_hours": "Mo-Fr 10:00-22:00; Sa-Su 09:00-22:00",
+        "commercial": {
+          "type": "mall"
+        },
+        "distance": 4517,
+        "place_id": "51c05e474577ab5a40592f0c2f9d427b2540f00102f901747c1e490000000092030950617263204d616c6c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67915470094431,
+          10.740742599480738
+        ]
+      }
+    }
+  ]
+}

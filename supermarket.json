@@ -1,0 +1,5141 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chợ Vạn Kiếp",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "72210",
+        "suburb": "Gia Dinh",
+        "street": "Hẻm 71 Vạn Kiếp",
+        "lon": 106.6938742,
+        "lat": 10.7998008,
+        "formatted": "Chợ Vạn Kiếp, Hẻm 71 Vạn Kiếp, Gia Dinh, Ho Chi Minh City, 72210, Vietnam",
+        "address_line1": "Chợ Vạn Kiếp",
+        "address_line2": "Hẻm 71 Vạn Kiếp, Gia Dinh, Ho Chi Minh City, 72210, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chợ Vạn Kiếp",
+            "shop": "supermarket",
+            "osm_id": 10539950899,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2362,
+        "place_id": "517022556f68ac5a4059e6338a7d7f992540f00103f90133e33a74020000009203124368e1bba32056e1baa16e204b69e1babf70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69387419999998,
+          10.799800799484682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foodmart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "72210",
+        "suburb": "Gia Dinh",
+        "street": "Bùi Hữu Nghĩa",
+        "lon": 106.6993939,
+        "lat": 10.799293,
+        "formatted": "Foodmart, Bùi Hữu Nghĩa, Gia Dinh, Ho Chi Minh City, 72210, Vietnam",
+        "address_line1": "Foodmart",
+        "address_line2": "Bùi Hữu Nghĩa, Gia Dinh, Ho Chi Minh City, 72210, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Foodmart",
+            "shop": "supermarket",
+            "osm_id": 7829883985,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2297,
+        "place_id": "5167e1a1dec2ac5a4059ab6a99ee3c992540f00103f901518cb2d201000000920308466f6f646d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6993939,
+          10.799292999484654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co.opmart Rạch Miễu",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Kiệu",
+        "city": "Ho Chi Minh City",
+        "postcode": "72210",
+        "street": "Hoa Su",
+        "housenumber": "48",
+        "lon": 106.68917127510952,
+        "lat": 10.79901895,
+        "formatted": "Co.opmart Rạch Miễu, 48, Hoa Su, Ho Chi Minh City, 72210, Vietnam",
+        "address_line1": "Co.opmart Rạch Miễu",
+        "address_line2": "48, Hoa Su, Ho Chi Minh City, 72210, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Co.opmart Rạch Miễu",
+            "shop": "supermarket",
+            "osm_id": 750511344,
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Hoa Sứ",
+            "addr:district": "Phú Nhuận",
+            "addr:housenumber": 48,
+            "addr:subdistrict": "Phường 7"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2349,
+        "place_id": "5108fcd5611bac5a405970d7010319992540f00102f901f0e4bb2c00000000920317436f2e6f706d6172742052e1baa16368204d69e1bb8575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68917127510952,
+          10.799018949484633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BambooBebe Việt Nam",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Kiệu",
+        "city": "Ho Chi Minh City",
+        "postcode": "72210",
+        "street": "Trường Sa",
+        "housenumber": "386-388",
+        "lon": 106.6866507,
+        "lat": 10.796771,
+        "formatted": "BambooBebe Việt Nam, 386-388, Trường Sa, Ho Chi Minh City, 72210, Vietnam",
+        "address_line1": "BambooBebe Việt Nam",
+        "address_line2": "386-388, Trường Sa, Ho Chi Minh City, 72210, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "BambooBebe Việt Nam",
+            "shop": "supermarket",
+            "brand": "BambooBebe",
+            "email": "store@gureumi.vn",
+            "phone": "090 951 11 94",
+            "osm_id": 7078025375,
+            "website": "www.bamboobebevietnam.com",
+            "operator": "Công ty TNHH Gureumi",
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Trường Sa",
+            "description": "Bamboo Bebe mang đến các sản phẩm đa dạng như: khăn sữa, khăn đa năng, khăn tắm, khăn mặt,thảm lót chống thấm, gối chống bẹp đầu, quần áo, các sản phẩm hỗ trợ cho mẹ và bé, tã vải, nước giặt…",
+            "addr:district": "Phú Nhuận",
+            "addr:province": "Hồ Chí Minh",
+            "opening_hours": "Mo-Su 09:00-21:00",
+            "addr:housenumber": "386-388",
+            "addr:subdistrict": "Phường 2"
+          }
+        },
+        "website": "www.bamboobebevietnam.com",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "brand": "BambooBebe",
+        "operator": "Công ty TNHH Gureumi",
+        "description": "Bamboo Bebe mang đến các sản phẩm đa dạng như: khăn sữa, khăn đa năng, khăn tắm, khăn mặt,thảm lót chống thấm, gối chống bẹp đầu, quần áo, các sản phẩm hỗ trợ cho mẹ và bé, tã vải, nước giặt…",
+        "contact": {
+          "phone": "090 951 11 94",
+          "email": "store@gureumi.vn"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2297,
+        "place_id": "51a111c715f2ab5a4059c75f525ef2972540f00103f9019f18e2a50100000092031542616d626f6f42656265205669e1bb8774204e616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68665069999999,
+          10.796770999484478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Công ty TNHH Gureumi",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Kiệu",
+        "city": "Ho Chi Minh City",
+        "postcode": "72210",
+        "street": "Trường Sa",
+        "housenumber": "386-388",
+        "lon": 106.6866392,
+        "lat": 10.7967542,
+        "formatted": "Công ty TNHH Gureumi, 386-388, Trường Sa, Ho Chi Minh City, 72210, Vietnam",
+        "address_line1": "Công ty TNHH Gureumi",
+        "address_line2": "386-388, Trường Sa, Ho Chi Minh City, 72210, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Công ty TNHH Gureumi",
+            "shop": "supermarket",
+            "email": "store@gureumi.vn",
+            "osm_id": 7078048746,
+            "website": "https://gureumi.store/",
+            "operator": "Công ty TNHH Gureumi",
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Trường Sa",
+            "addr:district": "Phú Nhuận",
+            "addr:province": "Hồ Chí Minh",
+            "opening_hours": "Mo-Su 09:00-20:00",
+            "addr:housenumber": "386-388",
+            "addr:subdistrict": "Phường 2"
+          }
+        },
+        "website": "https://gureumi.store/",
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "operator": "Công ty TNHH Gureumi",
+        "contact": {
+          "email": "store@gureumi.vn"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2296,
+        "place_id": "51b3098be5f1ab5a405919799b2af0972540f00103f901ea73e2a50100000092031543c3b46e6720747920544e48482047757265756d69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68663919999999,
+          10.796754199484484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gạo Hồng Nhung",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "72200",
+        "suburb": "Gia Dinh",
+        "street": "Vu Huy Tan",
+        "housenumber": "24",
+        "lon": 106.6953508,
+        "lat": 10.7957801,
+        "formatted": "Gạo Hồng Nhung, 24, Vu Huy Tan, Gia Dinh, Ho Chi Minh City, 72200, Vietnam",
+        "address_line1": "Gạo Hồng Nhung",
+        "address_line2": "24, Vu Huy Tan, Gia Dinh, Ho Chi Minh City, 72200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Gạo Hồng Nhung",
+            "shop": "supermarket",
+            "phone": "0979354567",
+            "osm_id": 10801342656,
+            "osm_type": "n",
+            "addr:city": "HCMC",
+            "addr:street": "Vũ Huy Tấn",
+            "addr:district": "Quan Binh Thanh",
+            "opening_hours": "Mo-Su 08:00-20:00",
+            "addr:housenumber": 24,
+            "addr:subdistrict": 3
+          }
+        },
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "contact": {
+          "phone": "0979354567"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1901,
+        "place_id": "51d54fa4a080ac5a4059b52f3c7d70972540f00103f901c068cf830200000092031247e1baa16f2048e1bb936e67204e68756e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69535079999999,
+          10.795780099484412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siêu Thị Vive Gourmet Food & Wine",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "city": "Ho Chi Minh City",
+        "postcode": "72308",
+        "street": "Ngo Tat To",
+        "housenumber": "59",
+        "lon": 106.7124906,
+        "lat": 10.7938895,
+        "formatted": "Siêu Thị Vive Gourmet Food & Wine, 59, Ngo Tat To, Ho Chi Minh City, 72308, Vietnam",
+        "address_line1": "Siêu Thị Vive Gourmet Food & Wine",
+        "address_line2": "59, Ngo Tat To, Ho Chi Minh City, 72308, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siêu Thị Vive Gourmet Food & Wine",
+            "shop": "supermarket",
+            "osm_id": 6965164241,
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Ngô Tất Tố",
+            "addr:district": "Bình Thạnh",
+            "opening_hours": "Mo-Su 08:00-21:00",
+            "addr:housenumber": 59,
+            "addr:subdistrict": "Phường 21"
+          }
+        },
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2394,
+        "place_id": "51466d2c7299ad5a405978d839af78962540f00103f901d1f8279f010000009203245369c3aa75205468e1bb8b205669766520476f75726d657420466f6f6420262057696e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7124906,
+          10.79388949948428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bach hoa XANX",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "72200",
+        "suburb": "Gia Dinh",
+        "street": "Phan Van Han",
+        "lon": 106.7067969,
+        "lat": 10.7934,
+        "formatted": "Bach hoa XANX, Phan Van Han, Gia Dinh, Ho Chi Minh City, 72200, Vietnam",
+        "address_line1": "Bach hoa XANX",
+        "address_line2": "Phan Van Han, Gia Dinh, Ho Chi Minh City, 72200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bach hoa XANX",
+            "shop": "supermarket",
+            "osm_id": 12622902601,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1954,
+        "place_id": "51829a10293cad5a4059d1dc548638962540f00103f901493562f00200000092030d4261636820686f612058414e58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7067969,
+          10.793399999484253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Phú Nhuận",
+        "postcode": "70150",
+        "street": "Trần Huy Liệu",
+        "lon": 106.6779316,
+        "lat": 10.7923361,
+        "formatted": "Trần Huy Liệu, 70150, Vietnam",
+        "address_line1": "Trần Huy Liệu",
+        "address_line2": "70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315679800,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2570,
+        "place_id": "5131bb383b63ab5a40591373c513ad952540f00103f90138a0717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67793159999998,
+          10.79233609948418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Định",
+        "postcode": "72200",
+        "street": "Trần Quang Khải",
+        "lon": 106.6930053,
+        "lat": 10.792129,
+        "formatted": "Trần Quang Khải, 72200, Vietnam",
+        "address_line1": "Trần Quang Khải",
+        "address_line2": "72200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315390293,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1550,
+        "place_id": "5119dde6325aac5a4059d1fea5ee91952540f00103f90155356d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6930053,
+          10.792128999484165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Phú Nhuận",
+        "postcode": "70150",
+        "street": "Huỳnh Văn Bánh",
+        "lon": 106.6770997,
+        "lat": 10.7918196,
+        "formatted": "Huỳnh Văn Bánh, 70150, Vietnam",
+        "address_line1": "Huỳnh Văn Bánh",
+        "address_line2": "70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672931,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2612,
+        "place_id": "5168e8fa9955ab5a40597b3be86069952540f00103f9016385717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67709969999999,
+          10.791819599484134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Định",
+        "postcode": "72200",
+        "street": "Trần Quang Khải",
+        "lon": 106.6902381,
+        "lat": 10.7917974,
+        "formatted": "Trần Quang Khải, 72200, Vietnam",
+        "address_line1": "Trần Quang Khải",
+        "address_line2": "72200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315687806,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1627,
+        "place_id": "51007d6cdc2cac5a405939afff7766952540f00103f9017ebf717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69023809999999,
+          10.79179739948414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Phú Nhuận",
+        "postcode": "70150",
+        "street": "Ho Bieu Chanh",
+        "lon": 106.6761072,
+        "lat": 10.7916005,
+        "formatted": "Ho Bieu Chanh, 70150, Vietnam",
+        "address_line1": "Ho Bieu Chanh",
+        "address_line2": "70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672928,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2690,
+        "place_id": "51c425225745ab5a4059319021a94c952540f00103f9016085717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67610719999999,
+          10.791600499484135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Phú Nhuận",
+        "postcode": "70150",
+        "street": "Hẻm 247 Huỳnh Văn Bánh",
+        "lon": 106.6764316,
+        "lat": 10.7914374,
+        "formatted": "Hẻm 247 Huỳnh Văn Bánh, 70150, Vietnam",
+        "address_line1": "Hẻm 247 Huỳnh Văn Bánh",
+        "address_line2": "70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315673311,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2650,
+        "place_id": "51c8fec3a74aab5a40592c3b674837952540f00103f901df86717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6764316,
+          10.791437399484117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "postcode": "71006",
+        "street": "Phạm Viết Chánh",
+        "housenumber": "79",
+        "lon": 106.7108159,
+        "lat": 10.7910586,
+        "formatted": "79, Phạm Viết Chánh, 71006, Vietnam",
+        "address_line1": "79, Phạm Viết Chánh",
+        "address_line2": "71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 5950622190,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2046,
+        "place_id": "5183fef8017ead5a4059e801fca105952540f00103f901ee49af6201000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71081589999999,
+          10.791058599484089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhà Sách Basao Stationery",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "street": "Tran Quang Long",
+        "housenumber": "14",
+        "lon": 106.71159027673146,
+        "lat": 10.790579900000001,
+        "formatted": "Nhà Sách Basao Stationery, 14, Tran Quang Long, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Nhà Sách Basao Stationery",
+        "address_line2": "14, Tran Quang Long, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.supermarket",
+          "internet_access",
+          "internet_access.for_customers"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.contact",
+          "details.facilities",
+          "details.payment",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nhà Sách Basao Stationery",
+            "shop": "supermarket",
+            "email": "basao.net@gmail.com",
+            "image": "https://www.facebook.com/photo/?fbid=741625830666086&set=a.741625813999421",
+            "phone": "0982896297",
+            "height": 20,
+            "osm_id": 1158889693,
+            "toilets": "yes",
+            "website": "https://www.facebook.com/basao_bookstore_stationery",
+            "building": "yes",
+            "operator": "Nhà Sách Basao",
+            "osm_type": "w",
+            "addr:city": "Ho Chi Minh City",
+            "wikipedia": "vi:https://zalo.me/84982896297",
+            "start_date": "2006-08-02",
+            "addr:street": "Đường Trần Quang Long",
+            "description": "ＮＨÀ ＳÁＣＨ ＢＡＳＡＯ ® . 🔰Cửa hàng bên mình mở cửa cả tuần tại bình thạnh⭐️và đều có các bạn nhân viên sẽ nhiệt tình hỗ trợ các bạn nhé🌺 . facebook.com/basao_bookstore_stationery . ☎️ SĐT – Hotline(Zalo): 0982896297 ☎️ SĐT Bàn: 028 3840 3060",
+            "payment:app": "yes",
+            "payment:cash": "yes",
+            "payment:visa": "yes",
+            "addr:district": "Bình Thạnh",
+            "addr:postcode": 700000,
+            "addr:province": "Hồ Chí Minh",
+            "opening_hours": "Mo-Su 07:00-22:00",
+            "payment:cards": "yes",
+            "internet_access": "yes",
+            "addr:housenumber": 14,
+            "addr:subdistrict": "Phường 19",
+            "air_conditioning": "yes",
+            "payment:mastercard": "yes",
+            "internet_access:fee": "customers",
+            "payment:debit_cards": "yes",
+            "payment:credit_cards": "yes"
+          }
+        },
+        "website": "https://www.facebook.com/basao_bookstore_stationery",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Nhà Sách Basao",
+        "description": "ＮＨÀ ＳÁＣＨ ＢＡＳＡＯ ® . 🔰Cửa hàng bên mình mở cửa cả tuần tại bình thạnh⭐️và đều có các bạn nhân viên sẽ nhiệt tình hỗ trợ các bạn nhé🌺 . facebook.com/basao_bookstore_stationery . ☎️ SĐT – Hotline(Zalo): 0982896297 ☎️ SĐT Bàn: 028 3840 3060",
+        "contact": {
+          "phone": "0982896297",
+          "email": "basao.net@gmail.com"
+        },
+        "facilities": {
+          "internet_access": true,
+          "toilets": true,
+          "air_conditioning": true
+        },
+        "wiki_and_media": {
+          "wikipedia": "vi:https://zalo.me/84982896297",
+          "image": "https://www.facebook.com/photo/?fbid=741625830666086&set=a.741625813999421"
+        },
+        "payment_options": {
+          "app": true,
+          "cash": true,
+          "visa": true,
+          "cards": true,
+          "mastercard": true,
+          "debit_cards": true,
+          "credit_cards": true
+        },
+        "building": {
+          "start_date": "2006-08-02",
+          "height": 20
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2068,
+        "place_id": "51a4adf1b18aad5a40596c517ae3c6942540f00102f901dd4013450000000092031b4e68c3a02053c3a1636820426173616f2053746174696f6e657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71159027673144,
+          10.790579899484065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cửa hàng Bách hóa Basao Grocery",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "street": "Hẻm 47 Phạm Viết Chánh",
+        "housenumber": "76A",
+        "lon": 106.7111094,
+        "lat": 10.7900679,
+        "formatted": "Cửa hàng Bách hóa Basao Grocery, 76A, Hẻm 47 Phạm Viết Chánh, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Cửa hàng Bách hóa Basao Grocery",
+        "address_line2": "76A, Hẻm 47 Phạm Viết Chánh, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket",
+          "internet_access",
+          "internet_access.for_customers"
+        ],
+        "details": [
+          "details",
+          "details.commercial",
+          "details.contact",
+          "details.facilities",
+          "details.payment",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cửa hàng Bách hóa Basao Grocery",
+            "shop": "supermarket",
+            "email": "basao.net@gmail.com",
+            "image": "https://www.facebook.com/photo/?fbid=198696639432332&set=a.198696636098999",
+            "phone": "0982896297",
+            "osm_id": 10777134131,
+            "organic": "only",
+            "toilets": "yes",
+            "website": "https://www.facebook.com/basao.net",
+            "operator": "Bách hóa Basao",
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "diet:meat": "yes",
+            "wikipedia": "vi:https://zalo.me/84982896297",
+            "addr:street": "Đường Phạm Viết Chánh",
+            "payment:app": "yes",
+            "payment:cash": "yes",
+            "payment:visa": "yes",
+            "addr:district": "Bình Thạnh",
+            "addr:postcode": 700000,
+            "addr:province": "Hồ Chí Minh",
+            "opening_hours": "Mo-Su 07:00-22:00",
+            "payment:cards": "yes",
+            "internet_access": "yes",
+            "addr:housenumber": "76A",
+            "addr:subdistrict": "Phường 19",
+            "air_conditioning": "yes",
+            "payment:mastercard": "yes",
+            "payment:visa_debit": "yes",
+            "internet_access:fee": "customers",
+            "payment:debit_cards": "yes",
+            "payment:credit_cards": "yes"
+          }
+        },
+        "website": "https://www.facebook.com/basao.net",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Bách hóa Basao",
+        "contact": {
+          "phone": "0982896297",
+          "email": "basao.net@gmail.com"
+        },
+        "facilities": {
+          "internet_access": true,
+          "toilets": true,
+          "air_conditioning": true
+        },
+        "wiki_and_media": {
+          "wikipedia": "vi:https://zalo.me/84982896297",
+          "image": "https://www.facebook.com/photo/?fbid=198696639432332&set=a.198696636098999"
+        },
+        "payment_options": {
+          "app": true,
+          "cash": true,
+          "visa": true,
+          "cards": true,
+          "mastercard": true,
+          "visa_debit": true,
+          "debit_cards": true,
+          "credit_cards": true
+        },
+        "commercial": {
+          "type": "supermarket",
+          "organic": true
+        },
+        "distance": 1999,
+        "place_id": "51333800d182ad5a40597ace9bc783942540f00103f90133045e820200000092032443e1bbad612068c3a06e672042c3a163682068c3b36120426173616f2047726f63657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71110939999998,
+          10.790067899484018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Nhiêu Lộc",
+        "postcode": "70150",
+        "street": "Trần Quang Diệu",
+        "lon": 106.6782189,
+        "lat": 10.7893359,
+        "formatted": "Trần Quang Diệu, 70150, Vietnam",
+        "address_line1": "Trần Quang Diệu",
+        "address_line2": "70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315685086,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2363,
+        "place_id": "51ddc13ef067ab5a405951afc3d523942540f00103f901deb4717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6782189,
+          10.789335899483975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annam Gourmet",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "postcode": "71108",
+        "street": "Nguyễn Hữu Cảnh",
+        "housenumber": "92",
+        "lon": 106.7186066,
+        "lat": 10.7891717,
+        "formatted": "Annam Gourmet, 92, Nguyễn Hữu Cảnh, 71108, Vietnam",
+        "address_line1": "Annam Gourmet",
+        "address_line2": "92, Nguyễn Hữu Cảnh, 71108, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Annam Gourmet",
+            "shop": "supermarket",
+            "osm_id": 9645043685,
+            "osm_type": "n",
+            "addr:city": "Phường 22",
+            "addr:street": "Nguyễn Hữu Cảnh",
+            "addr:district": "Binh Thanh",
+            "addr:province": "Ho Chi Minh",
+            "addr:housenumber": 92,
+            "addr:subdistrict": "Opal Tower, Shophouse SH06-07"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2640,
+        "place_id": "51256c89a6fdad5a4059bd6c20500e942540f00103f901e5afe33e0200000092030d416e6e616d20476f75726d6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7186066,
+          10.789171699483967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Nhiêu Lộc",
+        "postcode": "70150",
+        "street": "Trần Quang Diệu",
+        "lon": 106.6781504,
+        "lat": 10.7886612,
+        "formatted": "Trần Quang Diệu, 70150, Vietnam",
+        "address_line1": "Trần Quang Diệu",
+        "address_line2": "70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315685985,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2333,
+        "place_id": "513d71efd066ab5a4059b4d09666cb932540f00103f90161b8717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6781504,
+          10.788661199483933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle k",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Nhiêu Lộc",
+        "postcode": "70150",
+        "street": "Le Van Sy Road",
+        "lon": 106.6778758,
+        "lat": 10.787936,
+        "formatted": "Circle k, Le Van Sy Road, 70150, Vietnam",
+        "address_line1": "Circle k",
+        "address_line2": "Le Van Sy Road, 70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315684186,
+            "name:en": "Circle k",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Circle k"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2323,
+        "place_id": "51fcef2d5162ab5a4059aa3fea586c932540f00103f9015ab1717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67787579999998,
+          10.787935999483881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co.op Food",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Nhiêu Lộc",
+        "postcode": "70150",
+        "street": "Hẻm 209 Lê Văn Sỹ",
+        "lon": 106.6795527,
+        "lat": 10.7867494,
+        "formatted": "Co.op Food, Hẻm 209 Lê Văn Sỹ, 70150, Vietnam",
+        "address_line1": "Co.op Food",
+        "address_line2": "Hẻm 209 Lê Văn Sỹ, 70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Co.op Food",
+            "shop": "supermarket",
+            "osm_id": 5352258705,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2101,
+        "place_id": "51249a9bca7dab5a405971dc39d1d0922540f00103f90191fc043f0100000092030a436f2e6f7020466f6f64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67955269999999,
+          10.786749399483798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co.op Mart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Nhiêu Lộc",
+        "postcode": "70150",
+        "street": "Trường Sa",
+        "housenumber": "home C 3",
+        "lon": 106.6755113,
+        "lat": 10.7864217,
+        "formatted": "Co.op Mart, home C 3, Trường Sa, 70150, Vietnam",
+        "address_line1": "Co.op Mart",
+        "address_line2": "home C 3, Trường Sa, 70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Co.op Mart",
+            "shop": "supermarket",
+            "osm_id": 2176765019,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2495,
+        "place_id": "510565bf933bab5a40598f4b70dda5922540f00103f9015bccbe810000000092030a436f2e6f70204d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6755113,
+          10.78642169948378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co.opMart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Nhiêu Lộc",
+        "postcode": "70150",
+        "street": "Lê Văn Sỹ",
+        "lon": 106.6801482,
+        "lat": 10.7864111,
+        "formatted": "Co.opMart, Lê Văn Sỹ, 70150, Vietnam",
+        "address_line1": "Co.opMart",
+        "address_line2": "Lê Văn Sỹ, 70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315686487,
+            "name:en": "Co.opMart",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Co.opMart"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2026,
+        "place_id": "51bbdb508c87ab5a40590cfdc279a4922540f00103f90157ba717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6801482,
+          10.786411099483779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Nhiêu Lộc",
+        "postcode": "70150",
+        "street": "Hẻm 207 Lê Văn Sỹ",
+        "lon": 106.6802251,
+        "lat": 10.7861978,
+        "formatted": "Hẻm 207 Lê Văn Sỹ, 70150, Vietnam",
+        "address_line1": "Hẻm 207 Lê Văn Sỹ",
+        "address_line2": "70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315685096,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2008,
+        "place_id": "51c59adbce88ab5a40599ef0998488922540f00103f901e8b4717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68022509999999,
+          10.78619779948377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trung Tâm Mua Sắm Sài Gòn Square 3",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "postcode": "72200",
+        "street": "Hai Ba Trung Street",
+        "housenumber": "176-181",
+        "lon": 106.6944333,
+        "lat": 10.7858096,
+        "formatted": "Trung Tâm Mua Sắm Sài Gòn Square 3, 176-181, Hai Ba Trung Street, 72200, Vietnam",
+        "address_line1": "Trung Tâm Mua Sắm Sài Gòn Square 3",
+        "address_line2": "176-181, Hai Ba Trung Street, 72200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trung Tâm Mua Sắm Sài Gòn Square 3",
+            "shop": "supermarket",
+            "osm_id": 4131363694,
+            "osm_type": "n",
+            "addr:street": "Hai Bà Trưng",
+            "addr:housenumber": "176-181"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 836,
+        "place_id": "5137305e9871ac5a4059c054c5a255922540f00103f9016e9b3ff6000000009203275472756e672054c3a26d204d75612053e1baaf6d2053c3a0692047c3b26e205371756172652033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6944333,
+          10.785809599483741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mini Stop",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 1",
+        "suburb": "Saigon",
+        "street": "Đinh Tiên Hoàng",
+        "lon": 106.7023728,
+        "lat": 10.7856676,
+        "formatted": "Mini Stop, Đinh Tiên Hoàng, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Mini Stop",
+        "address_line2": "Đinh Tiên Hoàng, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672466,
+            "name:en": "Mini Stop",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Mini Stop"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 977,
+        "place_id": "5165660badf3ac5a40596e9e0a0643922540f00103f9019283717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70237279999999,
+          10.785667599483727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 2",
+        "suburb": "Saigon",
+        "street": "Mạc Đĩnh Chi",
+        "lon": 106.6988881,
+        "lat": 10.7852278,
+        "formatted": "Mạc Đĩnh Chi, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Mạc Đĩnh Chi",
+        "address_line2": "Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672483,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 757,
+        "place_id": "5111442795baac5a40599462cd6009922540f00103f901a383717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69888809999999,
+          10.7852277994837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Familymart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Định",
+        "postcode": "71006",
+        "suburb": "Saigon",
+        "street": "Hai Ba Trung Street",
+        "lon": 106.6957305,
+        "lat": 10.7849873,
+        "formatted": "Familymart, Hai Ba Trung Street, Saigon, 71006, Vietnam",
+        "address_line1": "Familymart",
+        "address_line2": "Hai Ba Trung Street, Saigon, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315388859,
+            "name:en": "Familymart",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Familymart"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 711,
+        "place_id": "51191538d986ac5a4059921df6dae9912540f00103f901bb2f6d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69573049999998,
+          10.784987299483678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citimart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 2",
+        "suburb": "Saigon",
+        "street": "Nguyen Thi Minh Khai",
+        "housenumber": "21-23",
+        "lon": 106.69973,
+        "lat": 10.784261,
+        "formatted": "Citimart, 21-23, Nguyen Thi Minh Khai, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Citimart",
+        "address_line2": "21-23, Nguyen Thi Minh Khai, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Citimart",
+            "shop": "supermarket",
+            "osm_id": 2948812333,
+            "name:vi": "Citi MK",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "vi": "Citi MK"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 690,
+        "place_id": "51ec815660c8ac5a4059fa9e60a88a912540f00103f9012d4ec3af00000000920308436974696d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69972999999999,
+          10.784260999483639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Familymart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "postcode": "71006",
+        "suburb": "Saigon",
+        "street": "Nguyễn Đình Chiểu",
+        "lon": 106.6942504,
+        "lat": 10.7830575,
+        "formatted": "Familymart, Nguyễn Đình Chiểu, Saigon, 71006, Vietnam",
+        "address_line1": "Familymart",
+        "address_line2": "Nguyễn Đình Chiểu, Saigon, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315687817,
+            "name:en": "Familymart",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Familymart"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 567,
+        "place_id": "5109cf3a996eac5a4059c0569ee9ec902540f00103f90189bf717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6942504,
+          10.783057499483562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 4",
+        "suburb": "Saigon",
+        "street": "Ly Tu Trong Street",
+        "housenumber": "14",
+        "lon": 106.7022284,
+        "lat": 10.782461,
+        "formatted": "14, Ly Tu Trong Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "14, Ly Tu Trong Street",
+        "address_line2": "Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672844,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 715,
+        "place_id": "51a114634ff1ac5a4059b85a66ba9e902540f00103f9010c85717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70222839999998,
+          10.782460999483519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vive Gourmet Food & Wine - The River",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường An Khánh",
+        "city": "Ho Chi Minh City",
+        "postcode": "71108",
+        "suburb": "Khu phố 3",
+        "street": "Trần Bạch Đằng",
+        "housenumber": "23",
+        "lon": 106.7191754,
+        "lat": 10.782216,
+        "formatted": "Vive Gourmet Food & Wine - The River, 23, Trần Bạch Đằng, Khu phố 3, Ho Chi Minh City, 71108, Vietnam",
+        "address_line1": "Vive Gourmet Food & Wine - The River",
+        "address_line2": "23, Trần Bạch Đằng, Khu phố 3, Ho Chi Minh City, 71108, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vive Gourmet Food & Wine - The River",
+            "shop": "supermarket",
+            "osm_id": 11612841316,
+            "osm_type": "n",
+            "addr:city": "Thành phố Hồ Chí Minh",
+            "addr:street": "Trần Bạch Đằng",
+            "addr:district": "Quận 2",
+            "addr:housenumber": 23,
+            "addr:subdistrict": "Thủ Thiêm"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2464,
+        "place_id": "519dc541f806ae5a40590c61909d7e902540f00103f90164e52db4020000009203245669766520476f75726d657420466f6f6420262057696e65202d20546865205269766572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7191754,
+          10.78221599948349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co.opmart - Nguyễn Đình Chiểu",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "city": "Ho Chi Minh City",
+        "postcode": "70001",
+        "street": "Nguyễn Đình Chiểu",
+        "housenumber": "168",
+        "lon": 106.69236522686029,
+        "lat": 10.78143915,
+        "formatted": "Co.opmart - Nguyễn Đình Chiểu, 168, Nguyễn Đình Chiểu, Ho Chi Minh City, 70001, Vietnam",
+        "address_line1": "Co.opmart - Nguyễn Đình Chiểu",
+        "address_line2": "168, Nguyễn Đình Chiểu, Ho Chi Minh City, 70001, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.supermarket",
+          "service",
+          "service.financial",
+          "service.financial.atm"
+        ],
+        "details": [
+          "details.building",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "atm": "yes",
+            "name": "Co.opmart - Nguyễn Đình Chiểu",
+            "shop": "supermarket",
+            "osm_id": 59339647,
+            "building": "yes",
+            "delivery": "yes",
+            "osm_type": "w",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Nguyễn Ðình Chiểu",
+            "building:levels": 2,
+            "addr:housenumber": 168
+          }
+        },
+        "facilities": {
+          "delivery": true
+        },
+        "building": {
+          "levels": 2
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 553,
+        "place_id": "512a903db64fac5a4059e2b0cdca18902540f00102f9017f73890300000000920323436f2e6f706d617274202d204e677579e1bb856e20c490c3ac6e6820436869e1bb8375"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69236522686029,
+          10.78143914948345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WinMart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Nhiêu Lộc",
+        "postcode": "70150",
+        "street": "Nguyễn Phúc Nguyên",
+        "lon": 106.6785971,
+        "lat": 10.7808095,
+        "formatted": "WinMart, Nguyễn Phúc Nguyên, 70150, Vietnam",
+        "address_line1": "WinMart",
+        "address_line2": "Nguyễn Phúc Nguyên, 70150, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "WinMart",
+            "shop": "supermarket",
+            "brand": "WinMart",
+            "osm_id": 7436469385,
+            "osm_type": "n",
+            "addr:street": "Nguyễn Phúc Nguyên",
+            "brand:wikidata": "Q60245505",
+            "not:brand:wikidata": "Q60245505"
+          }
+        },
+        "brand": "WinMart",
+        "brand_details": {
+          "wikidata": "Q60245505"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2019,
+        "place_id": "5144ea87226eab5a4059f15f4143c68f2540f00103f90189843fbb0100000092030757696e4d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67859709999999,
+          10.780809499483412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WinMart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 5",
+        "suburb": "Saigon",
+        "street": "Le Thanh Ton Street",
+        "housenumber": "72",
+        "lon": 106.7020738,
+        "lat": 10.7782504,
+        "formatted": "WinMart, 72, Le Thanh Ton Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "WinMart",
+        "address_line2": "72, Le Thanh Ton Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details",
+          "details.commercial",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "WinMart",
+            "shop": "supermarket",
+            "brand": "WinMart",
+            "level": -3,
+            "osm_id": 11533727958,
+            "osm_type": "n",
+            "addr:floor": "B3",
+            "check_date": "2024-01-20",
+            "addr:street": "Đường Lê Thánh Tôn",
+            "payment:cash": "yes",
+            "payment:visa": "yes",
+            "brand:wikidata": "Q60245505",
+            "addr:housenumber": 72,
+            "payment:mastercard": "yes"
+          }
+        },
+        "brand": "WinMart",
+        "brand_details": {
+          "wikidata": "Q60245505"
+        },
+        "payment_options": {
+          "cash": true,
+          "visa": true,
+          "mastercard": true
+        },
+        "commercial": {
+          "type": "supermarket",
+          "level": -3
+        },
+        "distance": 564,
+        "place_id": "513898f2c6eeac5a405943c21bd6768e2540f00103f901d6b876af0200000092030757696e4d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7020738,
+          10.778250399483232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 4",
+        "suburb": "Saigon",
+        "street": "Thi Sách",
+        "lon": 106.7055429,
+        "lat": 10.7773144,
+        "formatted": "Circle K, Thi Sách, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Circle K",
+        "address_line2": "Thi Sách, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 10807959905,
+            "name:en": "Circle K",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Circle K"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 953,
+        "place_id": "51335b689d27ad5a4059eefa2827fc8d2540f00103f9016161348402000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7055429,
+          10.77731439948317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maximart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Vườn Lài",
+        "city": "Ho Chi Minh City",
+        "postcode": "70001",
+        "street": "Đường 3 Tháng 2",
+        "lon": 106.6811112,
+        "lat": 10.7769187,
+        "formatted": "Maximart, Đường 3 Tháng 2, Ho Chi Minh City, 70001, Vietnam",
+        "address_line1": "Maximart",
+        "address_line2": "Đường 3 Tháng 2, Ho Chi Minh City, 70001, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Maximart",
+            "shop": "supermarket",
+            "osm_id": 1597982717,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1741,
+        "place_id": "511e3c6e5397ab5a4059aadcab49c88d2540f00103f901fd473f5f000000009203084d6178696d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6811112,
+          10.77691869948315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siêu Thị Online Annam Gourmet",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 5",
+        "suburb": "Saigon",
+        "street": "Hai Ba Trung Street",
+        "housenumber": "16-18",
+        "lon": 106.7050958,
+        "lat": 10.7767779,
+        "formatted": "Siêu Thị Online Annam Gourmet, 16-18, Hai Ba Trung Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Siêu Thị Online Annam Gourmet",
+        "address_line2": "16-18, Hai Ba Trung Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siêu Thị Online Annam Gourmet",
+            "shop": "supermarket",
+            "email": "haibatrung@annam-gourmet.com",
+            "phone": "08 3822 9332",
+            "osm_id": 2141010789,
+            "website": "http://www.annam-gourmet.com",
+            "osm_type": "n",
+            "addr:city": "Thành phố Hồ Chí Minh",
+            "addr:street": "Hai Bà Trưng",
+            "addr:district": "Quận 1",
+            "addr:housenumber": "16-18"
+          }
+        },
+        "website": "http://www.annam-gourmet.com",
+        "contact": {
+          "phone": "08 3822 9332",
+          "email": "haibatrung@annam-gourmet.com"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 917,
+        "place_id": "510063224a20ad5a4059401235d5b58d2540f00103f901653b9d7f000000009203205369c3aa75205468e1bb8b204f6e6c696e6520416e6e616d20476f75726d6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70509579999998,
+          10.776777899483136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WinMart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Vườn Lài",
+        "city": "Ho Chi Minh City",
+        "postcode": "72406",
+        "street": "3 Thang 2",
+        "lon": 106.68085069945982,
+        "lat": 10.7763801,
+        "formatted": "WinMart, 3 Thang 2, Ho Chi Minh City, 72406, Vietnam",
+        "address_line1": "WinMart",
+        "address_line2": "3 Thang 2, Ho Chi Minh City, 72406, Vietnam",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "WinMart",
+            "shop": "supermarket",
+            "brand": "WinMart",
+            "branch": "(Maximark) 3 tháng 2",
+            "osm_id": 509015321,
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "3 Tháng 2",
+            "addr:district": 10,
+            "brand:wikidata": "Q60245505"
+          }
+        },
+        "brand": "WinMart",
+        "brand_details": {
+          "wikidata": "Q60245505"
+        },
+        "branch": "(Maximark) 3 tháng 2",
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1741,
+        "place_id": "51e0e8cf0e93ab5a40591e1741b1818d2540f00102f90119f5561e0000000092030757696e4d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68085069945982,
+          10.776380099483102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siêu Thị Co.opmart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Hòa Hưng",
+        "postcode": "72406",
+        "street": "Cao Thang",
+        "lon": 106.6746916,
+        "lat": 10.7748338,
+        "formatted": "Co.opmart Cao Thang Supermarket, Cao Thang, 72406, Vietnam",
+        "address_line1": "Co.opmart Cao Thang Supermarket",
+        "address_line2": "Cao Thang, 72406, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siêu Thị Co.opmart",
+            "shop": "supermarket",
+            "osm_id": 9585117677,
+            "name:en": "Co.opmart Cao Thang Supermarket",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Co.opmart Cao Thang Supermarket"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2469,
+        "place_id": "51b338ad252eab5a4059da3a0904b78c2540f00103f901ed49513b020000009203155369c3aa75205468e1bb8b20436f2e6f706d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6746916,
+          10.774833799483009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "suburb": "Saigon",
+        "street": "Nam Kỳ Khởi Nghĩa",
+        "lon": 106.6997921,
+        "lat": 10.7742791,
+        "formatted": "Nam Kỳ Khởi Nghĩa, Saigon, 71009, Vietnam",
+        "address_line1": "Nam Kỳ Khởi Nghĩa",
+        "address_line2": "Saigon, 71009, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 5743013321,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 577,
+        "place_id": "51f2dfcd64c9ac5a4059e982644f6e8c2540f00103f901c96d4f5601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6997921,
+          10.77427909948297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 8",
+        "suburb": "Saigon",
+        "street": "Nguyen Hue Boulevard",
+        "housenumber": "22-36",
+        "lon": 106.704673,
+        "lat": 10.7737618,
+        "formatted": "22-36, Nguyen Hue Boulevard, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "22-36, Nguyen Hue Boulevard",
+        "address_line2": "Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 1770597640,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1005,
+        "place_id": "51f257c85c19ad5a4059ba58af812a8c2540f00103f901082d896900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70467299999999,
+          10.77376179948293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Street Food Market",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "district": "Khu phố 8",
+        "street": "Hẻm 24 Thủ Khoa Huân",
+        "lon": 106.6975615,
+        "lat": 10.7736896,
+        "formatted": "Street Food Market, Hẻm 24 Thủ Khoa Huân, Khu phố 8, 71009, Vietnam",
+        "address_line1": "Street Food Market",
+        "address_line2": "Hẻm 24 Thủ Khoa Huân, Khu phố 8, 71009, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Street Food Market",
+            "shop": "supermarket",
+            "osm_id": 3928108846,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 555,
+        "place_id": "51b75cfdd8a4ac5a4059ac110e0b218c2540f00103f9012e2f22ea0000000092031253747265657420466f6f64204d61726b6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69756149999999,
+          10.773689599482928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FamilyMart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bàn Cờ",
+        "postcode": "72406",
+        "street": "Nguyễn Đình Chiểu",
+        "lon": 106.6849919,
+        "lat": 10.7732994,
+        "formatted": "FamilyMart, Nguyễn Đình Chiểu, 72406, Vietnam",
+        "address_line1": "FamilyMart",
+        "address_line2": "Nguyễn Đình Chiểu, 72406, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315676093,
+            "name:en": "FamilyMart",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "FamilyMart"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1435,
+        "place_id": "51982144e8d6ab5a40594e971de6ed8b2540f00103f901bd91717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6849919,
+          10.773299399482905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thực Phẩm Hữu Cơ An Toàn - Nam An",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71006",
+        "suburb": "Saigon",
+        "street": "Le Loi Boulevard",
+        "housenumber": "65",
+        "lon": 106.7007584,
+        "lat": 10.7731189,
+        "formatted": "Annam Gourmet Market (underground Takashimaya), 65, Le Loi Boulevard, Saigon, 71006, Vietnam",
+        "address_line1": "Annam Gourmet Market (underground Takashimaya)",
+        "address_line2": "65, Le Loi Boulevard, Saigon, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thực Phẩm Hữu Cơ An Toàn - Nam An",
+            "shop": "supermarket",
+            "osm_id": 6157860892,
+            "name:en": "Annam Gourmet Market (underground Takashimaya)",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Annam Gourmet Market (underground Takashimaya)"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 743,
+        "place_id": "516c99c239d9ac5a4059a6658a3dd68b2540f00103f9011c80096f010000009203295468e1bbb163205068e1baa96d2048e1bbaf752043c6a120416e20546fc3a06e202d204e616d20416e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70075839999998,
+          10.773118899482892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TD Central Hotel",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "district": "Khu phố 5",
+        "street": "Ly Tu Trong Street",
+        "lon": 106.6950674,
+        "lat": 10.7724614,
+        "formatted": "TD Central Hotel, Ly Tu Trong Street, Khu phố 5, 71009, Vietnam",
+        "address_line1": "TD Central Hotel",
+        "address_line2": "Ly Tu Trong Street, Khu phố 5, 71009, Vietnam",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6318125514,
+            "name:en": "TD Central Hotel",
+            "tourism": "hotel",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "TD Central Hotel"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 716,
+        "place_id": "5102e1f9fb7bac5a40590767800f808b2540f00103f901caf1967801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6950674,
+          10.772461399482848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "district": "Khu phố 6",
+        "street": "Le Thanh Ton Street",
+        "lon": 106.6963242,
+        "lat": 10.7723341,
+        "formatted": "Le Thanh Ton Street, Khu phố 6, 71009, Vietnam",
+        "address_line1": "Le Thanh Ton Street",
+        "address_line2": "Khu phố 6, 71009, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6353660885,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 704,
+        "place_id": "51749a609390ac5a405992ba05606f8b2540f00103f901d52bb57a01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69632419999999,
+          10.772334099482837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "frutas",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "district": "Khu phố 6",
+        "street": "Le Thanh Ton Street",
+        "lon": 106.6961872,
+        "lat": 10.7722701,
+        "formatted": "frutas, Le Thanh Ton Street, Khu phố 6, 71009, Vietnam",
+        "address_line1": "frutas",
+        "address_line2": "Le Thanh Ton Street, Khu phố 6, 71009, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 5559637423,
+            "name:en": "frutas",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "frutas"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 712,
+        "place_id": "5133f9c1548eac5a405930ea89fc668b2540f00103f901af55614b01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69618719999998,
+          10.772270099482824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thi's Market",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 7",
+        "suburb": "Saigon",
+        "street": "Ho Tung Mau Street",
+        "housenumber": "61",
+        "lon": 106.7041195,
+        "lat": 10.7717991,
+        "formatted": "Thi's Market, 61, Ho Tung Mau Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Thi's Market",
+        "address_line2": "61, Ho Tung Mau Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Thi's Market",
+            "shop": "supermarket",
+            "osm_id": 4875563424,
+            "osm_type": "n",
+            "addr:street": "Hồ Tùng Mậu",
+            "addr:housenumber": 61
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1093,
+        "place_id": "51753e3c4b10ad5a4059c2b86640298b2540f00103f901a0319b220100000092030c5468692773204d61726b6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7041195,
+          10.771799099482795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siêu Thị Aeon Citimart Cao Thắng",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bàn Cờ",
+        "postcode": "72406",
+        "street": "Cao Thang St.",
+        "lon": 106.6807503,
+        "lat": 10.7716235,
+        "formatted": "Siêu Thị Aeon Citimart Cao Thắng, Cao Thang St., 72406, Vietnam",
+        "address_line1": "Siêu Thị Aeon Citimart Cao Thắng",
+        "address_line2": "Cao Thang St., 72406, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siêu Thị Aeon Citimart Cao Thắng",
+            "shop": "supermarket",
+            "osm_id": 9584911957,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1934,
+        "place_id": "517fcfb46991ab5a405912353e3c128b2540f00103f90155264e3b020000009203255369c3aa75205468e1bb8b2041656f6e20436974696d6172742043616f205468e1baaf6e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68075029999999,
+          10.77162349948279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satra Foods",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "70200",
+        "district": "Khu phố 4",
+        "street": "Cach Mang Thang 8",
+        "lon": 106.6929293,
+        "lat": 10.7715103,
+        "formatted": "Satra Foods, Cach Mang Thang 8, Khu phố 4, 70200, Vietnam",
+        "address_line1": "Satra Foods",
+        "address_line2": "Cach Mang Thang 8, Khu phố 4, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6442018087,
+            "name:en": "Satra Foods",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Satra Foods"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 905,
+        "place_id": "512b7c22f458ac5a4059859ce165038b2540f00103f9012765f97f01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69292929999999,
+          10.77151029948278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71010",
+        "district": "Khu phố 1",
+        "suburb": "Saigon",
+        "street": "Ham Nghi Boulevard",
+        "lon": 106.7036914,
+        "lat": 10.7706222,
+        "formatted": "Ham Nghi Boulevard, Saigon, Ho Chi Minh City, 71010, Vietnam",
+        "address_line1": "Ham Nghi Boulevard",
+        "address_line2": "Saigon, Ho Chi Minh City, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315685295,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1157,
+        "place_id": "517d5ea74709ad5a405921b330fe8e8a2540f00103f901afb5717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70369139999998,
+          10.770622199482718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Busy Morning Market",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bàn Cờ",
+        "postcode": "72406",
+        "street": "Hẻm 242 Nguyễn Thiện Thuật",
+        "lon": 106.6793367,
+        "lat": 10.7706211,
+        "formatted": "Busy Morning Market, Hẻm 242 Nguyễn Thiện Thuật, 72406, Vietnam",
+        "address_line1": "Busy Morning Market",
+        "address_line2": "Hẻm 242 Nguyễn Thiện Thuật, 72406, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 10879939105,
+            "name:en": "Busy Morning Market",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Busy Morning Market"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2120,
+        "place_id": "513d5ea3407aab5a405993c547d98e8a2540f00103f90121b27e8802000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67933669999998,
+          10.77062109948273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle k",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bàn Cờ",
+        "postcode": "72406",
+        "street": "Cao Thang",
+        "lon": 106.6820527,
+        "lat": 10.7700652,
+        "formatted": "Circle k, Cao Thang, 72406, Vietnam",
+        "address_line1": "Circle k",
+        "address_line2": "Cao Thang, 72406, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672862,
+            "name:en": "Circle k",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Circle k"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1885,
+        "place_id": "5181295ec0a6ab5a4059bb215ffc458a2540f00103f9011e85717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6820527,
+          10.770065199482692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "70200",
+        "district": "Khu phố 4",
+        "street": "Nguyen Van Trang Street",
+        "lon": 106.6923622,
+        "lat": 10.7699632,
+        "formatted": "Circle K, Nguyen Van Trang Street, Khu phố 4, 70200, Vietnam",
+        "address_line1": "Circle K",
+        "address_line2": "Nguyen Van Trang Street, Khu phố 4, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Circle K",
+            "shop": "supermarket",
+            "osm_id": 6315686506,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1085,
+        "place_id": "51247f8ba94fac5a4059a5cdd19d388a2540f00103f9016aba717801000000920308436972636c65204b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69236219999999,
+          10.769963199482683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supermarkt",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "70200",
+        "district": "Khu phố 4",
+        "street": "Nguyen Van Trang Street",
+        "lon": 106.6925181,
+        "lat": 10.7699236,
+        "formatted": "Supermarkt, Nguyen Van Trang Street, Khu phố 4, 70200, Vietnam",
+        "address_line1": "Supermarkt",
+        "address_line2": "Nguyen Van Trang Street, Khu phố 4, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 4583470690,
+            "name:de": "Supermarkt",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Supermarkt"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1081,
+        "place_id": "51d6d86f3752ac5a4059b164106d338a2540f00103f9016236321101000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6925181,
+          10.769923599482668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 9",
+        "street": "Tran Hung Dao Street",
+        "lon": 106.6970016,
+        "lat": 10.7695785,
+        "formatted": "Tran Hung Dao Street, Khu phố 9, 71010, Vietnam",
+        "address_line1": "Tran Hung Dao Street",
+        "address_line2": "Khu phố 9, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6284329388,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1005,
+        "place_id": "519d5099ac9bac5a40592cf76d31068a2540f00103f901ac41937601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69700159999998,
+          10.769578499482655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trung Tâm Thương Mại Sense Market",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "70200",
+        "district": "Khu phố 4",
+        "street": "Le Lai Street",
+        "lon": 106.6933366,
+        "lat": 10.7692667,
+        "formatted": "Sense Market, Le Lai Street, Khu phố 4, 70200, Vietnam",
+        "address_line1": "Sense Market",
+        "address_line2": "Le Lai Street, Khu phố 4, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Trung Tâm Thương Mại Sense Market",
+            "shop": "supermarket",
+            "osm_id": 4805126021,
+            "name:en": "Sense Market",
+            "name:ja": "センス・マーケット",
+            "osm_type": "n",
+            "opening_hours": "Mo-Su 10:00-22:30"
+          }
+        },
+        "opening_hours": "Mo-Su 10:00-22:30",
+        "name_international": {
+          "en": "Sense Market",
+          "ja": "センス・マーケット"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1112,
+        "place_id": "51ab8779a05fac5a4059075c2853dd892540f00103f9018567681e010000009203265472756e672054c3a26d205468c6b0c6a16e67204de1baa1692053656e7365204d61726b6574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6933366,
+          10.769266699482626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minimart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 4",
+        "street": "Nguyen Thai Binh Street",
+        "lon": 106.6992892,
+        "lat": 10.7687743,
+        "formatted": "Minimart, Nguyen Thai Binh Street, Khu phố 4, 71010, Vietnam",
+        "address_line1": "Minimart",
+        "address_line2": "Nguyen Thai Binh Street, Khu phố 4, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6319103228,
+            "name:en": "Minimart",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Minimart"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1124,
+        "place_id": "518a1c7d27c1ac5a4059ee90f4c89c892540f00103f901fcdca57801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69928919999998,
+          10.768774299482597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foodco Mart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 9",
+        "street": "Yersin Street",
+        "lon": 106.6967533,
+        "lat": 10.7686806,
+        "formatted": "Foodco Mart, Yersin Street, Khu phố 9, 71010, Vietnam",
+        "address_line1": "Foodco Mart",
+        "address_line2": "Yersin Street, Khu phố 9, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672795,
+            "name:en": "Foodco Mart",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Foodco Mart"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1105,
+        "place_id": "515238279b97ac5a4059e4b1e78090892540f00103f901db84717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69675329999998,
+          10.7686805994826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B's Mart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 4",
+        "street": "Alley 84 Nguyen Thai Binh",
+        "lon": 106.6989439,
+        "lat": 10.7686252,
+        "formatted": "B's Mart, Alley 84 Nguyen Thai Binh, Khu phố 4, 71010, Vietnam",
+        "address_line1": "B's Mart",
+        "address_line2": "Alley 84 Nguyen Thai Binh, Khu phố 4, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315673300,
+            "name:en": "B's Mart",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "B's Mart"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1132,
+        "place_id": "51460f327fbbac5a40597f51fd3d89892540f00103f901d486717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69894389999999,
+          10.768625199482583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "116 Culture Luxury",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "70000",
+        "district": "Khu phố 8",
+        "street": "Nguyen Thai Binh Street",
+        "housenumber": "116",
+        "lon": 106.6986624,
+        "lat": 10.7684748,
+        "formatted": "116 Culture Luxury, 116, Nguyen Thai Binh Street, Khu phố 8, 70000, Vietnam",
+        "address_line1": "116 Culture Luxury",
+        "address_line2": "116, Nguyen Thai Binh Street, Khu phố 8, 70000, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "116 Culture Luxury",
+            "shop": "supermarket",
+            "phone": "0911 618 116",
+            "osm_id": 11124634717,
+            "osm_type": "n",
+            "addr:city": "TP. Hồ Chí Minh",
+            "addr:street": "Nguyễn Thái Bình",
+            "addr:district": "District 1",
+            "addr:postcode": 70000,
+            "opening_hours": "Mo-Su 09:00-22:00",
+            "addr:housenumber": 116,
+            "addr:subdistrict": "Phường Nguyễn Thái Bình"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "contact": {
+          "phone": "0911 618 116"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1143,
+        "place_id": "5179bc7fe2b6ac5a4059dd27678775892540f00103f9015d741497020000009203123131362043756c74757265204c7578757279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6986624,
+          10.768474799482584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grove Fresh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "72406",
+        "street": "Cống Quỳnh",
+        "housenumber": "227",
+        "lon": 106.6845432,
+        "lat": 10.7680881,
+        "formatted": "Grove Fresh, 227, Cống Quỳnh, 72406, Vietnam",
+        "address_line1": "Grove Fresh",
+        "address_line2": "227, Cống Quỳnh, 72406, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Grove Fresh",
+            "shop": "supermarket",
+            "osm_id": 9921298480,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1790,
+        "place_id": "51c02c488ecfab5a4059dd72e7d742892540f00103f90130005b4f0200000092030b47726f7665204672657368"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68454320000001,
+          10.768088099482549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mini stop",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 8",
+        "street": "Nguyen Thai Binh Street",
+        "lon": 106.6984934,
+        "lat": 10.7680533,
+        "formatted": "Mini stop, Nguyen Thai Binh Street, Khu phố 8, 71010, Vietnam",
+        "address_line1": "Mini stop",
+        "address_line2": "Nguyen Thai Binh Street, Khu phố 8, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mini stop",
+            "shop": "supermarket",
+            "osm_id": 12546141701,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1186,
+        "place_id": "51335ea91db4ac5a405990b935483e892540f00103f90105eeceeb020000009203094d696e692073746f70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6984934,
+          10.768053299482546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 8",
+        "street": "Nguyen Thai Binh Street",
+        "lon": 106.698549,
+        "lat": 10.7680302,
+        "formatted": "Nguyen Thai Binh Street, Khu phố 8, 71010, Vietnam",
+        "address_line1": "Nguyen Thai Binh Street",
+        "address_line2": "Khu phố 8, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672886,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1190,
+        "place_id": "51d369dd06b5ac5a4059633c1a413b892540f00103f9013685717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.698549,
+          10.768030199482558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shop & go",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 5",
+        "street": "Nguyen Cong Tru Street",
+        "lon": 106.7001231,
+        "lat": 10.7676268,
+        "formatted": "Shop & go, Nguyen Cong Tru Street, Khu phố 5, 71010, Vietnam",
+        "address_line1": "Shop & go",
+        "address_line2": "Nguyen Cong Tru Street, Khu phố 5, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6318163392,
+            "name:en": "Shop & go",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Shop & go"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1270,
+        "place_id": "51256b1ed1ceac5a4059079f3e6106892540f00103f901c085977801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7001231,
+          10.767626799482526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle k",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 9",
+        "street": "Tran Hung Dao Street",
+        "lon": 106.6947722,
+        "lat": 10.7675893,
+        "formatted": "Circle k, Tran Hung Dao Street, Khu phố 9, 71010, Vietnam",
+        "address_line1": "Circle k",
+        "address_line2": "Tran Hung Dao Street, Khu phố 9, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315686999,
+            "name:en": "Circle k",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Circle k"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1248,
+        "place_id": "51e04ad12577ac5a4059ed12f47601892540f00103f90157bc717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69477219999999,
+          10.767589299482518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "71010",
+        "street": "Hẻm 135 Trần Hưng Ðạo",
+        "lon": 106.6948322,
+        "lat": 10.767144,
+        "formatted": "Hẻm 135 Trần Hưng Ðạo, 71010, Vietnam",
+        "address_line1": "Hẻm 135 Trần Hưng Ðạo",
+        "address_line2": "71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6054062365,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1295,
+        "place_id": "514bcd792178ac5a405926332a19c7882540f00103f9011da9d96801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6948322,
+          10.767143999482482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co.op Mart Cống Quỳnh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Cong Quynh Street",
+        "lon": 106.68620307429455,
+        "lat": 10.7671357,
+        "formatted": "Co.op Mart Cống Quỳnh, Cong Quynh Street, 70200, Vietnam",
+        "address_line1": "Co.op Mart Cống Quỳnh",
+        "address_line2": "Cong Quynh Street, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Co.op Mart Cống Quỳnh",
+            "shop": "supermarket",
+            "osm_id": 152994798,
+            "osm_type": "w",
+            "check_date": "2023-11-08",
+            "addr:street": "Cống Quỳnh"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1693,
+        "place_id": "51a0a04cc0eaab5a405924bea902c6882540f00102f901ee831e0900000000920319436f2e6f70204d6172742043e1bb916e67205175e1bbb36e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68620307429455,
+          10.767135699482488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siêu Thị C&C",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "district": "Khu phố 3",
+        "street": "Cong Quynh Street",
+        "lon": 106.6877461,
+        "lat": 10.7666709,
+        "formatted": "Siêu Thị C&C, Cong Quynh Street, Khu phố 3, 70200, Vietnam",
+        "address_line1": "Siêu Thị C&C",
+        "address_line2": "Cong Quynh Street, Khu phố 3, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siêu Thị C&C",
+            "shop": "supermarket",
+            "osm_id": 3899274115,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1664,
+        "place_id": "51e5dc370804ac5a4059e524901689882540f00103f90183336ae80000000092030f5369c3aa75205468e1bb8b20432643"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68774609999998,
+          10.766670899482458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "71010",
+        "street": "Nguyen Thai Hoc Boulevard",
+        "lon": 106.6962326,
+        "lat": 10.766391,
+        "formatted": "Circle K, Nguyen Thai Hoc Boulevard, 71010, Vietnam",
+        "address_line1": "Circle K",
+        "address_line2": "Nguyen Thai Hoc Boulevard, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315388826,
+            "name:en": "Circle K",
+            "osm_type": "n",
+            "addr:street": "Đường Nguyễn Thái Học"
+          }
+        },
+        "name_international": {
+          "en": "Circle K"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1360,
+        "place_id": "512dda2d138fac5a4059a273ad6664882540f00103f9019a2f6d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69623259999999,
+          10.766390999482443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Nguyen Trai Street",
+        "lon": 106.6879571,
+        "lat": 10.7661781,
+        "formatted": "Circle K, Nguyen Trai Street, 70200, Vietnam",
+        "address_line1": "Circle K",
+        "address_line2": "Nguyen Trai Street, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315388865,
+            "name:en": "Circle K",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Circle K"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1695,
+        "place_id": "514463377d07ac5a40597d60f07e48882540f00103f901c12f6d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6879571,
+          10.766178099482426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "70200",
+        "district": "Khu phố 3",
+        "street": "Bui Vien Street",
+        "lon": 106.6907638,
+        "lat": 10.7658114,
+        "formatted": "Circle K, Bui Vien Street, Khu phố 3, 70200, Vietnam",
+        "address_line1": "Circle K",
+        "address_line2": "Bui Vien Street, Khu phố 3, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315395287,
+            "name:en": "Circle K",
+            "osm_type": "n",
+            "addr:street": "Đường Bùi Viện"
+          }
+        },
+        "name_international": {
+          "en": "Circle K"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1574,
+        "place_id": "51ae905e7935ac5a4059a25c876e18882540f00103f901d7486d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69076379999998,
+          10.765811399482406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "71010",
+        "street": "Nguyen Thai Hoc Boulevard",
+        "lon": 106.6965487,
+        "lat": 10.7658092,
+        "formatted": "Nguyen Thai Hoc Boulevard, 71010, Vietnam",
+        "address_line1": "Nguyen Thai Hoc Boulevard",
+        "address_line2": "71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315388828,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1423,
+        "place_id": "5190a4ff4094ac5a40597781b52418882540f00103f9019c2f6d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6965487,
+          10.765809199482403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FamilyMart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Cong Quynh Street",
+        "lon": 106.6897877,
+        "lat": 10.7656939,
+        "formatted": "FamilyMart, Cong Quynh Street, 70200, Vietnam",
+        "address_line1": "FamilyMart",
+        "address_line2": "Cong Quynh Street, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315685294,
+            "name:en": "FamilyMart",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "FamilyMart"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1634,
+        "place_id": "51b72b4f7b25ac5a4059100ce20709882540f00103f901aeb5717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6897877,
+          10.765693899482386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "71010",
+        "street": "De Tham Street",
+        "lon": 106.6947703,
+        "lat": 10.7656009,
+        "formatted": "De Tham Street, 71010, Vietnam",
+        "address_line1": "De Tham Street",
+        "address_line2": "71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 11433411769,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1464,
+        "place_id": "51da2ed91d77ac5a40594d2152d7fc872540f00103f901b9047ca902000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69477029999999,
+          10.765600899482388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siêu thị phượt",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "city": "Ho Chi Minh City",
+        "postcode": "70200",
+        "district": "Khu phố 3",
+        "street": "Hẻm 120 Trần Hưng Đạo",
+        "housenumber": "120/3",
+        "lon": 106.6924438,
+        "lat": 10.7655607,
+        "formatted": "Siêu thị phượt, 120/3, Hẻm 120 Trần Hưng Đạo, Ho Chi Minh City, 70200, Vietnam",
+        "address_line1": "Siêu thị phượt",
+        "address_line2": "120/3, Hẻm 120 Trần Hưng Đạo, Ho Chi Minh City, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siêu thị phượt",
+            "shop": "supermarket",
+            "osm_id": 5773200656,
+            "website": "http://sieuthiphuot.com/",
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Hẻm 120 Trần Hưng Đạo",
+            "payment:cash": "yes",
+            "addr:district": "Quận 1",
+            "addr:postcode": 700000,
+            "opening_hours": "Mo-Su 09:00-21:00",
+            "addr:housenumber": "120/3",
+            "addr:subdistrict": "phường phạm ngũ lão"
+          }
+        },
+        "website": "http://sieuthiphuot.com/",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "payment_options": {
+          "cash": true
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1531,
+        "place_id": "515ad4ccff50ac5a40596dc26e92f7872540f00103f901100d1c58010000009203145369c3aa75207468e1bb8b207068c6b0e1bba374"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6924438,
+          10.765560699482387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Focomart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xóm Chiếu",
+        "postcode": "72806",
+        "street": "Le Quoc Hung Street",
+        "lon": 106.7028692,
+        "lat": 10.7652697,
+        "formatted": "Focomart, Le Quoc Hung Street, 72806, Vietnam",
+        "address_line1": "Focomart",
+        "address_line2": "Le Quoc Hung Street, 72806, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Focomart",
+            "shop": "supermarket",
+            "osm_id": 947763519,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1618,
+        "place_id": "5166d718cffbac5a405905cb176ed1872540f00103f9013fb97d3800000000920308466f636f6d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70286919999998,
+          10.765269699482369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Hẻm 245 Nguyễn Trãi",
+        "lon": 106.6875678,
+        "lat": 10.764657,
+        "formatted": "Circle K, Hẻm 245 Nguyễn Trãi, 70200, Vietnam",
+        "address_line1": "Circle K",
+        "address_line2": "Hẻm 245 Nguyễn Trãi, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315388868,
+            "name:en": "Circle K",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Circle K"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1858,
+        "place_id": "5116b25f1c01ac5a405942de4a1f81872540f00103f901c42f6d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68756779999998,
+          10.76465699948233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "71010",
+        "street": "Co Giang Street",
+        "lon": 106.6967021,
+        "lat": 10.7645863,
+        "formatted": "Co Giang Street, 71010, Vietnam",
+        "address_line1": "Co Giang Street",
+        "address_line2": "71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6319103178,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1558,
+        "place_id": "517da367c496ac5a4059137efeda77872540f00103f901cadca57801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6967021,
+          10.764586299482323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "71010",
+        "street": "Nguyen Thai Hoc Boulevard",
+        "lon": 106.6972327,
+        "lat": 10.7645562,
+        "formatted": "Nguyen Thai Hoc Boulevard, 71010, Vietnam",
+        "address_line1": "Nguyen Thai Hoc Boulevard",
+        "address_line2": "71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6319111397,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1561,
+        "place_id": "51e90ce7759fac5a4059147601e973872540f00103f901e5fca57801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69723269999999,
+          10.764556199482321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "70200",
+        "street": "Cong Quynh Street",
+        "lon": 106.6906971,
+        "lat": 10.7644991,
+        "formatted": "Cong Quynh Street, 70200, Vietnam",
+        "address_line1": "Cong Quynh Street",
+        "address_line2": "70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315390447,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1709,
+        "place_id": "5149fc9b6134ac5a40592b320c6d6c872540f00103f901ef356d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69069709999998,
+          10.764499099482313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sạp Khô Hải Phựợng",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 7",
+        "street": "Nguyen Thai Hoc Boulevard",
+        "lon": 106.6978262,
+        "lat": 10.7642836,
+        "formatted": "Sạp Khô Hải Phựợng, Nguyen Thai Hoc Boulevard, Khu phố 7, 71010, Vietnam",
+        "address_line1": "Sạp Khô Hải Phựợng",
+        "address_line2": "Nguyen Thai Hoc Boulevard, Khu phố 7, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sạp Khô Hải Phựợng",
+            "shop": "supermarket",
+            "osm_id": 5382455323,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1594,
+        "place_id": "51afd2382fa9ac5a4059924a112e50872540f00103f9011bc0d1400100000092031b53e1baa170204b68c3b42048e1baa369205068e1bbb1e1bba36e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6978262,
+          10.764283599482301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "C&C",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Cong Quynh Street",
+        "lon": 106.6903151,
+        "lat": 10.7637656,
+        "formatted": "C&C, Cong Quynh Street, 70200, Vietnam",
+        "address_line1": "C&C",
+        "address_line2": "Cong Quynh Street, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315390444,
+            "name:en": "C&C",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "C&C"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1800,
+        "place_id": "51d89b621f2eac5a4059242cdf480c872540f00103f901ec356d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69031510000002,
+          10.763765599482277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satra Foods",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xóm Chiếu",
+        "postcode": "72806",
+        "street": "Nguyen Tat Thanh Road",
+        "lon": 106.7080325,
+        "lat": 10.7634465,
+        "formatted": "Satra Foods, Nguyen Tat Thanh Road, 72806, Vietnam",
+        "address_line1": "Satra Foods",
+        "address_line2": "Nguyen Tat Thanh Road, 72806, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Satra Foods",
+            "shop": "supermarket",
+            "osm_id": 6783472668,
+            "osm_type": "n",
+            "addr:street": "Nguyễn Tất Thành",
+            "addr:housename": 107
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2076,
+        "place_id": "5153008c6750ad5a4059360ba775e2862540f00103f9011c9453940100000092030b536174726120466f6f6473"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70803249999999,
+          10.763446499482239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "71010",
+        "street": "De Tham Street",
+        "lon": 106.6957358,
+        "lat": 10.7634408,
+        "formatted": "De Tham Street, 71010, Vietnam",
+        "address_line1": "De Tham Street",
+        "address_line2": "71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672391,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1689,
+        "place_id": "5101ea72ef86ac5a4059ac6a64b6e1862540f00103f9014783717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69573579999998,
+          10.763440799482247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Circle K",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Tran Dinh Xu Street",
+        "lon": 106.6878402,
+        "lat": 10.7627701,
+        "formatted": "Circle K, Tran Dinh Xu Street, 70200, Vietnam",
+        "address_line1": "Circle K",
+        "address_line2": "Tran Dinh Xu Street, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6284408685,
+            "name:en": "Circle K",
+            "osm_type": "n",
+            "addr:street": "Đường Trần Ðình Xu"
+          }
+        },
+        "name_international": {
+          "en": "Circle K"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2020,
+        "place_id": "51f0f7e69205ac5a40590f496fcd89862540f00103f9016d77947601000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68784019999998,
+          10.762770099482195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngoc hue",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Hẻm 42 Hồ Hảo Hớn",
+        "lon": 106.6927709,
+        "lat": 10.762326,
+        "formatted": "Ngoc hue, Hẻm 42 Hồ Hảo Hớn, 70200, Vietnam",
+        "address_line1": "Ngoc hue",
+        "address_line2": "Hẻm 42 Hồ Hảo Hớn, 70200, Vietnam",
+        "categories": [
+          "accommodation",
+          "accommodation.hotel",
+          "catering",
+          "catering.restaurant",
+          "commercial",
+          "commercial.supermarket",
+          "internet_access"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 5316003321,
+            "amenity": "restaurant",
+            "cuisine": "burger;sandwich;international;tea;seafood;coffee_shop;asian;pasta;noodles;pancake;pizza;vietnamese",
+            "name:en": "Ngoc hue",
+            "tourism": "hotel",
+            "osm_type": "n",
+            "internet_access": "wlan"
+          }
+        },
+        "name_international": {
+          "en": "Ngoc hue"
+        },
+        "facilities": {
+          "internet_access": true
+        },
+        "catering": {
+          "cuisine": "burger;sandwich;international;tea;seafood;coffee_shop;asian;pasta;noodles;pancake;pizza;vietnamese"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 1864,
+        "place_id": "51b5c7c15b56ac5a40593755e9974f862540f00103f901f9c5db3c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69277089999999,
+          10.76232599948217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mini Stop",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Tran Dinh Xu Street",
+        "lon": 106.6891263,
+        "lat": 10.7621024,
+        "formatted": "Mini Stop, Tran Dinh Xu Street, 70200, Vietnam",
+        "address_line1": "Mini Stop",
+        "address_line2": "Tran Dinh Xu Street, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315388877,
+            "name:en": "Mini Stop",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Mini Stop"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2021,
+        "place_id": "51105432a51aac5a40593df5234932862540f00103f901cd2f6d7801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6891263,
+          10.762102399482155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siêu Thị Tiện Lợi US",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Tran Hung Dao Street",
+        "housenumber": "329",
+        "lon": 106.6901287,
+        "lat": 10.7618357,
+        "formatted": "US.Mart, 329, Tran Hung Dao Street, 70200, Vietnam",
+        "address_line1": "US.Mart",
+        "address_line2": "329, Tran Hung Dao Street, 70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Siêu Thị Tiện Lợi US",
+            "shop": "supermarket",
+            "phone": "02838385455",
+            "osm_id": 4882823421,
+            "name:en": "US.Mart",
+            "osm_type": "n",
+            "addr:street": "Đường Trần Hưng Ðạo",
+            "addr:housenumber": 329
+          }
+        },
+        "name_international": {
+          "en": "US.Mart"
+        },
+        "contact": {
+          "phone": "02838385455"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2005,
+        "place_id": "51fc2191112bac5a4059f1662c540f862540f00103f901fdf809230100000092031b5369c3aa75205468e1bb8b205469e1bb876e204ce1bba369205553"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6901287,
+          10.761835699482136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Familymart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "71010",
+        "street": "Đường Võ Văn Kiệt",
+        "lon": 106.6960949,
+        "lat": 10.7617773,
+        "formatted": "Familymart, Đường Võ Văn Kiệt, 71010, Vietnam",
+        "address_line1": "Familymart",
+        "address_line2": "Đường Võ Văn Kiệt, 71010, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.commercial",
+          "details.facilities",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Familymart",
+            "shop": "supermarket",
+            "level": 0,
+            "osm_id": 6315686293,
+            "name:en": "Familymart",
+            "osm_type": "n",
+            "check_date": "2023-12-31",
+            "wheelchair": "yes",
+            "payment:cash": "yes",
+            "payment:visa": "yes",
+            "payment:mastercard": "yes"
+          }
+        },
+        "name_international": {
+          "en": "Familymart"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "payment_options": {
+          "cash": true,
+          "visa": true,
+          "mastercard": true
+        },
+        "commercial": {
+          "type": "supermarket",
+          "level": 0
+        },
+        "distance": 1870,
+        "place_id": "51659a9fd18cac5a4059cf3898ac07862540f00103f90195b971780100000092030a46616d696c796d617274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6960949,
+          10.761777299482132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auchan",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Chợ Quán",
+        "postcode": "72760",
+        "street": "Đường Trần Bình Trọng",
+        "lon": 106.6796484,
+        "lat": 10.7615152,
+        "formatted": "Auchan, Đường Trần Bình Trọng, 72760, Vietnam",
+        "address_line1": "Auchan",
+        "address_line2": "Đường Trần Bình Trọng, 72760, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 4661759792,
+            "name:en": "Auchan",
+            "name:ru": "Ашан",
+            "osm_type": "n",
+            "addr:street": "Đường Trần Bình Trọng"
+          }
+        },
+        "name_international": {
+          "en": "Auchan",
+          "ru": "Ашан"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2678,
+        "place_id": "51d7b1005c7fab5a40597e5dfa51e5852540f00103f90130cfdc1501000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6796484,
+          10.761515199482115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phụ kiện trang trí sinh nhật Ellie Party",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Khánh Hội",
+        "city": "Ho Chi Minh City",
+        "postcode": "72806",
+        "street": "Nguyen Huu Hao Street",
+        "housenumber": "Ke Q34 Hoàng Diệu, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam",
+        "lon": 106.7012374,
+        "lat": 10.7608529,
+        "formatted": "Phụ kiện trang trí sinh nhật Ellie Party, Ke Q34 Hoàng Diệu, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam, Nguyen Huu Hao Street, Ho Chi Minh City, 72806, Vietnam",
+        "address_line1": "Phụ kiện trang trí sinh nhật Ellie Party",
+        "address_line2": "Ke Q34 Hoàng Diệu, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam, Nguyen Huu Hao Street, Ho Chi Minh City, 72806, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Phụ kiện trang trí sinh nhật Ellie Party",
+            "shop": "supermarket",
+            "osm_id": 6340130547,
+            "operator": "https://www.facebook.com/phukientrangtriellieparty/",
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Ke Q34 Hoàng Diệu, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam",
+            "addr:district": 4,
+            "addr:postcode": 700000,
+            "opening_hours": "Mo-Su 07:00-22:00",
+            "addr:housenumber": "Ke Q34 Hoàng Diệu, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam",
+            "addr:subdistrict": 6
+          }
+        },
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "https://www.facebook.com/phukientrangtriellieparty/",
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2026,
+        "place_id": "51daeed412e1ac5a405940afe0828e852540f00103f901f3b6e6790100000092032f5068e1bba5206b69e1bb876e207472616e67207472c3ad2073696e68206e68e1baad7420456c6c6965205061727479"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7012374,
+          10.760852899482074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Ho Hao Hon Street",
+        "lon": 106.6929757,
+        "lat": 10.760632,
+        "formatted": "Ho Hao Hon Street, 70200, Vietnam",
+        "address_line1": "Ho Hao Hon Street",
+        "address_line2": "70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315686994,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2041,
+        "place_id": "510e1bc0b659ac5a40590c22b48e71852540f00103f90152bc717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6929757,
+          10.760631999482051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FamilyMart",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Chợ Quán",
+        "postcode": "72760",
+        "street": "An Dương Vương",
+        "lon": 106.6815332,
+        "lat": 10.7605434,
+        "formatted": "FamilyMart, An Dương Vương, 72760, Vietnam",
+        "address_line1": "FamilyMart",
+        "address_line2": "An Dương Vương, 72760, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315672440,
+            "name:en": "FamilyMart",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "FamilyMart"
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2618,
+        "place_id": "51d9486d3d9eab5a40599fedc7f165852540f00103f9017883717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6815332,
+          10.760543399482058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Ho Hao Hon Street",
+        "lon": 106.6932442,
+        "lat": 10.7605084,
+        "formatted": "Ho Hao Hon Street, 70200, Vietnam",
+        "address_line1": "Ho Hao Hon Street",
+        "address_line2": "70200, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "shop": "supermarket",
+            "osm_id": 6315686295,
+            "osm_type": "n"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2049,
+        "place_id": "5112c9eb1c5eac5a4059a737605b61852540f00103f90197b9717801000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69324420000001,
+          10.760508399482047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co.op Food",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Khánh Hội",
+        "postcode": "72800",
+        "street": "Ton Dan Street",
+        "housenumber": "167",
+        "lon": 106.7066203,
+        "lat": 10.7581725,
+        "formatted": "Co.op Food, 167, Ton Dan Street, 72800, Vietnam",
+        "address_line1": "Co.op Food",
+        "address_line2": "167, Ton Dan Street, 72800, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Co.op Food",
+            "shop": "supermarket",
+            "osm_id": 6770361990,
+            "osm_type": "n",
+            "addr:street": "Đường Tôn Đản",
+            "addr:housenumber": 167
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2502,
+        "place_id": "5124cc594439ad5a4059ab00942f2f842540f00103f90186868b930100000092030a436f2e6f7020466f6f64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7066203,
+          10.758172499481892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co.op Food",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Vĩnh Hội",
+        "postcode": "72800",
+        "street": "Vinh Hoi Street",
+        "lon": 106.7045993,
+        "lat": 10.7560618,
+        "formatted": "Co.op Food, Vinh Hoi Street, 72800, Vietnam",
+        "address_line1": "Co.op Food",
+        "address_line2": "Vinh Hoi Street, 72800, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Co.op Food",
+            "shop": "supermarket",
+            "osm_id": 6769791510,
+            "osm_type": "n",
+            "addr:street": "Đường Vĩnh Hội"
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2637,
+        "place_id": "513492a92718ad5a4059e10e3d881a832540f00103f90116d282930100000092030a436f2e6f7020466f6f64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70459929999998,
+          10.756061799481758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Co.op Food - Nguyễn Khoái",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Vĩnh Hội",
+        "postcode": "72800",
+        "street": "Nguyen Khoai Street",
+        "housenumber": "84",
+        "lon": 106.694199,
+        "lat": 10.7555361,
+        "formatted": "Co.op Food - Nguyễn Khoái, 84, Nguyen Khoai Street, 72800, Vietnam",
+        "address_line1": "Co.op Food - Nguyễn Khoái",
+        "address_line2": "84, Nguyen Khoai Street, 72800, Vietnam",
+        "categories": [
+          "commercial",
+          "commercial.supermarket"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Co.op Food - Nguyễn Khoái",
+            "shop": "supermarket",
+            "osm_id": 6786068685,
+            "osm_type": "n",
+            "addr:street": "Đường Nguyễn Khoái",
+            "addr:housenumber": 84
+          }
+        },
+        "commercial": {
+          "type": "supermarket"
+        },
+        "distance": 2576,
+        "place_id": "519f7aa4c16dac5a40595a71aca0d5822540f00103f901cd307b940100000092031c436f2e6f7020466f6f64202d204e677579e1bb856e204b686fc3a169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69419900000001,
+          10.75553609948172
+        ]
+      }
+    }
+  ]
+}

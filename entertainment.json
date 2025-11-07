@@ -1,0 +1,4014 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Đức Nhuận",
+        "postcode": "71409",
+        "street": "Đường Đặng Văn Sâm",
+        "lon": 106.67354923523001,
+        "lat": 10.8123051,
+        "formatted": "Đường Đặng Văn Sâm, 71409, Vietnam",
+        "address_line1": "Đường Đặng Văn Sâm",
+        "address_line2": "71409, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.water_park"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 846926734,
+            "leisure": "water_park",
+            "osm_type": "w"
+          }
+        },
+        "distance": 4504,
+        "place_id": "51c163406e1bab5a40592a543974e69f2540f00102f9018e137b3200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67354923523,
+          10.812305099485531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skywalk Climbing",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "city": "Ho Chi Minh City",
+        "postcode": "72308",
+        "street": "Hẻm 168/44 Nguyễn Gia Trí",
+        "housenumber": "168/42a",
+        "lon": 106.71796422315813,
+        "lat": 10.80585795,
+        "formatted": "Skywalk Climbing, 168/42a, Hẻm 168/44 Nguyễn Gia Trí, Ho Chi Minh City, 72308, Vietnam",
+        "address_line1": "Skywalk Climbing",
+        "address_line2": "168/42a, Hẻm 168/44 Nguyễn Gia Trí, Ho Chi Minh City, 72308, Vietnam",
+        "categories": [
+          "building",
+          "building.sport",
+          "entertainment",
+          "entertainment.activity_park",
+          "entertainment.activity_park.climbing",
+          "fee",
+          "sport",
+          "sport.sports_centre"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Skywalk Climbing",
+            "sport": "climbing",
+            "osm_id": 1334957452,
+            "leisure": "sports_centre",
+            "website": "https://skywalkvn.com",
+            "building": "yes",
+            "operator": "Skywalk Climbing",
+            "osm_type": "w",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Nguyễn Gia Trí (D2)",
+            "addr:district": "Bình Thạnh",
+            "addr:postcode": 700000,
+            "addr:province": "Thành phố Hồ Chí Minh",
+            "opening_hours": "Mo-Su 09:00-22:00",
+            "addr:housenumber": "168/42a",
+            "addr:subdistrict": "Phường 25"
+          }
+        },
+        "website": "https://skywalkvn.com",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "operator": "Skywalk Climbing",
+        "distance": 3777,
+        "place_id": "51618a3620f3ad5a40592785c469999c2540f00102f9018cd5914f00000000920310536b7977616c6b20436c696d62696e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.71796422315812,
+          10.805857949485086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo tàng Không quân phía Nam",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Sơn Nhất",
+        "postcode": "72106",
+        "street": "Hẻm 4 Đồ Sơn",
+        "lon": 106.66058518111429,
+        "lat": 10.8052466,
+        "formatted": "Vietnam People's Air Force Museum, Hẻm 4 Đồ Sơn, 72106, Vietnam",
+        "address_line1": "Vietnam People's Air Force Museum",
+        "address_line2": "Hẻm 4 Đồ Sơn, 72106, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bảo tàng Không quân phía Nam",
+            "osm_id": 197995330,
+            "barrier": "wall",
+            "landuse": "commercial",
+            "name:en": "Vietnam People's Air Force Museum",
+            "tourism": "museum",
+            "osm_type": "w",
+            "wikipedia": "en:Vietnam People's Air Force Museum, Ho Chi Minh City"
+          }
+        },
+        "name_international": {
+          "en": "Vietnam People's Air Force Museum"
+        },
+        "wiki_and_media": {
+          "wikipedia": "en:Vietnam People's Air Force Museum, Ho Chi Minh City"
+        },
+        "distance": 4867,
+        "place_id": "51eb46110747aa5a4059cb014448499c2540f00102f901422bcd0b0000000092032242e1baa36f2074c3a06e67204b68c3b46e67207175c3a26e207068c3ad61204e616d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.66058518111429,
+          10.80524659948505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vân Đường Phủ (Nhà cụ Vương Hồng Sển)",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bình Thạnh",
+        "postcode": "72317",
+        "street": "Nguyễn Thiện Thuật",
+        "housenumber": "11",
+        "lon": 106.6992364,
+        "lat": 10.8052246,
+        "formatted": "Vân Đường Phủ (Nhà cụ Vương Hồng Sển), 11, Nguyễn Thiện Thuật, 72317, Vietnam",
+        "address_line1": "Vân Đường Phủ (Nhà cụ Vương Hồng Sển)",
+        "address_line2": "11, Nguyễn Thiện Thuật, 72317, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Vân Đường Phủ (Nhà cụ Vương Hồng Sển)",
+            "museum": "history",
+            "osm_id": 12901443422,
+            "status": "inactive",
+            "tourism": "museum",
+            "osm_type": "n",
+            "addr:street": "Nguyễn Thiện Thuật",
+            "addr:housenumber": 11
+          }
+        },
+        "distance": 2948,
+        "place_id": "510e8b074ac0ac5a405926721166469c2540f00103f9015e67fc000300000092033556c3a26e20c490c6b0e1bb9d6e67205068e1bba720284e68c3a02063e1bba52056c6b0c6a16e672048e1bb936e672053e1bb836e29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69923639999999,
+          10.80522459948504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CGV Thao Dien Pearl",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường An Khánh",
+        "postcode": "71108",
+        "suburb": "Khu phố 7",
+        "street": "Quốc Hương",
+        "housenumber": "12",
+        "lon": 106.7331734,
+        "lat": 10.8014942,
+        "formatted": "CGV Thao Dien Pearl, 12, Quốc Hương, Khu phố 7, 71108, Vietnam",
+        "address_line1": "CGV Thao Dien Pearl",
+        "address_line2": "12, Quốc Hương, Khu phố 7, 71108, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "CGV Thao Dien Pearl",
+            "osm_id": 10089399922,
+            "amenity": "cinema",
+            "osm_type": "n",
+            "addr:city": "Thành phố Thủ Đức",
+            "addr:street": "Quốc Hương",
+            "addr:district": 2,
+            "addr:province": "Hồ Chí Minh",
+            "addr:housenumber": 12,
+            "addr:subdistrict": "Thảo Điền"
+          }
+        },
+        "distance": 4699,
+        "place_id": "5103d31f50ecae5a405917719d725d9a2540f00103f9017206605902000000920313434756205468616f204469656e20506561726c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.73317339999998,
+          10.801494199484791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo tàng Lực lượng Vũ trang miền Đông Nam Bộ",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Sơn Hòa",
+        "postcode": "72215",
+        "street": "Hẻm 245 Hoàng Văn Thụ",
+        "lon": 106.66574274361956,
+        "lat": 10.7994117,
+        "formatted": "Southeastern Armed Forces Museum, Hẻm 245 Hoàng Văn Thụ, 72215, Vietnam",
+        "address_line1": "Southeastern Armed Forces Museum",
+        "address_line2": "Hẻm 245 Hoàng Văn Thụ, 72215, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bảo tàng Lực lượng Vũ trang miền Đông Nam Bộ",
+            "osm_id": 376923094,
+            "landuse": "commercial",
+            "name:en": "Southeastern Armed Forces Museum",
+            "tourism": "museum",
+            "osm_type": "w",
+            "wikidata": "Q18207723",
+            "wikipedia": "en:Southeastern Armed Forces Museum Military Zone 7"
+          }
+        },
+        "name_international": {
+          "en": "Southeastern Armed Forces Museum"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q18207723",
+          "wikipedia": "en:Southeastern Armed Forces Museum Military Zone 7"
+        },
+        "distance": 4048,
+        "place_id": "514cd973879baa5a40591aa7827d4c992540f00102f901d66377160000000092033b42e1baa36f2074c3a06e67204ce1bbb163206cc6b0e1bba36e672056c5a9207472616e67206d69e1bb816e20c490c3b46e67204e616d2042e1bb99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.66574274361955,
+          10.799411699484654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rạp chiếu phim CGV",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Sơn Hòa",
+        "postcode": "72106",
+        "street": "Hẻm 413 Hoàng Văn Thụ",
+        "lon": 106.6601457,
+        "lat": 10.7989306,
+        "formatted": "CGV Cinema, Hẻm 413 Hoàng Văn Thụ, 72106, Vietnam",
+        "address_line1": "CGV Cinema",
+        "address_line2": "Hẻm 413 Hoàng Văn Thụ, 72106, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "rạp chiếu phim CGV",
+            "brand": "rạp chiếu phim CGV",
+            "osm_id": 11365765737,
+            "amenity": "cinema",
+            "name:en": "CGV Cinema",
+            "name:vi": "rạp chiếu phim CGV",
+            "brand:en": "CGV Cinema",
+            "brand:vi": "rạp chiếu phim CGV",
+            "osm_type": "n",
+            "official_name": "CGV Cinemas Vietnam",
+            "brand:wikidata": "Q5012261"
+          }
+        },
+        "brand": "rạp chiếu phim CGV",
+        "brand_details": {
+          "wikidata": "Q5012261"
+        },
+        "name_other": {
+          "official_name": "CGV Cinemas Vietnam"
+        },
+        "name_international": {
+          "en": "CGV Cinema",
+          "vi": "rạp chiếu phim CGV"
+        },
+        "distance": 4605,
+        "place_id": "511506c0d33faa5a4059c71e796e0d992540f00103f90169d273a50200000092031672e1baa17020636869e1babf75207068696d20434756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6601457,
+          10.798930599484619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kịch Phú Nhuận",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Phú Nhuận",
+        "postcode": "72215",
+        "street": "Nguyễn Văn Trỗi",
+        "housenumber": "70-72",
+        "lon": 106.67624393370562,
+        "lat": 10.795524050000001,
+        "formatted": "Phu Nhuan Theatre, 70-72, Nguyễn Văn Trỗi, 72215, Vietnam",
+        "address_line1": "Phu Nhuan Theatre",
+        "address_line2": "70-72, Nguyễn Văn Trỗi, 72215, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kịch Phú Nhuận",
+            "osm_id": 262966602,
+            "amenity": "theatre",
+            "name:en": "Phu Nhuan Theatre",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Nguyễn Văn Trỗi",
+            "addr:district": "Phú Nhuận",
+            "addr:province": "Hồ Chí Minh",
+            "addr:housenumber": "70-72",
+            "addr:subdistrict": "Phường 8"
+          }
+        },
+        "name_international": {
+          "en": "Phu Nhuan Theatre"
+        },
+        "distance": 2909,
+        "place_id": "5194d8a29447ab5a4059156f9fed4e972540f00102f9014a8dac0f000000009203134be1bb8b6368205068c3ba204e6875e1baad6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67624393370562,
+          10.795524049484394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CGV",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "city": "Ho Chi Minh City",
+        "postcode": "71108",
+        "street": "Điện Biên Phủ",
+        "housenumber": "720A",
+        "lon": 106.7217457,
+        "lat": 10.7952597,
+        "formatted": "CGV Cinema, 720A, Điện Biên Phủ, Ho Chi Minh City, 71108, Vietnam",
+        "address_line1": "CGV Cinema",
+        "address_line2": "720A, Điện Biên Phủ, Ho Chi Minh City, 71108, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "CGV",
+            "brand": "rạp chiếu phim CGV",
+            "osm_id": 6220729005,
+            "amenity": "cinema",
+            "name:en": "CGV Cinema",
+            "name:vi": "rạp chiếu phim CGV",
+            "brand:en": "CGV Cinema",
+            "brand:vi": "rạp chiếu phim CGV",
+            "osm_type": "n",
+            "official_name": "CGV Cinemas Vietnam",
+            "brand:wikidata": "Q5012261"
+          }
+        },
+        "brand": "rạp chiếu phim CGV",
+        "brand_details": {
+          "wikidata": "Q5012261"
+        },
+        "name_other": {
+          "official_name": "CGV Cinemas Vietnam"
+        },
+        "name_international": {
+          "en": "CGV Cinema",
+          "vi": "rạp chiếu phim CGV"
+        },
+        "distance": 3276,
+        "place_id": "51d461e01431ae5a4059703982472c972540f00103f901adcac87201000000920303434756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.72174569999999,
+          10.795259699484376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rạp Phim CGV Cinemas",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Định",
+        "postcode": "72200",
+        "street": "Trần Quang Khải",
+        "lon": 106.6939783,
+        "lat": 10.7924801,
+        "formatted": "CGV Cinema, Trần Quang Khải, 72200, Vietnam",
+        "address_line1": "CGV Cinema",
+        "address_line2": "Trần Quang Khải, 72200, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rạp Phim CGV Cinemas",
+            "brand": "rạp chiếu phim CGV",
+            "osm_id": 9584833482,
+            "amenity": "cinema",
+            "name:en": "CGV Cinema",
+            "name:vi": "rạp chiếu phim CGV",
+            "brand:en": "CGV Cinema",
+            "brand:vi": "rạp chiếu phim CGV",
+            "osm_type": "n",
+            "official_name": "CGV Cinemas Vietnam",
+            "brand:wikidata": "Q5012261"
+          }
+        },
+        "brand": "rạp chiếu phim CGV",
+        "brand_details": {
+          "wikidata": "Q5012261"
+        },
+        "name_other": {
+          "official_name": "CGV Cinemas Vietnam"
+        },
+        "name_international": {
+          "en": "CGV Cinema",
+          "vi": "rạp chiếu phim CGV"
+        },
+        "distance": 1562,
+        "place_id": "518ea8f5236aac5a4059e5079cf3bf952540f00103f901caf34c3b0200000092031652e1baa170205068696d204347562043696e656d6173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6939783,
+          10.79248009948419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rạp Phim Văn Hoa",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Định",
+        "postcode": "72200",
+        "street": "Trần Quang Khải",
+        "lon": 106.6938597,
+        "lat": 10.7924486,
+        "formatted": "Rạp Phim Văn Hoa, Trần Quang Khải, 72200, Vietnam",
+        "address_line1": "Rạp Phim Văn Hoa",
+        "address_line2": "Trần Quang Khải, 72200, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rạp Phim Văn Hoa",
+            "osm_id": 2230350591,
+            "amenity": "cinema",
+            "name:de": "Rạp Văn Hoa Cinema",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Rạp Văn Hoa Cinema"
+        },
+        "distance": 1561,
+        "place_id": "51cbe0833268ac5a40595917a5d2bb952540f00103f901ff72f0840000000092031352e1baa170205068696d2056c4836e20486f61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6938597,
+          10.79244859948419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rạp Phim Cầu Bông",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Định",
+        "postcode": "72200",
+        "street": "Nguyen Phi Khanh Street",
+        "lon": 106.695281,
+        "lat": 10.7919991,
+        "formatted": "Rạp Phim Cầu Bông, Nguyen Phi Khanh Street, 72200, Vietnam",
+        "address_line1": "Rạp Phim Cầu Bông",
+        "address_line2": "Nguyen Phi Khanh Street, 72200, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rạp Phim Cầu Bông",
+            "osm_id": 2230333450,
+            "amenity": "cinema",
+            "name:de": "Rạp Cầu Bông Cinema",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "de": "Rạp Cầu Bông Cinema"
+        },
+        "distance": 1486,
+        "place_id": "51ed21e17b7fac5a4059e77dede780952540f00103f9010a30f0840000000092031652e1baa170205068696d2043e1baa7752042c3b46e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69528099999998,
+          10.791999099484157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Động vật bò sát",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "72200",
+        "district": "Khu phố 1",
+        "suburb": "Saigon",
+        "street": "Nguyen Thi Minh Khai",
+        "lon": 106.7058841,
+        "lat": 10.7901336,
+        "formatted": "Reptiles, Nguyen Thi Minh Khai, Saigon, Ho Chi Minh City, 72200, Vietnam",
+        "address_line1": "Reptiles",
+        "address_line2": "Nguyen Thi Minh Khai, Saigon, Ho Chi Minh City, 72200, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Động vật bò sát",
+            "osm_id": 6045632728,
+            "name:en": "Reptiles",
+            "tourism": "zoo",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Reptiles"
+        },
+        "distance": 1602,
+        "place_id": "510c1181342dad5a4059668222648c942540f00103f901d808596801000000920316c490e1bb996e672076e1baad742062c3b22073c3a174"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70588409999999,
+          10.790133599484033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taste of The Soul",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "72200",
+        "district": "Khu phố 1",
+        "suburb": "Saigon",
+        "street": "Nguyễn Bỉnh Khiêm",
+        "housenumber": "8",
+        "lon": 106.7027166,
+        "lat": 10.7900777,
+        "formatted": "Taste of The Soul, 8, Nguyễn Bỉnh Khiêm, Saigon, Ho Chi Minh City, 72200, Vietnam",
+        "address_line1": "Taste of The Soul",
+        "address_line2": "8, Nguyễn Bỉnh Khiêm, Saigon, Ho Chi Minh City, 72200, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Taste of The Soul",
+            "osm_id": 11533134439,
+            "amenity": "theatre",
+            "osm_type": "n"
+          }
+        },
+        "distance": 1412,
+        "place_id": "51cdd60b4ff9ac5a4059652a711085942540f00103f90167aa6daf020000009203115461737465206f662054686520536f756c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70271659999999,
+          10.790077699484025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annam Gallery",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "city": "Ho Chi Minh City",
+        "postcode": "70000",
+        "street": "Hai Ba Trung Street",
+        "housenumber": "371/4",
+        "lon": 106.6888392,
+        "lat": 10.7900269,
+        "formatted": "Annam Gallery, 371/4, Hai Ba Trung Street, Ho Chi Minh City, 70000, Vietnam",
+        "address_line1": "Annam Gallery",
+        "address_line2": "371/4, Hai Ba Trung Street, Ho Chi Minh City, 70000, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.gallery"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Annam Gallery",
+            "osm_id": 11040495502,
+            "tourism": "gallery",
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Hai Bà Trưng",
+            "addr:district": "Quan 3",
+            "addr:postcode": 70000,
+            "addr:province": "Hồ Chí Minh",
+            "opening_hours": "Mo-Su 09:00-20:00",
+            "addr:housenumber": "371/4",
+            "addr:subdistrict": "Võ Thị Sáu"
+          }
+        },
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "distance": 1537,
+        "place_id": "51fa0c03f115ac5a4059027de0677e942540f00103f9018e9710920200000092030d416e6e616d2047616c6c657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68883919999999,
+          10.790026899484022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voi",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "postcode": "71006",
+        "street": "Trường Sa",
+        "lon": 106.7071674,
+        "lat": 10.7886498,
+        "formatted": "Elephants, Trường Sa, 71006, Vietnam",
+        "address_line1": "Elephants",
+        "address_line2": "Trường Sa, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Voi",
+            "osm_id": 6045634869,
+            "name:en": "Elephants",
+            "tourism": "zoo",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Elephants"
+        },
+        "distance": 1572,
+        "place_id": "5108f30d3b42ad5a4059928f11e8c9932540f00103f9013511596801000000920303566f69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7071674,
+          10.788649799483924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hươu cao cổ",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "postcode": "71006",
+        "street": "Trường Sa",
+        "lon": 106.7078014,
+        "lat": 10.7880953,
+        "formatted": "Giraffes, Trường Sa, 71006, Vietnam",
+        "address_line1": "Giraffes",
+        "address_line2": "Trường Sa, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hươu cao cổ",
+            "osm_id": 6045633938,
+            "name:en": "Giraffes",
+            "tourism": "zoo",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Giraffes"
+        },
+        "distance": 1581,
+        "place_id": "5109443e9e4cad5a40594dd4223a81932540f00103f901920d59680100000092030f48c6b0c6a1752063616f2063e1bb95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70780140000001,
+          10.788095299483894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vườn hồng hạc",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 1",
+        "suburb": "Saigon",
+        "street": "Nguyễn Bỉnh Khiêm",
+        "lon": 106.70624109945288,
+        "lat": 10.78804765,
+        "formatted": "Vườn hồng hạc, Nguyễn Bỉnh Khiêm, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Vườn hồng hạc",
+        "address_line2": "Nguyễn Bỉnh Khiêm, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "name": "Vườn hồng hạc",
+            "animal": "flamingo",
+            "osm_id": 1275969816,
+            "tourism": "zoo",
+            "osm_type": "w"
+          }
+        },
+        "distance": 1441,
+        "place_id": "51714fde0d33ad5a4059287244fb7a932540f00102f90118c10d4c0000000092031456c6b0e1bb9d6e2068e1bb936e672068e1baa163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7062410994529,
+          10.788047649483886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo tàng Lịch sử Thành phố Hồ Chí Minh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 1",
+        "suburb": "Saigon",
+        "street": "Nguyen Thi Minh Khai",
+        "housenumber": "2",
+        "lon": 106.7049562864172,
+        "lat": 10.78797185,
+        "formatted": "History Museum of Ho Chi Minh City, 2, Nguyen Thi Minh Khai, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "History Museum of Ho Chi Minh City",
+        "address_line2": "2, Nguyen Thi Minh Khai, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bảo tàng Lịch sử Thành phố Hồ Chí Minh",
+            "museum": "history",
+            "osm_id": -17758150,
+            "name:en": "History Museum of Ho Chi Minh City",
+            "name:id": "Muzium Serajah Vietnam",
+            "name:vi": "Bảo tàng Lịch sử Thành phố Hồ Chí Minh",
+            "tourism": "museum",
+            "website": "http://www.baotanglichsutphcm.com.vn/en-US/sightseeing/policy",
+            "building": "yes",
+            "osm_type": "r",
+            "wikidata": "Q6941045",
+            "wikipedia": "vi:Bảo tàng Lịch sử Thành phố Hồ Chí Minh",
+            "addr:street": "Nguyễn Thị Minh Khai",
+            "name:vi-Hani": "寶藏歷史越南",
+            "opening_hours": "Tu-Su 08:00-11:30, 13:00-17:00",
+            "addr:housenumber": 2,
+            "wikimedia_commons": "Category:Ho Chi Minh City Museum of History"
+          }
+        },
+        "website": "http://www.baotanglichsutphcm.com.vn/en-US/sightseeing/policy",
+        "opening_hours": "Tu-Su 08:00-11:30, 13:00-17:00",
+        "name_international": {
+          "en": "History Museum of Ho Chi Minh City",
+          "id": "Muzium Serajah Vietnam",
+          "vi": "Bảo tàng Lịch sử Thành phố Hồ Chí Minh"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6941045",
+          "wikipedia": "vi:Bảo tàng Lịch sử Thành phố Hồ Chí Minh",
+          "wikimedia_commons": "Category:Ho Chi Minh City Museum of History"
+        },
+        "distance": 1314,
+        "place_id": "515fd1f8001ead5a40596067d70b71932540f00101f901c6f70e010000000092033342e1baa36f2074c3a06e67204ce1bb8b63682073e1bbad205468c3a06e68207068e1bb912048e1bb93204368c3ad204d696e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70495628641719,
+          10.787971849483881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chuồng khỉ",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Thạnh Mỹ Tây",
+        "postcode": "71006",
+        "street": "Trường Sa",
+        "lon": 106.70687024108392,
+        "lat": 10.787941,
+        "formatted": "Chuồng khỉ, Trường Sa, 71006, Vietnam",
+        "address_line1": "Chuồng khỉ",
+        "address_line2": "Trường Sa, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "name": "Chuồng khỉ",
+            "animal": "monkey",
+            "osm_id": 77183584,
+            "tourism": "zoo",
+            "osm_type": "w"
+          }
+        },
+        "distance": 1476,
+        "place_id": "5126fead5c3dad5a4059eeebaf006d932540f00102f90160ba99040000000092030e436875e1bb936e67206b68e1bb89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70687024108392,
+          10.787940999483876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vườn bướm",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 1",
+        "suburb": "Saigon",
+        "street": "Nguyễn Bỉnh Khiêm",
+        "lon": 106.70645615000001,
+        "lat": 10.787630400000001,
+        "formatted": "Butterfly garden, Nguyễn Bỉnh Khiêm, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Butterfly garden",
+        "address_line2": "Nguyễn Bỉnh Khiêm, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "name": "Vườn bướm",
+            "animal": "butterfly",
+            "osm_id": 1265945865,
+            "name:en": "Butterfly garden",
+            "tourism": "zoo",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Butterfly garden"
+        },
+        "distance": 1425,
+        "place_id": "51b713db9336ad5a4059b83cae4a44932540f00102f90109cd744b0000000092030f56c6b0e1bb9d6e2062c6b0e1bb9b6d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70645615,
+          10.78763039948386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Ba Son",
+        "suburb": "Saigon",
+        "street": "Nguyễn Hữu Cảnh",
+        "lon": 106.70838075555781,
+        "lat": 10.7871092,
+        "formatted": "Nguyễn Hữu Cảnh, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Nguyễn Hữu Cảnh",
+        "address_line2": "Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "osm_id": 1265945860,
+            "tourism": "zoo",
+            "osm_type": "w"
+          }
+        },
+        "distance": 1554,
+        "place_id": "51248f3c1c56ad5a4059da531cfaff922540f00102f90104cd744b00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70838075555781,
+          10.787109199483826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Ba Son",
+        "suburb": "Saigon",
+        "street": "Nguyễn Hữu Cảnh",
+        "lon": 106.70761775007715,
+        "lat": 10.7870812,
+        "formatted": "Nguyễn Hữu Cảnh, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Nguyễn Hữu Cảnh",
+        "address_line2": "Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "osm_id": 1276531157,
+            "tourism": "zoo",
+            "osm_type": "w"
+          }
+        },
+        "distance": 1469,
+        "place_id": "51a0a9f59b49ad5a4059b128964efc922540f00102f901d551164c00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70761775007713,
+          10.787081199483824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo tàng Chiến dịch Hồ Chí Minh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 1",
+        "suburb": "Saigon",
+        "street": "Lê Duẩn",
+        "housenumber": "2",
+        "lon": 106.70423904928376,
+        "lat": 10.78698185,
+        "formatted": "Ho Chi Minh Campaign Museum, 2, Lê Duẩn, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Ho Chi Minh Campaign Museum",
+        "address_line2": "2, Lê Duẩn, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bảo tàng Chiến dịch Hồ Chí Minh",
+            "osm_id": 165887838,
+            "name:en": "Ho Chi Minh Campaign Museum",
+            "name:ja": "ホーチミン作戦博物館",
+            "name:vi": "Bảo tàng Chiến dịch Hồ Chí Minh",
+            "tourism": "museum",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Lê Duẩn",
+            "addr:housenumber": 2
+          }
+        },
+        "name_international": {
+          "en": "Ho Chi Minh Campaign Museum",
+          "ja": "ホーチミン作戦博物館",
+          "vi": "Bảo tàng Chiến dịch Hồ Chí Minh"
+        },
+        "distance": 1194,
+        "place_id": "515a4fa94012ad5a40594028f448ef922540f00102f9015e3fe3090000000092032942e1baa36f2074c3a06e6720436869e1babf6e2064e1bb8b63682048e1bb93204368c3ad204d696e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70423904928376,
+          10.786981849483823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hổ",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Ba Son",
+        "suburb": "Saigon",
+        "street": "Nguyễn Hữu Cảnh",
+        "lon": 106.7084339,
+        "lat": 10.786938,
+        "formatted": "Tiger, Nguyễn Hữu Cảnh, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Tiger",
+        "address_line2": "Nguyễn Hữu Cảnh, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Hổ",
+            "osm_id": 6045632765,
+            "name:en": "Tiger",
+            "tourism": "zoo",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Tiger"
+        },
+        "distance": 1555,
+        "place_id": "512df823fb56ad5a40597b869789e9922540f00103f901fd0859680100000092030448e1bb95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7084339,
+          10.786937999483817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Ba Son",
+        "suburb": "Saigon",
+        "street": "Nguyễn Hữu Cảnh",
+        "lon": 106.70839878299573,
+        "lat": 10.78689605,
+        "formatted": "Nguyễn Hữu Cảnh, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Nguyễn Hữu Cảnh",
+        "address_line2": "Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "osm_id": 1276332041,
+            "tourism": "zoo",
+            "osm_type": "w"
+          }
+        },
+        "distance": 1543,
+        "place_id": "518b5fd96756ad5a4059e8c4fb09e4922540f00102f9010948134c00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70839878299573,
+          10.786896049483815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Ba Son",
+        "suburb": "Saigon",
+        "street": "Nguyễn Hữu Cảnh",
+        "lon": 106.70802249220945,
+        "lat": 10.786694,
+        "formatted": "Nguyễn Hữu Cảnh, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Nguyễn Hữu Cảnh",
+        "address_line2": "Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "zoo": "enclosure",
+            "osm_id": 1265945874,
+            "tourism": "zoo",
+            "osm_type": "w"
+          }
+        },
+        "distance": 1495,
+        "place_id": "51ce37923d50ad5a4059167c4f8ec9922540f00102f90112cd744b00000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70802249220944,
+          10.786693999483798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cá sấu",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Ba Son",
+        "suburb": "Saigon",
+        "street": "Nguyễn Hữu Cảnh",
+        "lon": 106.7084761,
+        "lat": 10.7862562,
+        "formatted": "Crocodile, Nguyễn Hữu Cảnh, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Crocodile",
+        "address_line2": "Nguyễn Hữu Cảnh, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.zoo"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cá sấu",
+            "osm_id": 6045633961,
+            "name:en": "Crocodile",
+            "tourism": "zoo",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Crocodile"
+        },
+        "distance": 1516,
+        "place_id": "51d9df23ac57ad5a4059c01e2e2c90922540f00103f901a90d59680100000092030943c3a12073e1baa575"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7084761,
+          10.786256199483773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo Tàng Địa Chất",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 1",
+        "suburb": "Saigon",
+        "street": "Nguyễn Bỉnh Khiêm",
+        "lon": 106.7076753,
+        "lat": 10.7849957,
+        "formatted": "Museum of Geology, Nguyễn Bỉnh Khiêm, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Museum of Geology",
+        "address_line2": "Nguyễn Bỉnh Khiêm, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bảo Tàng Địa Chất",
+            "osm_id": 1001114513,
+            "name:en": "Museum of Geology",
+            "name:fr": "Musée de géologie",
+            "name:vi": "Bảo Tàng Địa Chất",
+            "tourism": "museum",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Museum of Geology",
+          "fr": "Musée de géologie",
+          "vi": "Bảo Tàng Địa Chất"
+        },
+        "distance": 1368,
+        "place_id": "51f76b578d4aad5a4059f190d1f4ea912540f00103f90191cbab3b0000000092031942e1baa36f2054c3a06e6720c490e1bb8b61204368e1baa574"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70767529999999,
+          10.784995699483689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhà Thiếu Nhi Quận 1",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 2",
+        "suburb": "Saigon",
+        "street": "Trần Cao Vân",
+        "lon": 106.698682,
+        "lat": 10.7849924,
+        "formatted": "Nhà Thiếu Nhi Quận 1, Trần Cao Vân, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Nhà Thiếu Nhi Quận 1",
+        "address_line2": "Trần Cao Vân, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nhà Thiếu Nhi Quận 1",
+            "osm_id": 2230447361,
+            "tourism": "museum",
+            "osm_type": "n"
+          }
+        },
+        "distance": 725,
+        "place_id": "517213b534b7ac5a40592fc81686ea912540f00103f90101edf184000000009203194e68c3a020546869e1babf75204e6869205175e1baad6e2031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69868199999999,
+          10.784992399483682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo tàng Phụ nữ Nam Bộ",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "postcode": "70001",
+        "street": "Hẻm 99 Trần Quốc Toản",
+        "lon": 106.68737527965276,
+        "lat": 10.7841475,
+        "formatted": "Southern Vietnam Women Museum, Hẻm 99 Trần Quốc Toản, 70001, Vietnam",
+        "address_line1": "Southern Vietnam Women Museum",
+        "address_line2": "Hẻm 99 Trần Quốc Toản, 70001, Vietnam",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.museum",
+          "no_fee",
+          "no_fee.no"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "no",
+            "name": "Bảo tàng Phụ nữ Nam Bộ",
+            "osm_id": 1019040791,
+            "name:en": "Southern Vietnam Women Museum",
+            "name:ru": "Музей южновьетнамских женщин",
+            "tourism": "museum",
+            "building": "yes",
+            "osm_type": "w",
+            "opening_hours": "Mo-Su 07:30-11:00,13:30-16:30;"
+          }
+        },
+        "opening_hours": "Mo-Su 07:30-11:00,13:30-16:30;",
+        "name_international": {
+          "en": "Southern Vietnam Women Museum",
+          "ru": "Музей южновьетнамских женщин"
+        },
+        "distance": 1186,
+        "place_id": "51ff8be2f4fdab5a4059720bf3c77b912540f00102f9011754bd3c0000000092031f42e1baa36f2074c3a06e67205068e1bba5206ee1bbaf204e616d2042e1bb99"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68737527965276,
+          10.784147499483627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhà hát Bến Thành",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 2",
+        "suburb": "Saigon",
+        "street": "Hẻm 19 Nguyễn Thị Minh Khai",
+        "lon": 106.70095518553009,
+        "lat": 10.784107500000001,
+        "formatted": "Nhà hát Bến Thành, Hẻm 19 Nguyễn Thị Minh Khai, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Nhà hát Bến Thành",
+        "address_line2": "Hẻm 19 Nguyễn Thị Minh Khai, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nhà hát Bến Thành",
+            "osm_id": 39598490,
+            "amenity": "theatre",
+            "name:id": "Teater Ben Thanh",
+            "name:ru": "Театр Бен Тхань",
+            "name:vi": "Nhà hát Bến Thành",
+            "name:zh": "滨城大戏院",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "id": "Teater Ben Thanh",
+          "ru": "Театр Бен Тхань",
+          "vi": "Nhà hát Bến Thành",
+          "zh": "滨城大戏院"
+        },
+        "distance": 715,
+        "place_id": "510d742373dcac5a40593aa9c58976912540f00102f9019a395c02000000009203164e68c3a02068c3a1742042e1babf6e205468c3a06e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70095518553008,
+          10.784107499483628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rạp Phim Cinestar",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 2",
+        "suburb": "Saigon",
+        "street": "Hai Ba Trung Street",
+        "lon": 106.6982403,
+        "lat": 10.7825396,
+        "formatted": "Rạp Phim Cinestar, Hai Ba Trung Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Rạp Phim Cinestar",
+        "address_line2": "Hai Ba Trung Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rạp Phim Cinestar",
+            "osm_id": 6909743951,
+            "amenity": "cinema",
+            "osm_type": "n"
+          }
+        },
+        "distance": 452,
+        "place_id": "51f34f15f8afac5a40599c36c707a9902540f00103f9014f53da9b0100000092031352e1baa170205068696d2043696e6573746172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6982403,
+          10.78253959948352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "postcode": "71006",
+        "suburb": "Saigon",
+        "street": "Nguyen Thi Minh Khai",
+        "lon": 106.69770936467611,
+        "lat": 10.7821113,
+        "formatted": "Nguyen Thi Minh Khai, Saigon, 71006, Vietnam",
+        "address_line1": "Nguyen Thi Minh Khai",
+        "address_line2": "Saigon, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 165479622,
+            "tourism": "museum",
+            "osm_type": "w"
+          }
+        },
+        "distance": 373,
+        "place_id": "5166d92d45a7ac5a4059343a6ae470902540f00102f901c604dd0900000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69770936467611,
+          10.782111299483496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phòng Truyền thống Thành Đoàn",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "postcode": "71006",
+        "suburb": "Saigon",
+        "street": "Nguyen Thi Minh Khai",
+        "lon": 106.6977069,
+        "lat": 10.7820744,
+        "formatted": "HCMC Youth Museum, Nguyen Thi Minh Khai, Saigon, 71006, Vietnam",
+        "address_line1": "HCMC Youth Museum",
+        "address_line2": "Nguyen Thi Minh Khai, Saigon, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Phòng Truyền thống Thành Đoàn",
+            "osm_id": 1770193818,
+            "name:en": "HCMC Youth Museum",
+            "tourism": "museum",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "HCMC Youth Museum"
+        },
+        "distance": 386,
+        "place_id": "51626cd73aa7ac5a405911a4410e6c902540f00103f9019a0383690000000092032a50686fcc806e672054727579c3aacc806e207468c3b4cc816e6720546861cc806e6820c4906f61cc806e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69770689999999,
+          10.782074399483493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sân khấu kịch Hoàng Thái Thanh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Hòa Hưng",
+        "postcode": "72117",
+        "street": "Bắc Hải",
+        "housenumber": "139",
+        "lon": 106.6597737252532,
+        "lat": 10.780957050000001,
+        "formatted": "Sân khấu kịch Hoàng Thái Thanh, 139, Bắc Hải, 72117, Vietnam",
+        "address_line1": "Sân khấu kịch Hoàng Thái Thanh",
+        "address_line2": "139, Bắc Hải, 72117, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sân khấu kịch Hoàng Thái Thanh",
+            "osm_id": 495698506,
+            "amenity": "theatre",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Phường 14",
+            "addr:street": "Bắc Hải",
+            "addr:district": "Quận 10",
+            "addr:province": "Hồ Chí Minh",
+            "addr:housenumber": 139,
+            "addr:subdistrict": "Phường 14"
+          }
+        },
+        "distance": 4041,
+        "place_id": "513f2e93bb39aa5a40595239369ad98f2540f00102f9014ac28b1d0000000092032553c3a26e206b68e1baa575206be1bb8b636820486fc3a06e67205468c3a169205468616e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6597737252532,
+          10.780957049483423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotte Cinema",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 3",
+        "suburb": "Saigon",
+        "street": "Le Duan Boulevard",
+        "lon": 106.6984465,
+        "lat": 10.780808,
+        "formatted": "Lotte Cinema, Le Duan Boulevard, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Lotte Cinema",
+        "address_line2": "Le Duan Boulevard, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 860700658,
+            "amenity": "cinema",
+            "name:en": "Lotte Cinema",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Lotte Cinema"
+        },
+        "distance": 289,
+        "place_id": "515de0f258b3ac5a40590c79ec10c68f2540f00103f901f23f4d3300000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6984465,
+          10.780807999483407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mega GS Lý Chính Thắng",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Nhiêu Lộc",
+        "postcode": "70001",
+        "street": "Đường Lý Chính Thắng",
+        "housenumber": "212",
+        "lon": 106.68239135611057,
+        "lat": 10.78064225,
+        "formatted": "Mega GS Lý Chính Thắng, 212, Đường Lý Chính Thắng, 70001, Vietnam",
+        "address_line1": "Mega GS Lý Chính Thắng",
+        "address_line2": "212, Đường Lý Chính Thắng, 70001, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mega GS Lý Chính Thắng",
+            "osm_id": 1042623106,
+            "amenity": "cinema",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Đường Lý Chính Thắng",
+            "addr:housenumber": 212
+          }
+        },
+        "distance": 1579,
+        "place_id": "515964cb4cacab5a40596cd04657b08f2540f00102f901822a253e0000000092031a4d656761204753204cc3bd204368c3ad6e68205468e1baaf6e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68239135611056,
+          10.7806422494834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sân khấu Kịch 5B",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bàn Cờ",
+        "city": "Ho Chi Minh City",
+        "postcode": "71053",
+        "street": "Vo Van Tan Street",
+        "housenumber": "5B",
+        "lon": 106.69439644327991,
+        "lat": 10.780554500000001,
+        "formatted": "Sân khấu Kịch 5B, 5B, Vo Van Tan Street, Ho Chi Minh City, 71053, Vietnam",
+        "address_line1": "Sân khấu Kịch 5B",
+        "address_line2": "5B, Vo Van Tan Street, Ho Chi Minh City, 71053, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sân khấu Kịch 5B",
+            "phone": "+84 28 3824 2465",
+            "osm_id": 1153459806,
+            "amenity": "theatre",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "Thành Phố Hồ Chí Minh",
+            "addr:street": "Đường Võ Văn Tần",
+            "addr:district": "Quận 3",
+            "addr:housenumber": "5B",
+            "addr:subdistrict": "Phường 6"
+          }
+        },
+        "contact": {
+          "phone": "+84 28 3824 2465"
+        },
+        "distance": 339,
+        "place_id": "512296c7fd70ac5a4059b60de0d6a48f2540f00102f9015e66c0440000000092031553c3a26e206b68e1baa575204be1bb8b6368203542"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69439644327989,
+          10.780554499483383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo tàng Chứng tích Chiến tranh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "city": "Ho Chi Minh City",
+        "postcode": "70001",
+        "street": "Vo Van Tan Street",
+        "housenumber": "28",
+        "lon": 106.69228061770073,
+        "lat": 10.77936475,
+        "formatted": "War Remnants Museum, 28, Vo Van Tan Street, Ho Chi Minh City, 70001, Vietnam",
+        "address_line1": "War Remnants Museum",
+        "address_line2": "28, Vo Van Tan Street, Ho Chi Minh City, 70001, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum",
+          "fee"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Bảo tàng Chứng tích Chiến tranh",
+            "museum": "war",
+            "osm_id": 186249226,
+            "barrier": "wall",
+            "name:de": "Kriegsopfermuseum",
+            "name:en": "War Remnants Museum",
+            "name:es": "Museo de los Vestigios de la Guerra de Vietnam",
+            "name:id": "Muzium Sisa Perang",
+            "name:ru": "Музей жертв войны",
+            "name:sv": "Krigsminnesmuseet",
+            "name:vi": "Bảo tàng Chứng tích Chiến tranh",
+            "tourism": "museum",
+            "website": "https://www.baotangchungtichchientranh.vn/contact.html",
+            "osm_type": "w",
+            "wikidata": "Q703871",
+            "addr:city": "Ho Chi Minh City",
+            "wikipedia": "en:War Remnants Museum",
+            "addr:street": "Võ Văn Tần",
+            "contact:email": "wrm@baotangchungtichchientranh.vn",
+            "opening_hours": "Mo-Su 07:30-12:00, 13:30-17:00",
+            "addr:housenumber": 28
+          }
+        },
+        "website": "https://www.baotangchungtichchientranh.vn/contact.html",
+        "opening_hours": "Mo-Su 07:30-12:00, 13:30-17:00",
+        "name_international": {
+          "de": "Kriegsopfermuseum",
+          "en": "War Remnants Museum",
+          "es": "Museo de los Vestigios de la Guerra de Vietnam",
+          "id": "Muzium Sisa Perang",
+          "ru": "Музей жертв войны",
+          "sv": "Krigsminnesmuseet",
+          "vi": "Bảo tàng Chứng tích Chiến tranh"
+        },
+        "contact": {
+          "email": "wrm@baotangchungtichchientranh.vn"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q703871",
+          "wikipedia": "en:War Remnants Museum"
+        },
+        "distance": 464,
+        "place_id": "51792b5d534eac5a4059425f7de5088f2540f00102f9010af0190b0000000092032742e1baa36f2074c3a06e67204368e1bba96e672074c3ad636820436869e1babf6e207472616e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69228061770072,
+          10.77936474948331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sân khấu Lan Anh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Hòa Hưng",
+        "postcode": "70001",
+        "street": "Hẻm 285/36 Cách mạng tháng 8",
+        "lon": 106.6777337863192,
+        "lat": 10.778521349999998,
+        "formatted": "Sân khấu Lan Anh, Hẻm 285/36 Cách mạng tháng 8, 70001, Vietnam",
+        "address_line1": "Sân khấu Lan Anh",
+        "address_line2": "Hẻm 285/36 Cách mạng tháng 8, 70001, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sân khấu Lan Anh",
+            "osm_id": 263444610,
+            "amenity": "theatre",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "distance": 2060,
+        "place_id": "51a7e887fd5fab5a40596489ae599a8e2540f00102f90182d8b30f0000000092031353c3a26e206b68e1baa575204c616e20416e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6777337863192,
+          10.778521349483249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rạp chiếu phim CGV",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 5",
+        "suburb": "Saigon",
+        "street": "Le Thanh Ton Street",
+        "housenumber": "72",
+        "lon": 106.7017849,
+        "lat": 10.7781862,
+        "formatted": "CGV Cinema, 72, Le Thanh Ton Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "CGV Cinema",
+        "address_line2": "72, Le Thanh Ton Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "rạp chiếu phim CGV",
+            "brand": "rạp chiếu phim CGV",
+            "osm_id": 4451914689,
+            "amenity": "cinema",
+            "name:en": "CGV Cinema",
+            "name:vi": "rạp chiếu phim CGV",
+            "website": "https://www.cgv.vn/default/cinox/site/cgv-vincom-dong-khoi/",
+            "brand:en": "CGV Cinema",
+            "brand:vi": "rạp chiếu phim CGV",
+            "osm_type": "n",
+            "official_name": "CGV Cinemas Vietnam",
+            "brand:wikidata": "Q5012261",
+            "air_conditioning": "yes"
+          }
+        },
+        "website": "https://www.cgv.vn/default/cinox/site/cgv-vincom-dong-khoi/",
+        "brand": "rạp chiếu phim CGV",
+        "brand_details": {
+          "wikidata": "Q5012261"
+        },
+        "name_other": {
+          "official_name": "CGV Cinemas Vietnam"
+        },
+        "name_international": {
+          "en": "CGV Cinema",
+          "vi": "rạp chiếu phim CGV"
+        },
+        "facilities": {
+          "air_conditioning": true
+        },
+        "distance": 533,
+        "place_id": "51e794360beaac5a40593ef5e96b6e8e2540f00103f901c1d35a090100000092031672e1baa17020636869e1babf75207068696d20434756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70178489999999,
+          10.778186199483226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sân khấu 126",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xuân Hòa",
+        "postcode": "70001",
+        "street": "Cach Mang Thang 8",
+        "lon": 106.68242270509475,
+        "lat": 10.77771375,
+        "formatted": "Sân khấu 126, Cach Mang Thang 8, 70001, Vietnam",
+        "address_line1": "Sân khấu 126",
+        "address_line2": "Cach Mang Thang 8, 70001, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sân khấu 126",
+            "osm_id": 238164361,
+            "amenity": "theatre",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Đường Cách Mạng Tháng Tám"
+          }
+        },
+        "distance": 1562,
+        "place_id": "51821b48d0acab5a4059165c1f7f308e2540f00102f9018919320e0000000092030f53c3a26e206b68e1baa57520313236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68242270509475,
+          10.777713749483194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 4",
+        "suburb": "Saigon",
+        "street": "Thai Van Lung Street",
+        "lon": 106.70626519368543,
+        "lat": 10.7774832,
+        "formatted": "Thai Van Lung Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Thai Van Lung Street",
+        "address_line2": "Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1151188380,
+            "tourism": "museum",
+            "building": "yes",
+            "osm_type": "w",
+            "building:levels": 1
+          }
+        },
+        "building": {
+          "levels": 1
+        },
+        "distance": 998,
+        "place_id": "51a44bed7233ad5a40597ef02547128e2540f00102f9019cbd9d4400000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7062651936854,
+          10.777483199483182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhà hát Thành phố",
+        "old_name": "Opéra de Saïgon",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 5",
+        "suburb": "Saigon",
+        "street": "Lam Son Square",
+        "housenumber": "7",
+        "lon": 106.70324880088602,
+        "lat": 10.77674365,
+        "formatted": "Opera House, 7, Lam Son Square, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Opera House",
+        "address_line2": "7, Lam Son Square, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "building.tourism",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre",
+          "tourism",
+          "tourism.attraction"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nhà hát Thành phố",
+            "height": "26 m",
+            "osm_id": 801710792,
+            "amenity": "theatre",
+            "name:en": "Opera House",
+            "name:es": "Opera Saigon",
+            "name:fr": "Opéra municipal de Saigon",
+            "name:id": "Gedung Teater Kota",
+            "name:ru": "Городской Театр",
+            "name:vi": "Nhà hát Thành phố",
+            "name:zh": "胡志明市大劇院",
+            "tourism": "attraction",
+            "alt_name": "Nhà hát Lớn",
+            "building": "yes",
+            "old_name": "Opéra de Saïgon",
+            "osm_type": "w",
+            "wikidata": "Q1949129",
+            "wikipedia": "vi:Nhà hát Thành phố Hồ Chí Minh",
+            "addr:street": "Công trường Lam Sơn",
+            "alt_name:en": "Opera House",
+            "alt_name:fr": "Opéra de Saïgon",
+            "alt_name:id": "Gedung Opera House",
+            "alt_name:vi": "Nhà hát Lớn",
+            "old_name:fr": "Opéra de Saïgon",
+            "name:vi-Hani": "伽咭城庯",
+            "addr:postcode": 71006,
+            "name:cjm-Latn": "Sang Adaoh Madin",
+            "official_name": "Nhà hát Thành Phố Hồ Chí Minh",
+            "addr:housenumber": 7,
+            "air_conditioning": "yes",
+            "official_name:en": "Ho Chi Minh City Municipal Theatre",
+            "official_name:zh": "胡志明市大劇院",
+            "old_name:1897-1956": "Opéra de Saigon"
+          }
+        },
+        "name_other": {
+          "alt_name": "Nhà hát Lớn",
+          "old_name": "Opéra de Saïgon",
+          "official_name": "Nhà hát Thành Phố Hồ Chí Minh"
+        },
+        "name_international": {
+          "en": "Opera House",
+          "es": "Opera Saigon",
+          "fr": "Opéra municipal de Saigon",
+          "id": "Gedung Teater Kota",
+          "ru": "Городской Театр",
+          "vi": "Nhà hát Thành phố",
+          "zh": "胡志明市大劇院"
+        },
+        "facilities": {
+          "air_conditioning": true
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1949129",
+          "wikipedia": "vi:Nhà hát Thành phố Hồ Chí Minh"
+        },
+        "building": {
+          "height": "26 m"
+        },
+        "distance": 693,
+        "place_id": "516d30420702ad5a4059c2cff757b18d2540f00102f901c822c92f000000009203164e68c3a02068c3a174205468c3a06e68207068e1bb91"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70324880088602,
+          10.77674364948314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trưng bày Từ Dinh Norodom đến Dinh Độc Lập",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "district": "Khu phố 7",
+        "street": "Nguyen Du Street",
+        "housenumber": "106",
+        "lon": 106.69728373923161,
+        "lat": 10.77658435,
+        "formatted": "Exhibition From Norodon Palace to Independence Palace, 106, Nguyen Du Street, Khu phố 7, 71009, Vietnam",
+        "address_line1": "Exhibition From Norodon Palace to Independence Palace",
+        "address_line2": "106, Nguyen Du Street, Khu phố 7, 71009, Vietnam",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.museum",
+          "fee"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Trưng bày Từ Dinh Norodom đến Dinh Độc Lập",
+            "osm_id": 165518961,
+            "name:en": "Exhibition From Norodon Palace to Independence Palace",
+            "tourism": "museum",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Nguyễn Du",
+            "addr:housenumber": 106
+          }
+        },
+        "name_international": {
+          "en": "Exhibition From Norodon Palace to Independence Palace"
+        },
+        "distance": 222,
+        "place_id": "511002fa4ba0ac5a40591c3bbf769c8d2540f00102f901719edd09000000009203365472c6b06e672062c3a0792054e1bbab2044696e68204e6f726f646f6d20c491e1babf6e2044696e6820c490e1bb9963204ce1baad70"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69728373923158,
+          10.776584349483123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tara & Kys Art Gallery",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 5",
+        "suburb": "Saigon",
+        "street": "Dong Du Street",
+        "housenumber": "48",
+        "lon": 106.7048655,
+        "lat": 10.7764073,
+        "formatted": "Tara & Kys Art Gallery, 48, Dong Du Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "Tara & Kys Art Gallery",
+        "address_line2": "48, Dong Du Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.gallery"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tara & Kys Art Gallery",
+            "osm_id": 4131348295,
+            "name:de": "Tara & Kys Art Gallery",
+            "tourism": "gallery",
+            "osm_type": "n",
+            "addr:street": "Đông Du",
+            "addr:housenumber": 48
+          }
+        },
+        "name_international": {
+          "de": "Tara & Kys Art Gallery"
+        },
+        "distance": 903,
+        "place_id": "5108a52f841cad5a4059b04fef41858d2540f00103f901475f3ff600000000920316546172612026204b7973204172742047616c6c657279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70486549999998,
+          10.776407299483111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo Tàng FITO",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Hòa Hưng",
+        "postcode": "70150",
+        "street": "Hoàng Dư Khương",
+        "housenumber": "41",
+        "lon": 106.6719677,
+        "lat": 10.7762825,
+        "formatted": "FITO Museum of traditional Vietnamese medicine, 41, Hoàng Dư Khương, 70150, Vietnam",
+        "address_line1": "FITO Museum of traditional Vietnamese medicine",
+        "address_line2": "41, Hoàng Dư Khương, 70150, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bảo Tàng FITO",
+            "email": "museum@fito.vn",
+            "phone": "84 8 3864 2430",
+            "osm_id": 4110078089,
+            "name:en": "FITO Museum of traditional Vietnamese medicine",
+            "name:fr": "Musée de la médecine traditionnelle vietnamienne",
+            "tourism": "museum",
+            "website": "https://fitomuseum.com.vn/",
+            "osm_type": "n",
+            "addr:street": "Hoàng Dư Khương",
+            "opening_hours": "Mo-Su 08:30-17:00",
+            "addr:housenumber": 41
+          }
+        },
+        "website": "https://fitomuseum.com.vn/",
+        "opening_hours": "Mo-Su 08:30-17:00",
+        "name_international": {
+          "en": "FITO Museum of traditional Vietnamese medicine",
+          "fr": "Musée de la médecine traditionnelle vietnamienne"
+        },
+        "contact": {
+          "phone": "84 8 3864 2430",
+          "email": "museum@fito.vn"
+        },
+        "distance": 2743,
+        "place_id": "51f9ddcf8401ab5a4059637957e6748d2540f00103f90189d0faf40000000092031042e1baa36f2054c3a06e67204649544f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6719677,
+          10.776282499483107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhà Hát Múa Rối Nước Rồng Vàng",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "city": "Ho Chi Minh City",
+        "postcode": "71053",
+        "district": "Khu phố 1",
+        "street": "Nguyen Thi Minh Khai",
+        "housenumber": "55B",
+        "lon": 106.6924688,
+        "lat": 10.7762412,
+        "formatted": "Nhà Hát Múa Rối Nước Rồng Vàng, 55B, Nguyen Thi Minh Khai, Ho Chi Minh City, 71053, Vietnam",
+        "address_line1": "Nhà Hát Múa Rối Nước Rồng Vàng",
+        "address_line2": "55B, Nguyen Thi Minh Khai, Ho Chi Minh City, 71053, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nhà Hát Múa Rối Nước Rồng Vàng",
+            "osm_id": 2667726990,
+            "amenity": "theatre",
+            "name:vi": "Nhà hát múa rối nước Rồng Vàng",
+            "website": "https://www.goldendragonwaterpuppet.com/",
+            "osm_type": "n",
+            "addr:city": "Ho Chi Minh City",
+            "addr:street": "Nguyễn Thị Minh Khai",
+            "addr:country": "VN",
+            "addr:housenumber": "55B"
+          }
+        },
+        "website": "https://www.goldendragonwaterpuppet.com/",
+        "name_international": {
+          "vi": "Nhà hát múa rối nước Rồng Vàng"
+        },
+        "distance": 557,
+        "place_id": "510560a86851ac5a4059ed2c8b7c6f8d2540f00103f9018e48029f000000009203294e68c3a02048c3a174204dc3ba612052e1bb9169204ec6b0e1bb9b632052e1bb936e672056c3a06e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69246879999999,
+          10.776241199483104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo tàng TPHCM",
+        "old_name": "Dinh Gia Long",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71006",
+        "suburb": "Saigon",
+        "street": "Ly Tu Trong Street",
+        "lon": 106.69962141634929,
+        "lat": 10.7759106,
+        "formatted": "Museum of Ho Chi Minh City, Ly Tu Trong Street, Saigon, 71006, Vietnam",
+        "address_line1": "Museum of Ho Chi Minh City",
+        "address_line2": "Ly Tu Trong Street, Saigon, 71006, Vietnam",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details",
+          "details.contact"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bảo tàng TPHCM",
+            "email": "bttphcm114@yahoo.com.vn",
+            "osm_id": 802105071,
+            "name:de": "Stadtmuseum",
+            "name:en": "Museum of Ho Chi Minh City",
+            "name:es": "Museo de la Ciudad Ho Chi Minh",
+            "name:fr": "Musée du Hô-Chi-Minh-ville",
+            "name:id": "Muzium Kota Ho Chi Minh",
+            "name:ko": "호찌민 시립 박물관",
+            "name:ms": "Muzium Kota Ho Chi Minh",
+            "name:ru": "Музей города Хошимина",
+            "name:vi": "Bảo tàng TPHCM",
+            "name:zh": "胡志明市宝物院",
+            "tourism": "museum",
+            "website": "https://www.hcmc-museum.edu.vn/",
+            "building": "yes",
+            "int_name": "Ho Chi Minh City Museum",
+            "old_name": "Dinh Gia Long",
+            "osm_type": "w",
+            "addr:street": "Lý Tự Trọng",
+            "name:zh-Hant": "胡志明市寶物院",
+            "addr:postcode": 71006
+          }
+        },
+        "website": "https://www.hcmc-museum.edu.vn/",
+        "name_other": {
+          "old_name": "Dinh Gia Long"
+        },
+        "name_international": {
+          "de": "Stadtmuseum",
+          "en": "Museum of Ho Chi Minh City",
+          "es": "Museo de la Ciudad Ho Chi Minh",
+          "fr": "Musée du Hô-Chi-Minh-ville",
+          "id": "Muzium Kota Ho Chi Minh",
+          "ko": "호찌민 시립 박물관",
+          "ms": "Muzium Kota Ho Chi Minh",
+          "ru": "Музей города Хошимина",
+          "vi": "Bảo tàng TPHCM",
+          "zh": "胡志明市宝物院"
+        },
+        "contact": {
+          "email": "bttphcm114@yahoo.com.vn"
+        },
+        "distance": 407,
+        "place_id": "514ab3e798c6ac5a405992cc7227448d2540f00102f901ef26cf2f0000000092031142e1baa36f2074c3a06e6720545048434d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69962141634929,
+          10.775910599483073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CGV",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "city": "Ho Chi Minh City",
+        "postcode": "71006",
+        "district": "Khu phố 6",
+        "suburb": "Saigon",
+        "street": "Pasteur Street",
+        "housenumber": "59-61",
+        "lon": 106.7007331,
+        "lat": 10.7747697,
+        "formatted": "CGV Cinema, 59-61, Pasteur Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "address_line1": "CGV Cinema",
+        "address_line2": "59-61, Pasteur Street, Saigon, Ho Chi Minh City, 71006, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "CGV",
+            "brand": "rạp chiếu phim CGV",
+            "osm_id": 7018017805,
+            "amenity": "cinema",
+            "name:en": "CGV Cinema",
+            "name:vi": "rạp chiếu phim CGV",
+            "brand:en": "CGV Cinema",
+            "brand:vi": "rạp chiếu phim CGV",
+            "osm_type": "n",
+            "addr:street": "Đường Pasteur",
+            "addr:country": "VN",
+            "addr:district": "District 1",
+            "official_name": "CGV Cinemas Vietnam",
+            "brand:wikidata": "Q5012261",
+            "addr:housenumber": "59-61",
+            "addr:subdistrict": "Bến Nghé"
+          }
+        },
+        "brand": "rạp chiếu phim CGV",
+        "brand_details": {
+          "wikidata": "Q5012261"
+        },
+        "name_other": {
+          "official_name": "CGV Cinemas Vietnam"
+        },
+        "name_international": {
+          "en": "CGV Cinema",
+          "vi": "rạp chiếu phim CGV"
+        },
+        "distance": 599,
+        "place_id": "5161eea4cfd8ac5a4059266c329dae8c2540f00103f9010d744ea201000000920303434756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7007331,
+          10.774769699482999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galaxy Cinema",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "district": "Khu phố 4",
+        "street": "Nguyen Du Street",
+        "lon": 106.69295879300444,
+        "lat": 10.77318745,
+        "formatted": "Galaxy Cinema, Nguyen Du Street, Khu phố 4, 71009, Vietnam",
+        "address_line1": "Galaxy Cinema",
+        "address_line2": "Nguyen Du Street, Khu phố 4, 71009, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Galaxy Cinema",
+            "osm_id": 112176431,
+            "amenity": "cinema",
+            "osm_type": "w"
+          }
+        },
+        "distance": 715,
+        "place_id": "517e5bd66f59ac5a4059d669b239df8b2540f00102f9012fadaf060000000092030d47616c6178792043696e656d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69295879300441,
+          10.7731874494829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sân Khấu Trống Đồng",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71009",
+        "district": "Khu phố 4",
+        "street": "Nguyen Du Street",
+        "lon": 106.69232198141538,
+        "lat": 10.7727407,
+        "formatted": "Trong Dong Theater, Nguyen Du Street, Khu phố 4, 71009, Vietnam",
+        "address_line1": "Trong Dong Theater",
+        "address_line2": "Nguyen Du Street, Khu phố 4, 71009, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sân Khấu Trống Đồng",
+            "osm_id": 469845166,
+            "amenity": "theatre",
+            "name:en": "Trong Dong Theater",
+            "name:ja": "ブロンズドラム",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "name_international": {
+          "en": "Trong Dong Theater",
+          "ja": "ブロンズドラム"
+        },
+        "distance": 808,
+        "place_id": "51c71edb004fac5a4059562241aba48b2540f00102f901ae44011c0000000092031b53c3a26e204b68e1baa575205472e1bb916e6720c490e1bb936e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69232198141536,
+          10.772740699482863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhà hát Hòa Bình",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Hòa Hưng",
+        "postcode": "72406",
+        "street": "Đường 3 Tháng 2",
+        "lon": 106.673828226329,
+        "lat": 10.77232415,
+        "formatted": "Nhà hát Hòa Bình, Đường 3 Tháng 2, 72406, Vietnam",
+        "address_line1": "Nhà hát Hòa Bình",
+        "address_line2": "Đường 3 Tháng 2, 72406, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nhà hát Hòa Bình",
+            "osm_id": 152994269,
+            "amenity": "theatre",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "distance": 2592,
+        "place_id": "5118cd6c0020ab5a40592fe127126e8b2540f00102f901dd811e09000000009203144e68c3a02068c3a1742048c3b2612042c3ac6e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67382822632896,
+          10.77232414948284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rạp Hát Hoà Bình",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Vườn Lài",
+        "postcode": "72406",
+        "street": "3 Thang 2",
+        "housenumber": "240",
+        "lon": 106.6739668,
+        "lat": 10.772194,
+        "formatted": "Rạp Hát Hoà Bình, 240, 3 Thang 2, 72406, Vietnam",
+        "address_line1": "Rạp Hát Hoà Bình",
+        "address_line2": "240, 3 Thang 2, 72406, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [
+          "details.contact",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rạp Hát Hoà Bình",
+            "email": "trongdung@gmail.com",
+            "osm_id": 2690659722,
+            "amenity": "theatre",
+            "osm_type": "n",
+            "addr:street": "3 Tháng 2",
+            "payment:cash": "yes",
+            "addr:housenumber": 240,
+            "addr:subdistrict": 12
+          }
+        },
+        "contact": {
+          "email": "trongdung@gmail.com"
+        },
+        "payment_options": {
+          "cash": true
+        },
+        "distance": 2612,
+        "place_id": "51bf25a54522ab5a40596ee40b035d8b2540f00103f9018a3560a00000000092031552e1baa1702048c3a17420486fc3a02042c3ac6e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6739668,
+          10.77219399948282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Secret Weapon Bunker Museum - Tet Offensive",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bàn Cờ",
+        "postcode": "72406",
+        "street": "Vo Van Tan Street",
+        "lon": 106.6860762,
+        "lat": 10.7720281,
+        "formatted": "Secret Weapon Bunker Museum - Tet Offensive, Vo Van Tan Street, 72406, Vietnam",
+        "address_line1": "Secret Weapon Bunker Museum - Tet Offensive",
+        "address_line2": "Vo Van Tan Street, 72406, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 11025899805,
+            "name:en": "Secret Weapon Bunker Museum - Tet Offensive",
+            "tourism": "museum",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Secret Weapon Bunker Museum - Tet Offensive"
+        },
+        "distance": 1396,
+        "place_id": "51176426ace8ab5a405950be5d44478b2540f00103f9011de1319102000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68607619999999,
+          10.77202809948281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cửa Hàng Giải Trí Powerbowl 388",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Hòa Hưng",
+        "postcode": "72712",
+        "street": "Su Van Hanh",
+        "housenumber": "11",
+        "lon": 106.6695172,
+        "lat": 10.7704332,
+        "formatted": "Cửa Hàng Giải Trí Powerbowl 388, 11, Su Van Hanh, 72712, Vietnam",
+        "address_line1": "Cửa Hàng Giải Trí Powerbowl 388",
+        "address_line2": "11, Su Van Hanh, 72712, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.bowling_alley"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cửa Hàng Giải Trí Powerbowl 388",
+            "osm_id": 5366253707,
+            "leisure": "bowling_alley",
+            "osm_type": "n"
+          }
+        },
+        "distance": 3134,
+        "place_id": "510187ab5ed9aa5a4059d00f6738768a2540f00103f9018b88da3f0100000092032543e1bbad612048c3a06e67204769e1baa369205472c3ad20506f776572626f776c20333838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.66951719999999,
+          10.77043319948271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Phú Thọ",
+        "postcode": "72000",
+        "street": "Lữ Gia",
+        "lon": 106.65498685377197,
+        "lat": 10.770169800000001,
+        "formatted": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ, Lữ Gia, 72000, Vietnam",
+        "address_line1": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
+        "address_line2": "Lữ Gia, 72000, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
+            "osm_id": 608552739,
+            "amenity": "theatre",
+            "building": "yes",
+            "osm_type": "w",
+            "theatre:genre": "circus"
+          }
+        },
+        "distance": 4655,
+        "place_id": "51ad10fb4deba95a4059454a2ab2538a2540f00102f90123c745240000000092033352e1baa170205869e1babf632076c3a0204269e1bb8375206469e1bb856e20c49161206ec4836e67205068c3ba205468e1bb8d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.65498685377197,
+          10.770169799482696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 3",
+        "street": "Le Thi Hong Gam Street",
+        "lon": 106.69922421706391,
+        "lat": 10.7698707,
+        "formatted": "Museum of Fine Arts, Le Thi Hong Gam Street, Khu phố 3, 71010, Vietnam",
+        "address_line1": "Museum of Fine Arts",
+        "address_line2": "Le Thi Hong Gam Street, Khu phố 3, 71010, Vietnam",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.museum",
+          "fee"
+        ],
+        "details": [
+          "details",
+          "details.building"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fee": "yes",
+            "name": "Bảo tàng Mỹ thuật Thành phố Hồ Chí Minh",
+            "osm_id": 802157427,
+            "name:de": "Museum der bildenden Künste",
+            "name:en": "Museum of Fine Arts",
+            "tourism": "museum",
+            "building": "yes",
+            "osm_type": "w",
+            "building:levels": 3
+          }
+        },
+        "name_international": {
+          "de": "Museum der bildenden Künste",
+          "en": "Museum of Fine Arts"
+        },
+        "building": {
+          "levels": 3
+        },
+        "distance": 975,
+        "place_id": "511537ee16c0ac5a40597cda087e2c8a2540f00102f90173f3cf2f0000000092033442e1baa36f2074c3a06e67204de1bbb920746875e1baad74205468c3a06e68207068e1bb912048e1bb93204368c3ad204d696e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6992242170639,
+          10.769870699482674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bàn Cờ",
+        "postcode": "72406",
+        "street": "Cao Thang",
+        "lon": 106.6828742,
+        "lat": 10.7693242,
+        "formatted": "Cao Thang, 72406, Vietnam",
+        "address_line1": "Cao Thang",
+        "address_line2": "72406, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 1123004808,
+            "amenity": "cinema",
+            "osm_type": "n"
+          }
+        },
+        "distance": 1853,
+        "place_id": "510e12fd35b4ab5a40593f9989dce4892540f00103f90188b1ef4200000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68287419999999,
+          10.769324199482638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bảo tàng Hồ Chí Minh",
+        "old_name": "Headquarters of Messageries maritimes",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Xóm Chiếu",
+        "postcode": "72806",
+        "street": "Đường Nguyễn Tất Thành",
+        "lon": 106.7068035387357,
+        "lat": 10.7682684,
+        "formatted": "Ho Chi Minh Museum, Đường Nguyễn Tất Thành, 72806, Vietnam",
+        "address_line1": "Ho Chi Minh Museum",
+        "address_line2": "Đường Nguyễn Tất Thành, 72806, Vietnam",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [
+          "details",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Bảo tàng Hồ Chí Minh",
+            "osm_id": 808022726,
+            "name:en": "Ho Chi Minh Museum",
+            "name:fr": "Musée de Ho Chi Minh",
+            "name:id": "Muzium Presiden Ho Chi Minh",
+            "name:ms": "Muzium Presiden Ho Chi Minh",
+            "name:ru": "Музей Хо Ши Мина",
+            "name:vi": "Bảo tàng Hồ Chí Minh",
+            "name:zh": "胡志明主席宝物院",
+            "tourism": "museum",
+            "building": "yes",
+            "old_name": "Trụ sở công ty Messageries maritimes",
+            "osm_type": "w",
+            "wikidata": "Q10743440",
+            "wikipedia": "en:Dragon House (Ho Chi Minh City)",
+            "old_name:en": "Headquarters of Messageries maritimes",
+            "name:zh-Hant": "胡志明主席寶物院",
+            "opening_hours": "Mo,Fr 08:00-12:00; Tu-Th,Sa,Su 08:00-12:00,14:00-16:30",
+            "wikimedia_commons": "Category:Dragon House (Ho Chi Minh City)"
+          }
+        },
+        "opening_hours": "Mo,Fr 08:00-12:00; Tu-Th,Sa,Su 08:00-12:00,14:00-16:30",
+        "name_other": {
+          "old_name": "Trụ sở công ty Messageries maritimes"
+        },
+        "name_international": {
+          "en": "Ho Chi Minh Museum",
+          "fr": "Musée de Ho Chi Minh",
+          "id": "Muzium Presiden Ho Chi Minh",
+          "ms": "Muzium Presiden Ho Chi Minh",
+          "ru": "Музей Хо Ши Мина",
+          "vi": "Bảo tàng Hồ Chí Minh",
+          "zh": "胡志明主席宝物院"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q10743440",
+          "wikipedia": "en:Dragon House (Ho Chi Minh City)",
+          "wikimedia_commons": "Category:Dragon House (Ho Chi Minh City)"
+        },
+        "distance": 1560,
+        "place_id": "5146e4e8443cad5a4059e0a7c4795a892540f00102f901c67229300000000092031a42e1baa36f2074c3a06e672048e1bb93204368c3ad204d696e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70680353873567,
+          10.768268399482565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhà Hát \"Hàng Không Mẫu Hạm\"",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "71010",
+        "district": "Khu phố 9",
+        "street": "Tran Hung Dao Street",
+        "housenumber": "30",
+        "lon": 106.6945984,
+        "lat": 10.7674358,
+        "formatted": "Nhà Hát \"Hàng Không Mẫu Hạm\", 30, Tran Hung Dao Street, Khu phố 9, 71010, Vietnam",
+        "address_line1": "Nhà Hát \"Hàng Không Mẫu Hạm\"",
+        "address_line2": "30, Tran Hung Dao Street, Khu phố 9, 71010, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nhà Hát \"Hàng Không Mẫu Hạm\"",
+            "osm_id": 4216681689,
+            "amenity": "theatre",
+            "osm_type": "n",
+            "addr:street": "Đường Trần Hưng Ðạo",
+            "addr:housenumber": 30
+          }
+        },
+        "distance": 1268,
+        "place_id": "51a6f6d84c74ac5a40592e1d5958ed882540f00103f901d97455fb000000009203244e68c3a02048c3a174202248c3a06e67204b68c3b46e67204de1baab752048e1baa16d22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69459839999999,
+          10.76743579948251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nhà hát Cải lương Trần Hữu Trang",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Bến Thành",
+        "postcode": "70200",
+        "district": "Khu phố 3",
+        "street": "Tran Hung Dao Street",
+        "lon": 106.6922922649499,
+        "lat": 10.76508815,
+        "formatted": "Nhà hát Cải lương Trần Hữu Trang, Tran Hung Dao Street, Khu phố 3, 70200, Vietnam",
+        "address_line1": "Nhà hát Cải lương Trần Hữu Trang",
+        "address_line2": "Tran Hung Dao Street, Khu phố 3, 70200, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.culture",
+          "entertainment.culture.theatre"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nhà hát Cải lương Trần Hữu Trang",
+            "osm_id": 807577729,
+            "amenity": "theatre",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "distance": 1566,
+        "place_id": "51f24e37844eac5a4059f02a49a2b9872540f00102f90181a822300000000092032a4e68c3a02068c3a1742043e1baa369206cc6b0c6a16e67205472e1baa76e2048e1bbaf75205472616e67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.69229226494988,
+          10.765088149482352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotte Cinema",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "72760",
+        "street": "Nguyễn Văn Cừ",
+        "housenumber": "235",
+        "lon": 106.6823682,
+        "lat": 10.7643849,
+        "formatted": "Lotte Cinema, 235, Nguyễn Văn Cừ, 72760, Vietnam",
+        "address_line1": "Lotte Cinema",
+        "address_line2": "235, Nguyễn Văn Cừ, 72760, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 4771427931,
+            "amenity": "cinema",
+            "name:en": "Lotte Cinema",
+            "osm_type": "n"
+          }
+        },
+        "name_international": {
+          "en": "Lotte Cinema"
+        },
+        "distance": 2243,
+        "place_id": "5124b5abebabab5a405962aa21755d872540f00103f9015b36661c01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68236819999998,
+          10.764384899482312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cinestar Cinema Quốc Thanh",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Cầu Ông Lãnh",
+        "postcode": "70200",
+        "street": "Nguyen Trai Street",
+        "housenumber": "271",
+        "lon": 106.68750023907155,
+        "lat": 10.76378365,
+        "formatted": "Cinestar, 271, Nguyen Trai Street, 70200, Vietnam",
+        "address_line1": "Cinestar",
+        "address_line2": "271, Nguyen Trai Street, 70200, Vietnam",
+        "categories": [
+          "building",
+          "building.entertainment",
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [
+          "details"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cinestar Cinema Quốc Thanh",
+            "osm_id": 465285624,
+            "amenity": "cinema",
+            "name:en": "Cinestar",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:street": "Đường Nguyễn Trãi",
+            "addr:housenumber": 271
+          }
+        },
+        "name_international": {
+          "en": "Cinestar"
+        },
+        "distance": 1926,
+        "place_id": "517cb3000100ac5a4059e07d87a60e872540f00102f901f8b1bb1b0000000092031c43696e65737461722043696e656d61205175e1bb9163205468616e68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68750023907154,
+          10.763783649482264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Chợ Quán",
+        "postcode": "72760",
+        "street": "Hẻm 120 Đường Trần Bình Trọng",
+        "lon": 106.6824395,
+        "lat": 10.7576136,
+        "formatted": "Hẻm 120 Đường Trần Bình Trọng, 72760, Vietnam",
+        "address_line1": "Hẻm 120 Đường Trần Bình Trọng",
+        "address_line2": "72760, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 5170645222,
+            "tourism": "museum",
+            "osm_type": "n"
+          }
+        },
+        "distance": 2817,
+        "place_id": "51e97fb916adab5a40590f8f01eee5832540f00103f901e6c8313401000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6824395,
+          10.757613599481855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rạp Phim Megastar",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường An Đông",
+        "postcode": "72415",
+        "street": "Hùng Vương",
+        "housenumber": "126",
+        "lon": 106.6628487,
+        "lat": 10.7561091,
+        "formatted": "Rạp Phim Megastar, 126, Hùng Vương, 72415, Vietnam",
+        "address_line1": "Rạp Phim Megastar",
+        "address_line2": "126, Hùng Vương, 72415, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rạp Phim Megastar",
+            "osm_id": 1773230323,
+            "amenity": "cinema",
+            "osm_type": "n"
+          }
+        },
+        "distance": 4486,
+        "place_id": "518d2cf41c6caa5a4059d7f65cbb20832540f00103f901f358b1690000000092031352e1baa170205068696d204d65676173746172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6628487,
+          10.756109099481746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rạp Phim Đống Đa",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường An Đông",
+        "postcode": "72760",
+        "street": "Tran Hung Dao Boulevard",
+        "lon": 106.6742043,
+        "lat": 10.7536969,
+        "formatted": "Rạp Phim Đống Đa, Tran Hung Dao Boulevard, 72760, Vietnam",
+        "address_line1": "Rạp Phim Đống Đa",
+        "address_line2": "Tran Hung Dao Boulevard, 72760, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rạp Phim Đống Đa",
+            "osm_id": 3160548763,
+            "amenity": "cinema",
+            "osm_type": "n"
+          }
+        },
+        "distance": 3716,
+        "place_id": "51a5d4ca2926ab5a40597cbd5c8fe4812540f00103f9019b2562bc0000000092031652e1baa170205068696d20c490e1bb916e6720c49061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6742043,
+          10.753696899481604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Chợ Quán",
+        "postcode": "72760",
+        "street": "Hẻm 756 Võ Văn Kiệt",
+        "lon": 106.67922798084594,
+        "lat": 10.75326325,
+        "formatted": "Di tích Khu tạm giam Bệnh viện Chợ Quán, Hẻm 756 Võ Văn Kiệt, 72760, Vietnam",
+        "address_line1": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
+        "address_line2": "Hẻm 756 Võ Văn Kiệt, 72760, Vietnam",
+        "categories": [
+          "building",
+          "building.tourism",
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
+            "osm_id": 1044649220,
+            "tourism": "museum",
+            "building": "yes",
+            "osm_type": "w"
+          }
+        },
+        "distance": 3386,
+        "place_id": "51ba10a37878ab5a4059a29a7bb8ab812540f00102f9010415443e0000000092033144692074c3ad6368204b68752074e1baa16d206769616d2042e1bb876e68207669e1bb876e204368e1bba3205175c3a16e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67922798084592,
+          10.753263249481567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Công viên nước Đại Thế Giới",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường An Đông",
+        "postcode": "73009",
+        "street": "Võ Văn Kiệt",
+        "lon": 106.66876953766442,
+        "lat": 10.75160165,
+        "formatted": "Công viên nước Đại Thế Giới, Võ Văn Kiệt, 73009, Vietnam",
+        "address_line1": "Công viên nước Đại Thế Giới",
+        "address_line2": "Võ Văn Kiệt, 73009, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.water_park"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Công viên nước Đại Thế Giới",
+            "osm_id": 435329970,
+            "leisure": "water_park",
+            "osm_type": "w",
+            "addr:street": "Võ Văn Kiệt",
+            "addr:district": 5
+          }
+        },
+        "distance": 4264,
+        "place_id": "511a35bf1ecdaa5a4059f64870eed1802540f00102f901b29bf2190000000092032743c3b46e67207669c3aa6e206ec6b0e1bb9b6320c490e1baa169205468e1babf204769e1bb9b69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.66876953766442,
+          10.751601649481454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotte Cinema",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Hưng",
+        "postcode": "72910",
+        "street": "Bãi xe máy",
+        "lon": 106.7017423,
+        "lat": 10.7414306,
+        "formatted": "Lotte Cinema, Bãi xe máy, 72910, Vietnam",
+        "address_line1": "Lotte Cinema",
+        "address_line2": "Bãi xe máy, 72910, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.cinema"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Lotte Cinema",
+            "osm_id": 2355599823,
+            "amenity": "cinema",
+            "osm_type": "n"
+          }
+        },
+        "distance": 4152,
+        "place_id": "51122e8958e9ac5a4059200ca2ca9c7b2540f00103f901cf99678c0000000092030c4c6f7474652043696e656d61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7017423,
+          10.741430599480793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Champion 1250",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Chánh Hưng",
+        "postcode": "72900",
+        "street": "Tạ Quang Bửu",
+        "housenumber": "547-549",
+        "lon": 106.6798254,
+        "lat": 10.7412152,
+        "formatted": "Champion 1250, 547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "address_line1": "Champion 1250",
+        "address_line2": "547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.amusement_arcade"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Champion 1250",
+            "level": 2,
+            "osm_id": 12922496996,
+            "leisure": "amusement_arcade",
+            "osm_type": "n"
+          }
+        },
+        "distance": 4546,
+        "place_id": "515eff644282ab5a4059d122028f807b2540f00103f901e4a73d020300000092030d4368616d70696f6e2031323530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6798254,
+          10.741215199480765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "tiNi Store",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Chánh Hưng",
+        "postcode": "72900",
+        "street": "Tạ Quang Bửu",
+        "housenumber": "547-549",
+        "lon": 106.679887,
+        "lat": 10.7412081,
+        "formatted": "tiNi Store, 547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "address_line1": "tiNi Store",
+        "address_line2": "547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.amusement_arcade"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "tiNi Store",
+            "level": 2,
+            "osm_id": 12922496974,
+            "leisure": "amusement_arcade",
+            "osm_type": "n"
+          }
+        },
+        "distance": 4544,
+        "place_id": "516f7ec34483ab5a4059b499c5a07f7b2540f00103f901cea73d020300000092030a74694e692053746f7265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.679887,
+          10.741208099480765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timezone",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Chánh Hưng",
+        "postcode": "72900",
+        "street": "Tạ Quang Bửu",
+        "housenumber": "547-549",
+        "lon": 106.679957,
+        "lat": 10.7410702,
+        "formatted": "Timezone, 547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "address_line1": "Timezone",
+        "address_line2": "547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.amusement_arcade"
+        ],
+        "details": [
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Timezone",
+            "level": 3,
+            "osm_id": 12922496998,
+            "leisure": "amusement_arcade",
+            "osm_type": "n",
+            "air_conditioning": "yes"
+          }
+        },
+        "facilities": {
+          "air_conditioning": true
+        },
+        "distance": 4554,
+        "place_id": "51eb6b5d6a84ab5a4059c39e9d8d6d7b2540f00103f901e6a73d020300000092030854696d657a6f6e65"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67995699999999,
+          10.741070199480765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Games Plus",
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Chánh Hưng",
+        "postcode": "72900",
+        "street": "Tạ Quang Bửu",
+        "housenumber": "547-549",
+        "lon": 106.6794193,
+        "lat": 10.7406237,
+        "formatted": "City Games Plus, 547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "address_line1": "City Games Plus",
+        "address_line2": "547-549, Tạ Quang Bửu, 72900, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.amusement_arcade"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "City Games Plus",
+            "level": 2,
+            "osm_id": 12922496988,
+            "leisure": "amusement_arcade",
+            "osm_type": "n"
+          }
+        },
+        "distance": 4624,
+        "place_id": "515b71169b7bab5a405914d38f07337b2540f00103f901dca73d020300000092030f436974792047616d657320506c7573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.67941929999999,
+          10.740623699480729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Vietnam",
+        "country_code": "vn",
+        "county": "Phường Tân Hưng",
+        "postcode": "72910",
+        "street": "Đường Số 81",
+        "lon": 106.7049397,
+        "lat": 10.7403845,
+        "formatted": "Đường Số 81, 72910, Vietnam",
+        "address_line1": "Đường Số 81",
+        "address_line2": "72910, Vietnam",
+        "categories": [
+          "entertainment",
+          "entertainment.museum"
+        ],
+        "details": [],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "© OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "osm_id": 6404597285,
+            "tourism": "museum",
+            "osm_type": "n"
+          }
+        },
+        "distance": 4324,
+        "place_id": "51ba4967bb1dad5a40594c7857ad137b2540f00103f9012566be7d01000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.70493969999998,
+          10.740384499480705
+        ]
+      }
+    }
+  ]
+}
