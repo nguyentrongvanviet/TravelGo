@@ -1,0 +1,1094 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Điêu Thuyền",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Hẻm 152 Nguyễn Văn Khối",
+                "lon": 106.6553312,
+                "lat": 10.8439776,
+                "formatted": "Cà Phê Điêu Thuyền, Hẻm 152 Nguyễn Văn Khối, 71500, Vietnam",
+                "address_line1": "Cà Phê Điêu Thuyền",
+                "address_line2": "Hẻm 152 Nguyễn Văn Khối, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "tourism",
+                    "tourism.attraction"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Điêu Thuyền",
+                        "osm_id": 4746301227,
+                        "amenity": "cafe",
+                        "name:vi": "Điêu Thuyền",
+                        "tourism": "attraction",
+                        "osm_type": "n"
+                    }
+                },
+                "name_international": {
+                    "vi": "Điêu Thuyền"
+                },
+                "distance": 2181,
+                "place_id": "511a0346f2f0a95a40595ab6f8d41db02540f00103f9012bcfe61a0100000092031843c3a0205068c3aa20c49069c3aa752054687579e1bb816e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6553312,
+                    10.843977599487676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Hẻm 869 Lê Đức Thọ",
+                "lon": 106.6643985,
+                "lat": 10.8500873,
+                "formatted": "Hẻm 869 Lê Đức Thọ, 71500, Vietnam",
+                "address_line1": "Hẻm 869 Lê Đức Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access",
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 5189616025,
+                        "amenity": "cafe",
+                        "tourism": "artwork",
+                        "osm_type": "n",
+                        "internet_access": "wlan"
+                    }
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "distance": 3373,
+                "place_id": "51bc40498185aa5a4059bc177ca43eb32540f00103f9019941533501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6643985,
+                    10.850087299488102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Smoking room",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72100",
+                "street": "đường bộ hành",
+                "lon": 106.6628288,
+                "lat": 10.8165297,
+                "formatted": "Smoking room, đường bộ hành, 72100, Vietnam",
+                "address_line1": "Smoking room",
+                "address_line2": "đường bộ hành, 72100, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 12768107401,
+                        "name:en": "Smoking room",
+                        "name:ru": "Курилка",
+                        "tourism": "attraction",
+                        "osm_type": "n"
+                    }
+                },
+                "name_international": {
+                    "en": "Smoking room",
+                    "ru": "Курилка"
+                },
+                "distance": 3479,
+                "place_id": "5134b67cc96baa5a40592d02472e10a22540f00103f90189db09f902000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6628288,
+                    10.816529699485807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Đài tưởng niệm liệt sĩ quận Tân Bình",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Bình",
+                "postcode": "70500",
+                "street": "Trường Chinh",
+                "lon": 106.63612835070938,
+                "lat": 10.8036526,
+                "formatted": "Đài tưởng niệm liệt sĩ quận Tân Bình, Trường Chinh, 70500, Vietnam",
+                "address_line1": "Đài tưởng niệm liệt sĩ quận Tân Bình",
+                "address_line2": "Trường Chinh, 70500, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.monument"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Đài tưởng niệm liệt sĩ quận Tân Bình",
+                        "osm_id": 198047406,
+                        "historic": "monument",
+                        "osm_type": "w"
+                    }
+                },
+                "historic": {
+                    "type": "monument"
+                },
+                "distance": 3495,
+                "place_id": "51bc96af53b6a85a40593544805a789b2540f00102f901aef6cd0b00000000920332c490c3a0692074c6b0e1bb9f6e67206e69e1bb876d206c69e1bb87742073c4a9207175e1baad6e2054c3a26e2042c3ac6e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63612835070938,
+                    10.803652599484943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà tưởng niệm Nguyễn An Ninh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71716",
+                "street": "Hẻm 16 Hà Thị Khéo",
+                "lon": 106.61279552653727,
+                "lat": 10.85672135,
+                "formatted": "Nhà tưởng niệm Nguyễn An Ninh, Hẻm 16 Hà Thị Khéo, 71716, Vietnam",
+                "address_line1": "Nhà tưởng niệm Nguyễn An Ninh",
+                "address_line2": "Hẻm 16 Hà Thị Khéo, 71716, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.monument"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà tưởng niệm Nguyễn An Ninh",
+                        "osm_id": 516639140,
+                        "historic": "monument",
+                        "osm_type": "w"
+                    }
+                },
+                "historic": {
+                    "type": "monument"
+                },
+                "distance": 3564,
+                "place_id": "513667ba0a38a75a40593ead432ea4b62540f00102f901a449cb1e000000009203254e68c3a02074c6b0e1bb9f6e67206e69e1bb876d204e677579e1bb856e20416e204e696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61279552653727,
+                    10.856721349488563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Some Rockets And Military Vehicles",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Bảy Hiền",
+                "postcode": "70500",
+                "street": "Cong Hoa St",
+                "lon": 106.6487042,
+                "lat": 10.8022168,
+                "formatted": "Some Rockets And Military Vehicles, Cong Hoa St, 70500, Vietnam",
+                "address_line1": "Some Rockets And Military Vehicles",
+                "address_line2": "Cong Hoa St, 70500, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Some Rockets And Military Vehicles",
+                        "osm_id": 11827013649,
+                        "tourism": "attraction",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3874,
+                "place_id": "51c9f19e5e84a95a4059ac2d0c29bc9a2540f00103f90111e8f1c002000000920322536f6d6520526f636b65747320416e64204d696c69746172792056656869636c6573"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64870420000001,
+                    10.802216799484846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Xã Bà Điểm",
+                "postcode": "71717",
+                "street": "Nguyen Anh Thu",
+                "lon": 106.5998989,
+                "lat": 10.8429948,
+                "formatted": "Nguyen Anh Thu, 71717, Vietnam",
+                "address_line1": "Nguyen Anh Thu",
+                "address_line2": "71717, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 4358390889,
+                        "tourism": "attraction",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 4183,
+                "place_id": "51031a5bbe64a65a4059a9feac039daf2540f00103f90169c4c70301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.59989890000001,
+                    10.842994799487615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MI-8",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Thang Long",
+                "lon": 106.6609393,
+                "lat": 10.8052194,
+                "formatted": "MI-8, Thang Long, 72106, Vietnam",
+                "address_line1": "MI-8",
+                "address_line2": "Thang Long, 72106, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.aircraft"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "MI-8",
+                        "osm_id": 11828383887,
+                        "historic": "aircraft",
+                        "osm_type": "n",
+                        "aircraft:type": "helicopter",
+                        "model:wikidata": "Q155635"
+                    }
+                },
+                "historic": {
+                    "type": "aircraft"
+                },
+                "distance": 4217,
+                "place_id": "51088959d44caa5a40593ec995b7459c2540f00103f9018fd006c1020000009203044d492d38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6609393,
+                    10.80521939948505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RECONNAISSANCE PLANE U17. NO 764",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Phan Thúc Duyện",
+                "lon": 106.6608285,
+                "lat": 10.8050468,
+                "formatted": "RECONNAISSANCE PLANE U17. NO 764, Phan Thúc Duyện, 72106, Vietnam",
+                "address_line1": "RECONNAISSANCE PLANE U17. NO 764",
+                "address_line2": "Phan Thúc Duyện, 72106, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.aircraft"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "RECONNAISSANCE PLANE U17. NO 764",
+                        "osm_id": 11828383892,
+                        "historic": "aircraft",
+                        "osm_type": "n"
+                    }
+                },
+                "historic": {
+                    "type": "aircraft"
+                },
+                "distance": 4225,
+                "place_id": "51f1f09e034baa5a40594b1317182f9c2540f00103f90194d006c1020000009203205245434f4e4e41495353414e434520504c414e45205531372e204e4f20373634"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6608285,
+                    10.805046799485032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PLANE UH-1",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Phan Thúc Duyện",
+                "lon": 106.660777,
+                "lat": 10.8049508,
+                "formatted": "PLANE UH-1, Phan Thúc Duyện, 72106, Vietnam",
+                "address_line1": "PLANE UH-1",
+                "address_line2": "Phan Thúc Duyện, 72106, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.aircraft"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "PLANE UH-1",
+                        "osm_id": 11828383890,
+                        "historic": "aircraft",
+                        "osm_type": "n",
+                        "model:wikidata": "Q154106"
+                    }
+                },
+                "historic": {
+                    "type": "aircraft"
+                },
+                "distance": 4230,
+                "place_id": "51bb3c9d2b4aaa5a4059c45add82229c2540f00103f90192d006c10200000092030a504c414e452055482d31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66077699999998,
+                    10.804950799485034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MI-24",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Thang Long",
+                "lon": 106.661054,
+                "lat": 10.8051323,
+                "formatted": "MI-24, Thang Long, 72106, Vietnam",
+                "address_line1": "MI-24",
+                "address_line2": "Thang Long, 72106, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.aircraft"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "MI-24",
+                        "osm_id": 11828383891,
+                        "historic": "aircraft",
+                        "osm_type": "n",
+                        "aircraft:type": "helicopter",
+                        "model:wikidata": "Q155651"
+                    }
+                },
+                "historic": {
+                    "type": "aircraft"
+                },
+                "distance": 4233,
+                "place_id": "51f5b86fb54eaa5a4059b07bfe4c3a9c2540f00103f90193d006c1020000009203054d492d3234"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.661054,
+                    10.805132299485052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOMBER A-37",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Phan Thúc Duyện",
+                "lon": 106.6607168,
+                "lat": 10.8048659,
+                "formatted": "BOMBER A-37, Phan Thúc Duyện, 72106, Vietnam",
+                "address_line1": "BOMBER A-37",
+                "address_line2": "Phan Thúc Duyện, 72106, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.aircraft"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "BOMBER A-37",
+                        "model": "A-37 Dragonfly",
+                        "osm_id": 11828383888,
+                        "historic": "aircraft",
+                        "osm_type": "n",
+                        "model:wikidata": "Q488204"
+                    }
+                },
+                "historic": {
+                    "type": "aircraft"
+                },
+                "distance": 4234,
+                "place_id": "51bdfa1d2f49aa5a40595ae81762179c2540f00103f90190d006c10200000092030b424f4d42455220412d3337"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6607168,
+                    10.804865899485026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JET PLANE MIG-21",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Thang Long",
+                "lon": 106.6609448,
+                "lat": 10.804987,
+                "formatted": "JET PLANE MIG-21, Thang Long, 72106, Vietnam",
+                "address_line1": "JET PLANE MIG-21",
+                "address_line2": "Thang Long, 72106, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.aircraft"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "JET PLANE MIG-21",
+                        "osm_id": 11828383893,
+                        "historic": "aircraft",
+                        "osm_type": "n",
+                        "model:wikidata": "Q150609"
+                    }
+                },
+                "historic": {
+                    "type": "aircraft"
+                },
+                "distance": 4238,
+                "place_id": "51851d6beb4caa5a40599cfc8841279c2540f00103f90195d006c1020000009203104a455420504c414e45204d49472d3231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6609448,
+                    10.804986999485031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "INTERCEPTING BOMBER F5 NO 7579",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Phan Thúc Duyện",
+                "lon": 106.6609043,
+                "lat": 10.8049116,
+                "formatted": "INTERCEPTING BOMBER F5 NO 7579, Phan Thúc Duyện, 72106, Vietnam",
+                "address_line1": "INTERCEPTING BOMBER F5 NO 7579",
+                "address_line2": "Phan Thúc Duyện, 72106, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.aircraft"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "INTERCEPTING BOMBER F5 NO 7579",
+                        "osm_id": 11828383897,
+                        "historic": "aircraft",
+                        "osm_type": "n"
+                    }
+                },
+                "historic": {
+                    "type": "aircraft"
+                },
+                "distance": 4242,
+                "place_id": "514a928c414caa5a405927eb875f1d9c2540f00103f90199d006c10200000092031e494e54455243455054494e4720424f4d424552204635204e4f2037353739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6609043,
+                    10.804911599485036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Di tích Lịch sử Văn hóa mộ Phan Châu Trinh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Hẻm 12/4 Nguyễn Cảnh Dị",
+                "lon": 106.66189990512962,
+                "lat": 10.8042979,
+                "formatted": "Di tích Lịch sử Văn hóa mộ Phan Châu Trinh, Hẻm 12/4 Nguyễn Cảnh Dị, 72106, Vietnam",
+                "address_line1": "Di tích Lịch sử Văn hóa mộ Phan Châu Trinh",
+                "address_line2": "Hẻm 12/4 Nguyễn Cảnh Dị, 72106, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial",
+                    "tourism.sights.memorial.monument"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "area": "yes",
+                        "name": "Di tích Lịch sử Văn hóa mộ Phan Châu Trinh",
+                        "osm_id": 1230637669,
+                        "historic": "monument",
+                        "osm_type": "w"
+                    }
+                },
+                "historic": {
+                    "type": "monument"
+                },
+                "distance": 4330,
+                "place_id": "5175706b915caa5a4059190f2defcc9b2540f00102f901650a5a490000000092033444692074c3ad6368204ce1bb8b63682073e1bbad2056c4836e2068c3b361206de1bb99205068616e204368c3a275205472696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6618999051296,
+                    10.80429789948498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tượng Phan Châu Trinh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Phan Thúc Duyện",
+                "lon": 106.6619504,
+                "lat": 10.8042742,
+                "formatted": "Tượng Phan Châu Trinh, Phan Thúc Duyện, 72106, Vietnam",
+                "address_line1": "Tượng Phan Châu Trinh",
+                "address_line2": "Phan Thúc Duyện, 72106, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details.artwork"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tượng Phan Châu Trinh",
+                        "osm_id": 11412869313,
+                        "tourism": "artwork",
+                        "osm_type": "n",
+                        "artwork_type": "bust"
+                    }
+                },
+                "artwork": {
+                    "artwork_type": "bust"
+                },
+                "distance": 4368,
+                "place_id": "51bde435655daa5a4059f19befd3c99b2540f00103f901c19042a80200000092031954c6b0e1bba36e67205068616e204368c3a275205472696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66195039999998,
+                    10.804274199484981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Thới Hiệp",
+                "postcode": "71500",
+                "street": "Đường Chung Thị Minh",
+                "lon": 106.64635099378788,
+                "lat": 10.87469875,
+                "formatted": "Đường Chung Thị Minh, 71500, Vietnam",
+                "address_line1": "Đường Chung Thị Minh",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details.artwork"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "area": "yes",
+                        "osm_id": 1154098822,
+                        "tourism": "artwork",
+                        "osm_type": "w",
+                        "artwork_type": "relief"
+                    }
+                },
+                "artwork": {
+                    "artwork_type": "relief"
+                },
+                "distance": 4454,
+                "place_id": "5196038fd05da95a40594ed2b583d8bf2540f00102f9018626ca4400000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64635099378788,
+                    10.874698749489792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tượng Quan Âm",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Thới Hiệp",
+                "postcode": "71500",
+                "street": "Đường Chung Thị Minh",
+                "housenumber": "9",
+                "lon": 106.6467998,
+                "lat": 10.874663,
+                "formatted": "Tượng Quan Âm, 9, Đường Chung Thị Minh, 71500, Vietnam",
+                "address_line1": "Tượng Quan Âm",
+                "address_line2": "9, Đường Chung Thị Minh, 71500, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details.artwork"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tượng Quan Âm",
+                        "osm_id": 10733429694,
+                        "tourism": "artwork",
+                        "osm_type": "n",
+                        "artwork_type": "statue"
+                    }
+                },
+                "artwork": {
+                    "artwork_type": "statue"
+                },
+                "distance": 4464,
+                "place_id": "51cc03fd2a65a95a4059eaa823d4d3bf2540f00103f901be23c37f0200000092031154c6b0e1bba36e67205175616e20c3826d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6467998,
+                    10.87466299948979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tượng Phật Di Lặc",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Thới Hiệp",
+                "postcode": "71500",
+                "street": "Đường Chung Thị Minh",
+                "housenumber": "9",
+                "lon": 106.6465031,
+                "lat": 10.874989,
+                "formatted": "Tượng Phật Di Lặc, 9, Đường Chung Thị Minh, 71500, Vietnam",
+                "address_line1": "Tượng Phật Di Lặc",
+                "address_line2": "9, Đường Chung Thị Minh, 71500, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details.artwork"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tượng Phật Di Lặc",
+                        "osm_id": 10733449241,
+                        "tourism": "artwork",
+                        "osm_type": "n",
+                        "artwork_type": "statue"
+                    }
+                },
+                "artwork": {
+                    "artwork_type": "statue"
+                },
+                "distance": 4492,
+                "place_id": "51ced0894e60a95a40594a56e28efebf2540f00103f9011970c37f0200000092031854c6b0e1bba36e67205068e1baad74204469204ce1bab763"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64650309999999,
+                    10.874988999489819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Disco Travel - Du lịch Quốc Tế Khám Phá",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "city": "Ho Chi Minh City",
+                "postcode": "70048",
+                "street": "Bạch Đằng",
+                "housenumber": "88",
+                "lon": 106.6734822,
+                "lat": 10.8151663,
+                "formatted": "DISCO TRAVEL, 88, Bạch Đằng, Ho Chi Minh City, 70048, Vietnam",
+                "address_line1": "DISCO TRAVEL",
+                "address_line2": "88, Bạch Đằng, Ho Chi Minh City, 70048, Vietnam",
+                "categories": [
+                    "commercial",
+                    "service",
+                    "service.travel_agency",
+                    "tourism",
+                    "tourism.attraction"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Disco Travel - Du lịch Quốc Tế Khám Phá",
+                        "shop": "travel_agency",
+                        "email": "cd@discotravel.vn",
+                        "phone": "02871078910",
+                        "osm_id": 5137981655,
+                        "name:en": "DISCO TRAVEL",
+                        "tourism": "attraction",
+                        "website": "https://discotravel.vn/",
+                        "osm_type": "n",
+                        "addr:city": "Ho Chi Minh City",
+                        "addr:street": "Bạch Đằng",
+                        "payment:cash": "yes",
+                        "payment:visa": "yes",
+                        "addr:district": "Tan Binh",
+                        "addr:postcode": 736463,
+                        "opening_hours": "Mo-Fr 08:30-17:00",
+                        "addr:housenumber": 88,
+                        "addr:subdistrict": 2,
+                        "payment:mastercard": "yes",
+                        "payment:debit_cards": "yes",
+                        "payment:credit_cards": "yes"
+                    }
+                },
+                "website": "https://discotravel.vn/",
+                "opening_hours": "Mo-Fr 08:30-17:00",
+                "name_international": {
+                    "en": "DISCO TRAVEL"
+                },
+                "contact": {
+                    "phone": "02871078910",
+                    "email": "cd@discotravel.vn"
+                },
+                "payment_options": {
+                    "cash": true,
+                    "visa": true,
+                    "mastercard": true,
+                    "debit_cards": true,
+                    "credit_cards": true
+                },
+                "commercial": {
+                    "type": "travel_agency"
+                },
+                "distance": 4539,
+                "place_id": "510adc15551aab5a40595d2f2a7a5da12540f00103f901d7603f320100000092032f446973636f2054726176656c202d204475206ce1bb8b6368205175e1bb91632054e1babf204b68c3a16d205068c3a1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6734822,
+                    10.81516629948572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72215",
+                "street": "Phan Đình Giót",
+                "lon": 106.6644731,
+                "lat": 10.8041746,
+                "formatted": "Phan Đình Giót, 72215, Vietnam",
+                "address_line1": "Phan Đình Giót",
+                "address_line2": "72215, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details.artwork"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 2408595615,
+                        "tourism": "artwork",
+                        "osm_type": "n",
+                        "artwork_type": "sculpture"
+                    }
+                },
+                "artwork": {
+                    "artwork_type": "sculpture"
+                },
+                "distance": 4551,
+                "place_id": "5196642eba86aa5a4059ab1feac5bc9b2540f00103f9019f40908f00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66447309999998,
+                    10.804174599484972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Đài Tưởng Niệm Liệt Sỹ Ấp Doi",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Hẻm 114 Tô Ngọc Vân",
+                "lon": 106.6736408,
+                "lat": 10.8557082,
+                "formatted": "Đài Tưởng Niệm Liệt Sỹ Ấp Doi, Hẻm 114 Tô Ngọc Vân, 71500, Vietnam",
+                "address_line1": "Đài Tưởng Niệm Liệt Sỹ Ấp Doi",
+                "address_line2": "Hẻm 114 Tô Ngọc Vân, 71500, Vietnam",
+                "categories": [
+                    "tourism",
+                    "tourism.sights",
+                    "tourism.sights.memorial"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Đài Tưởng Niệm Liệt Sỹ Ấp Doi",
+                        "osm_id": 6361818785,
+                        "historic": "memorial",
+                        "osm_type": "n"
+                    }
+                },
+                "historic": {
+                    "type": "memorial"
+                },
+                "distance": 4558,
+                "place_id": "5115504dee1cab5a4059b67197621fb62540f00103f901a1a6317b0100000092032ac490c3a0692054c6b0e1bb9f6e67204e69e1bb876d204c69e1bb87742053e1bbb920e1baa47020446f69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6736408,
+                    10.855708199488486
+                ]
+            }
+        }
+    ]
+}

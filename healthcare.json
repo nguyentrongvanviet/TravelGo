@@ -1,0 +1,4410 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế phường 14",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn",
+                "postcode": "71509",
+                "street": "Phan Huy Ich",
+                "housenumber": "397",
+                "lon": 106.63820676403941,
+                "lat": 10.842430100000001,
+                "formatted": "Trạm Y tế phường 14, 397, Phan Huy Ich, 71509, Vietnam",
+                "address_line1": "Trạm Y tế phường 14",
+                "address_line2": "397, Phan Huy Ich, 71509, Vietnam",
+                "categories": [
+                    "building",
+                    "building.healthcare",
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trạm Y tế phường 14",
+                        "osm_id": 1308615193,
+                        "amenity": "clinic",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Phường 14",
+                        "healthcare": "clinic",
+                        "addr:street": "Đường Phan Huy Ích",
+                        "addr:district": "Gò Vấp",
+                        "addr:province": "Thành phố Hồ Chí Minh",
+                        "addr:housenumber": 397,
+                        "addr:subdistrict": "Phường 14"
+                    }
+                },
+                "distance": 775,
+                "place_id": "51a8e82e61d8a85a40592aee7cff52af2540f00102f90119e2ff4d0000000092031a5472e1baa16d20592074e1babf207068c6b0e1bb9d6e67203134"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63820676403941,
+                    10.842430099487576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trung Tâm Y Tế Phường 12 Quận Gò Vấp",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Đường Quang Trung",
+                "lon": 106.6403741,
+                "lat": 10.8440162,
+                "formatted": "Trung Tâm Y Tế Phường 12 Quận Gò Vấp, Đường Quang Trung, 71500, Vietnam",
+                "address_line1": "Trung Tâm Y Tế Phường 12 Quận Gò Vấp",
+                "address_line2": "Đường Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trung Tâm Y Tế Phường 12 Quận Gò Vấp",
+                        "osm_id": 2593675882,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy"
+                    }
+                },
+                "distance": 1008,
+                "place_id": "51262da6e3fba85a40590a302ce422b02540f00103f9016a5a989a0000000092032f5472756e672054c3a26d20592054e1babf205068c6b0e1bb9d6e67203132205175e1baad6e2047c3b22056e1baa570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6403741,
+                    10.844016199487687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Thảo Anh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Phạm Văn Chiêu",
+                "housenumber": "37",
+                "lon": 106.6410542,
+                "lat": 10.8449543,
+                "formatted": "Nhà Thuốc Thảo Anh, 37, Phạm Văn Chiêu, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Thảo Anh",
+                "address_line2": "37, Phạm Văn Chiêu, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Thảo Anh",
+                        "osm_id": 4523205793,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Phạm Văn Chiêu",
+                        "addr:housenumber": 37
+                    }
+                },
+                "distance": 1131,
+                "place_id": "51a9fd310807a95a405932d495d99db02540f00103f901a1a49a0d010000009203174e68c3a020546875e1bb9163205468e1baa36f20416e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6410542,
+                    10.844954299487743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế phường Tân Hưng Thuận",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "city": "Ho Chi Minh City",
+                "postcode": "71509",
+                "street": "Đường DD7",
+                "lon": 106.62417312382021,
+                "lat": 10.8408822,
+                "formatted": "Trạm Y tế phường Tân Hưng Thuận, Đường DD7, Ho Chi Minh City, 71509, Vietnam",
+                "address_line1": "Trạm Y tế phường Tân Hưng Thuận",
+                "address_line2": "Đường DD7, Ho Chi Minh City, 71509, Vietnam",
+                "categories": [
+                    "building",
+                    "building.healthcare",
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trạm Y tế phường Tân Hưng Thuận",
+                        "osm_id": 549509805,
+                        "amenity": "clinic",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Hồ Chí Minh",
+                        "healthcare": "clinic",
+                        "addr:district": 12,
+                        "addr:subdistrict": "Tân Hưng Thuận"
+                    }
+                },
+                "distance": 1553,
+                "place_id": "516676d473f2a75a4059aa2c951c88ae2540f00102f901addac0200000000092032a5472e1baa16d20592074e1babf207068c6b0e1bb9d6e672054c3a26e2048c6b06e6720546875e1baad6e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62417312382021,
+                    10.84088219948747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BỆNH VIỆN ĐA KHOA TÂM TRÍ SÀI GÒN",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.62156618489001,
+                "lat": 10.83166335,
+                "formatted": "BỆNH VIỆN ĐA KHOA TÂM TRÍ SÀI GÒN, Trường Chinh, 71509, Vietnam",
+                "address_line1": "BỆNH VIỆN ĐA KHOA TÂM TRÍ SÀI GÒN",
+                "address_line2": "Trường Chinh, 71509, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "BỆNH VIỆN ĐA KHOA TÂM TRÍ SÀI GÒN",
+                        "osm_id": 1010844322,
+                        "amenity": "hospital",
+                        "operator": "TẬP ĐOÀN TÂM TRÍ SÀI GÒN",
+                        "osm_type": "w",
+                        "healthcare": "hospital"
+                    }
+                },
+                "operator": "TẬP ĐOÀN TÂM TRÍ SÀI GÒN",
+                "distance": 1727,
+                "place_id": "51bc1989bdc7a75a4059d6a74ec7cfa92540f00102f901a242403c0000000092032a42e1bb864e48205649e1bb864e20c49041204b484f412054c3824d205452c38d2053c380492047c3924e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62156618489001,
+                    10.831663349486842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Đa khoa Tâm Trí Sài Gòn",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.6218645,
+                "lat": 10.8317212,
+                "formatted": "Bệnh viện Đa khoa Tâm Trí Sài Gòn, Trường Chinh, 71509, Vietnam",
+                "address_line1": "Bệnh viện Đa khoa Tâm Trí Sài Gòn",
+                "address_line2": "Trường Chinh, 71509, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bệnh viện Đa khoa Tâm Trí Sài Gòn",
+                        "osm_id": 9593240663,
+                        "amenity": "hospital",
+                        "osm_type": "n",
+                        "healthcare": "hospital"
+                    }
+                },
+                "distance": 1743,
+                "place_id": "51c782c2a0cca75a4059345f6e5cd7a92540f00103f901573ccd3b0200000092032a42e1bb876e68207669e1bb876e20c49061206b686f612054c3a26d205472c3ad2053c3a0692047c3b26e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6218645,
+                    10.831721199486857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tây Pharmacity",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Hẻm 248 Nguyễn Văn Khối",
+                "lon": 106.6522586,
+                "lat": 10.8432362,
+                "formatted": "Nhà Thuốc Tây Pharmacity, Hẻm 248 Nguyễn Văn Khối, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Tây Pharmacity",
+                "address_line2": "Hẻm 248 Nguyễn Văn Khối, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tây Pharmacity",
+                        "osm_id": 6751316502,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Hẻm 248 Đường số 10"
+                    }
+                },
+                "distance": 1845,
+                "place_id": "5139e2da9abea95a40599634b7a7bcaf2540f00103f90116ea68920100000092031c4e68c3a020546875e1bb91632054c3a27920506861726d6163697479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6522586,
+                    10.843236199487631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tây Ngọc Diệp",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường số 18",
+                "lon": 106.657216,
+                "lat": 10.840569,
+                "formatted": "Nhà Thuốc Tây Ngọc Diệp, Đường số 18, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Tây Ngọc Diệp",
+                "address_line2": "Đường số 18, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tây Ngọc Diệp",
+                        "osm_id": 6754138058,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy"
+                    }
+                },
+                "distance": 2244,
+                "place_id": "511b9ab2d30faa5a4059f8a8550f5fae2540f00103f901caf793920100000092031f4e68c3a020546875e1bb91632054c3a279204e67e1bb8d63204469e1bb8770"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65721599999999,
+                    10.840568999487445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pharmacity",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6575748,
+                "lat": 10.8397918,
+                "formatted": "Pharmacity, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Pharmacity",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Pharmacity",
+                        "osm_id": 6790870477,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Văn Thọ"
+                    }
+                },
+                "distance": 2262,
+                "place_id": "511e2b9db415aa5a4059a37ed430f9ad2540f00103f901cd75c4940100000092030a506861726d6163697479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65757479999999,
+                    10.839791799487392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Bảo Vy",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6574313,
+                "lat": 10.8404649,
+                "formatted": "Nhà Thuốc Bảo Vy, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Bảo Vy",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Bảo Vy",
+                        "osm_id": 6754138042,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Văn Thọ"
+                    }
+                },
+                "distance": 2264,
+                "place_id": "517937bb5a13aa5a40591078516a51ae2540f00103f901baf79392010000009203154e68c3a020546875e1bb91632042e1baa36f205679"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6574313,
+                    10.840464899487444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6572218,
+                "lat": 10.8428958,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.dentist"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 8149539360,
+                        "amenity": "dentist",
+                        "osm_type": "n",
+                        "healthcare": "dentist"
+                    }
+                },
+                "distance": 2324,
+                "place_id": "51f74d06ec0faa5a40595778c90990af2540f00103f901201ac0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65722179999999,
+                    10.842895799487605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nha Khoa Sao Việt",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6568463,
+                "lat": 10.8473989,
+                "formatted": "Nha Khoa Sao Việt, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Nha Khoa Sao Việt",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.dentist"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nha Khoa Sao Việt",
+                        "osm_id": 8149539328,
+                        "amenity": "dentist",
+                        "osm_type": "n",
+                        "healthcare": "dentist"
+                    }
+                },
+                "distance": 2510,
+                "place_id": "51e93f10c509aa5a405919efbf44deb12540f00103f901001ac0e5010000009203134e6861204b686f612053616f205669e1bb8774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6568463,
+                    10.847398899487915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Hẻm 418 Lê Văn Thọ",
+                "lon": 106.6568409,
+                "lat": 10.8485817,
+                "formatted": "Hẻm 418 Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Hẻm 418 Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 8149539317,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "dispensing": "yes",
+                        "healthcare": "pharmacy"
+                    }
+                },
+                "distance": 2581,
+                "place_id": "51360b6aae09aa5a4059f691ee4c79b22540f00103f901f519c0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65684089999999,
+                    10.848581699488005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Quận Gò Vấp",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "72100",
+                "street": "Đường Quang Trung",
+                "housenumber": "641",
+                "lon": 106.66157712060883,
+                "lat": 10.83469895,
+                "formatted": "Bệnh viện Quận Gò Vấp, 641, Đường Quang Trung, 72100, Vietnam",
+                "address_line1": "Bệnh viện Quận Gò Vấp",
+                "address_line2": "641, Đường Quang Trung, 72100, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bệnh viện Quận Gò Vấp",
+                        "osm_id": 1087651865,
+                        "amenity": "hospital",
+                        "osm_type": "w",
+                        "healthcare": "hospital",
+                        "addr:street": "Đường Quang Trung",
+                        "addr:housenumber": 641
+                    }
+                },
+                "distance": 2588,
+                "place_id": "51fe32904757aa5a4059d81a24a95dab2540f00102f9011940d4400000000092031e42e1bb876e68207669e1bb876e205175e1baad6e2047c3b22056e1baa570"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66157712060883,
+                    10.834698949487048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KidCare Phòng Khám Nhi Đồng",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6567041,
+                "lat": 10.8491586,
+                "formatted": "KidCare Phòng Khám Nhi Đồng, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "KidCare Phòng Khám Nhi Đồng",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "KidCare Phòng Khám Nhi Đồng",
+                        "osm_id": 8149536115,
+                        "amenity": "clinic",
+                        "osm_type": "n",
+                        "healthcare": "clinic"
+                    }
+                },
+                "distance": 2605,
+                "place_id": "518a29a27007aa5a405928d67beac4b22540f00103f901730dc0e5010000009203204b696443617265205068c3b26e67204b68c3a16d204e686920c490e1bb936e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65670409999998,
+                    10.849158599488035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6564145,
+                "lat": 10.8501649,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.dentist"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 8149536109,
+                        "amenity": "dentist",
+                        "osm_type": "n",
+                        "healthcare": "dentist"
+                    }
+                },
+                "distance": 2647,
+                "place_id": "51b187f6b102aa5a40595d044fd048b32540f00103f9016d0dc0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6564145,
+                    10.850164899488101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NHÀ THUỐC KHÔI NGUYÊN",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "city": "Ho Chi Minh City",
+                "postcode": "70000",
+                "street": "Tân Chánh Hiệp 36",
+                "housenumber": "8",
+                "lon": 106.6237648,
+                "lat": 10.8564039,
+                "formatted": "NHÀ THUỐC KHÔI NGUYÊN, 8, Tân Chánh Hiệp 36, Ho Chi Minh City, 70000, Vietnam",
+                "address_line1": "NHÀ THUỐC KHÔI NGUYÊN",
+                "address_line2": "8, Tân Chánh Hiệp 36, Ho Chi Minh City, 70000, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "NHÀ THUỐC KHÔI NGUYÊN",
+                        "osm_id": 12876462407,
+                        "amenity": "pharmacy",
+                        "operator": "Tư nhân",
+                        "osm_type": "n",
+                        "addr:city": "Thành phố Hồ Chí Minh",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Tân Chánh Hiệp 36",
+                        "addr:district": "Quận 12",
+                        "addr:postcode": 70000,
+                        "addr:province": "Hồ Chí Minh",
+                        "opening_hours": "Mo-Su 07:00-22:00",
+                        "addr:housenumber": 8,
+                        "addr:subdistrict": "Phường Tân Chánh Hiệp"
+                    }
+                },
+                "opening_hours": "Mo-Su 07:00-22:00",
+                "operator": "Tư nhân",
+                "distance": 2759,
+                "place_id": "51571932c3eba75a4059b4f068927ab62540f00103f90147397fff0200000092031a4e48c38020544855e1bb9043204b48c39449204e475559c38a4e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62376479999999,
+                    10.856403899488534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Road No.8",
+                "lon": 106.6626039,
+                "lat": 10.8400737,
+                "formatted": "Road No.8, 71500, Vietnam",
+                "address_line1": "Road No.8",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6757123990,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường số 8"
+                    }
+                },
+                "distance": 2807,
+                "place_id": "51ee2c301a68aa5a40596e0ed3231eae2540f00103f9019687c19201000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6626039,
+                    10.840073699487416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Alphabet Pharma",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường số 4",
+                "lon": 106.6585122,
+                "lat": 10.8499984,
+                "formatted": "Nhà Thuốc Alphabet Pharma, Đường số 4, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Alphabet Pharma",
+                "address_line2": "Đường số 4, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Alphabet Pharma",
+                        "osm_id": 6754158705,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường số 4"
+                    }
+                },
+                "distance": 2820,
+                "place_id": "5117c15a1025aa5a40594be87efd32b32540f00103f901714894920100000092031c4e68c3a020546875e1bb916320416c70686162657420506861726d61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6585122,
+                    10.849998399488092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Quận 12",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "city": "Ho Chi Minh City",
+                "postcode": "71507",
+                "street": "Dương Thị Mười",
+                "housenumber": "111",
+                "lon": 106.63060705967942,
+                "lat": 10.8606375,
+                "formatted": "Bệnh viện Quận 12, 111, Dương Thị Mười, Ho Chi Minh City, 71507, Vietnam",
+                "address_line1": "Bệnh viện Quận 12",
+                "address_line2": "111, Dương Thị Mười, Ho Chi Minh City, 71507, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bệnh viện Quận 12",
+                        "osm_id": 516774772,
+                        "amenity": "hospital",
+                        "osm_type": "w",
+                        "addr:city": "Hồ Chí Minh",
+                        "healthcare": "hospital",
+                        "addr:street": "Dương Thị Mười",
+                        "addr:district": 12,
+                        "addr:housenumber": 111,
+                        "addr:subdistrict": "Tân Chánh Hiệp"
+                    }
+                },
+                "distance": 2831,
+                "place_id": "51ca7cb6dd5ba85a40590e08747aa5b82540f00102f901745bcd1e0000000092031742e1bb876e68207669e1bb876e205175e1baad6e203132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63060705967942,
+                    10.860637499488828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Road No.8",
+                "lon": 106.6624276,
+                "lat": 10.841923,
+                "formatted": "Road No.8, 71500, Vietnam",
+                "address_line1": "Road No.8",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6757184228,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường số 8"
+                    }
+                },
+                "distance": 2834,
+                "place_id": "51ef7dbb3665aa5a40593519098810af2540f00103f901e472c29201000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66242759999999,
+                    10.841922999487545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Road No.8",
+                "housenumber": "134",
+                "lon": 106.6626361,
+                "lat": 10.8411801,
+                "formatted": "134, Road No.8, 71500, Vietnam",
+                "address_line1": "134, Road No.8",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6757184229,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường số 8",
+                        "addr:housenumber": 134
+                    }
+                },
+                "distance": 2836,
+                "place_id": "518aa93ea168aa5a40598bb07228afae2540f00103f901e572c29201000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66263610000001,
+                    10.841180099487493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế phường Tây Thạnh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "72011",
+                "street": "Hẻm 200 Nguyễn Hữu Tiến",
+                "housenumber": "200/14",
+                "lon": 106.6238898,
+                "lat": 10.8131991,
+                "formatted": "Trạm Y tế phường Tây Thạnh, 200/14, Hẻm 200 Nguyễn Hữu Tiến, 72011, Vietnam",
+                "address_line1": "Trạm Y tế phường Tây Thạnh",
+                "address_line2": "200/14, Hẻm 200 Nguyễn Hữu Tiến, 72011, Vietnam",
+                "categories": [
+                    "building",
+                    "building.healthcare",
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trạm Y tế phường Tây Thạnh",
+                        "osm_id": 1309226749,
+                        "amenity": "clinic",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Phường Tây Thạnh",
+                        "healthcare": "clinic",
+                        "addr:street": "Hẻm 200 Nguyễn Hữu Tiến",
+                        "addr:district": "Quận Tân Phú",
+                        "addr:province": "Thành phố Hồ Chí Minh",
+                        "addr:housenumber": "200/14",
+                        "addr:subdistrict": "Phường Tây Thạnh"
+                    }
+                },
+                "distance": 2857,
+                "place_id": "51b4d37bcfeda75a4059c4dae2a15ba02540f00102f901fd36094e000000009203245472e1baa16d20592074e1babf207068c6b0e1bb9d6e672054c3a279205468e1baa16e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62388979999997,
+                    10.813199099485594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trung Tâm Tiêm Chủng VNVC Quận 12",
+                "lon": 106.61370009999999,
+                "lat": 10.848576899487993,
+                "categories": [
+                    "healthcare"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trung Tâm Tiêm Chủng VNVC Quận 12",
+                        "osm_id": 9593196266,
+                        "osm_type": "n",
+                        "healthcare": "yes"
+                    }
+                },
+                "distance": 2970,
+                "place_id": "5152c3c8dc46a75a40594fe2deab78b22540f00103f901ea8ecc3b020000009203275472756e672054c3a26d205469c3aa6d204368e1bba76e6720564e5643205175e1baad6e203132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61370009999999,
+                    10.848576899487993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Road No.8",
+                "lon": 106.6647604,
+                "lat": 10.8369994,
+                "formatted": "Road No.8, 71500, Vietnam",
+                "address_line1": "Road No.8",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6754302182,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường số 8"
+                    }
+                },
+                "distance": 3000,
+                "place_id": "51416b346f8baa5a405971236f2f8bac2540f00103f901e678969201000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66476039999999,
+                    10.836999399487214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "72100",
+                "street": "Đường Thống Nhất",
+                "housenumber": "239-241",
+                "lon": 106.6649589,
+                "lat": 10.837845,
+                "formatted": "239-241, Đường Thống Nhất, 72100, Vietnam",
+                "address_line1": "239-241, Đường Thống Nhất",
+                "address_line2": "72100, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.dentist"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6754296920,
+                        "amenity": "dentist",
+                        "osm_type": "n",
+                        "healthcare": "dentist",
+                        "addr:street": "Đường Thống Nhất",
+                        "addr:housenumber": "239-241"
+                    }
+                },
+                "distance": 3029,
+                "place_id": "51c82bc6af8eaa5a405970d40f05faac2540f00103f9015864969201000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66495889999999,
+                    10.83784499948726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Kim Nga",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "72100",
+                "street": "Đường Thống Nhất",
+                "housenumber": "269",
+                "lon": 106.6651185,
+                "lat": 10.8385794,
+                "formatted": "Nhà Thuốc Kim Nga, 269, Đường Thống Nhất, 72100, Vietnam",
+                "address_line1": "Nhà Thuốc Kim Nga",
+                "address_line2": "269, Đường Thống Nhất, 72100, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Kim Nga",
+                        "osm_id": 6754295101,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Thống Nhất",
+                        "addr:housenumber": 269
+                    }
+                },
+                "distance": 3055,
+                "place_id": "51bb5d2f4d91aa5a405970cb6f475aad2540f00103f9013d5d9692010000009203144e68c3a020546875e1bb9163204b696d204e6761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66511849999999,
+                    10.838579399487315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pharmacity",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "lon": 106.6648918,
+                "lat": 10.8405071,
+                "formatted": "Pharmacity, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "Pharmacity",
+                "address_line2": "Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Pharmacity",
+                        "osm_id": 6791481639,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Thống Nhất"
+                    }
+                },
+                "distance": 3062,
+                "place_id": "513a1856968daa5a405970b550f256ae2540f00103f90127c9cd940100000092030a506861726d6163697479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66489179999999,
+                    10.84050709948744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tây Mai Khanh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "lon": 106.6649589,
+                "lat": 10.8410721,
+                "formatted": "Nhà Thuốc Tây Mai Khanh, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Tây Mai Khanh",
+                "address_line2": "Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tây Mai Khanh",
+                        "osm_id": 6754320536,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Thống Nhất"
+                    }
+                },
+                "distance": 3081,
+                "place_id": "51c82bc6af8eaa5a4059edc09100a1ae2540f00103f90198c096920100000092031b4e68c3a020546875e1bb91632054c3a279204d6169204b68616e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66495889999999,
+                    10.841072099487485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tư Nhân Thiên An",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "lon": 106.6647859,
+                "lat": 10.8426804,
+                "formatted": "Nhà Thuốc Tư Nhân Thiên An, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Tư Nhân Thiên An",
+                "address_line2": "Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tư Nhân Thiên An",
+                        "osm_id": 6754320538,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Thống Nhất"
+                    }
+                },
+                "distance": 3104,
+                "place_id": "51e1d528da8baa5a4059178f29ce73af2540f00103f9019ac09692010000009203204e68c3a020546875e1bb91632054c6b0204e68c3a26e20546869c3aa6e20416e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66478589999998,
+                    10.842680399487604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Trường Sơn 6",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6598332,
+                "lat": 10.8529251,
+                "formatted": "Nhà Thuốc Trường Sơn 6, Đường Lê Đức Thọ, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Trường Sơn 6",
+                "address_line2": "Đường Lê Đức Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Trường Sơn 6",
+                        "osm_id": 6759766030,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 3129,
+                "place_id": "5128b407b53aaa5a4059c57a4099b2b42540f00103f9010ed8e9920100000092031d4e68c3a020546875e1bb9163205472c6b0e1bb9d6e672053c6a16e2036"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65983319999998,
+                    10.852925099488298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Gia Vinh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "lon": 106.6646343,
+                "lat": 10.8443163,
+                "formatted": "Nhà Thuốc Gia Vinh, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Gia Vinh",
+                "address_line2": "Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Gia Vinh",
+                        "osm_id": 6754295124,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Thống Nhất"
+                    }
+                },
+                "distance": 3140,
+                "place_id": "5131934d5e89aa5a40590f8fdb394ab02540f00103f901545d9692010000009203154e68c3a020546875e1bb9163204769612056696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6646343,
+                    10.8443162994877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng Khám Sản Phụ Khoa Bs Nguyễn Thị Thu",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "housenumber": "449",
+                "lon": 106.664675,
+                "lat": 10.8448246,
+                "formatted": "Doctor Thu’s Obstetrics & Gynaecology Clinic, 449, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "Doctor Thu’s Obstetrics & Gynaecology Clinic",
+                "address_line2": "449, Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Phòng Khám Sản Phụ Khoa Bs Nguyễn Thị Thu",
+                        "phone": "0908454791",
+                        "osm_id": 6564915185,
+                        "amenity": "doctors",
+                        "name:en": "Doctor Thu’s Obstetrics & Gynaecology Clinic",
+                        "website": "http://khamthaigiadinh.com",
+                        "osm_type": "n",
+                        "healthcare": "doctor",
+                        "addr:street": "Đường Thống Nhất",
+                        "opening_hours": "Mo-Su 17:00-20:30",
+                        "addr:housenumber": 449
+                    }
+                },
+                "website": "http://khamthaigiadinh.com",
+                "opening_hours": "Mo-Su 17:00-20:30",
+                "name_international": {
+                    "en": "Doctor Thu’s Obstetrics & Gynaecology Clinic"
+                },
+                "contact": {
+                    "phone": "0908454791"
+                },
+                "distance": 3163,
+                "place_id": "5100de02098aaa5a4059f44f93d98cb02540f00103f901f1a74c87010000009203335068c3b26e67204b68c3a16d2053e1baa36e205068e1bba5204b686f61204273204e677579e1bb856e205468e1bb8b20546875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66467499999999,
+                    10.844824599487744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tư Nhân Bác Ái I",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6605601,
+                "lat": 10.8526004,
+                "formatted": "Nhà Thuốc Tư Nhân Bác Ái I, Đường Lê Đức Thọ, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Tư Nhân Bác Ái I",
+                "address_line2": "Đường Lê Đức Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tư Nhân Bác Ái I",
+                        "osm_id": 6753502974,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 3170,
+                "place_id": "51b8a2de9d46aa5a4059a6b7200a88b42540f00103f901fe468a92010000009203214e68c3a020546875e1bb91632054c6b0204e68c3a26e2042c3a16320c381692049"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6605601,
+                    10.852600399488278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "72100",
+                "street": "Đường Quang Trung",
+                "lon": 106.6672676,
+                "lat": 10.8325486,
+                "formatted": "Đường Quang Trung, 72100, Vietnam",
+                "address_line1": "Đường Quang Trung",
+                "address_line2": "72100, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6770102834,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Quang Trung"
+                    }
+                },
+                "distance": 3284,
+                "place_id": "518beb2983b4aa5a4059f1405ecf43aa2540f00103f9013292879301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66726759999999,
+                    10.8325485994869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nha Sĩ Tâm Việt",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "72100",
+                "street": "Đường Quang Trung",
+                "housenumber": "366",
+                "lon": 106.6673481,
+                "lat": 10.8324854,
+                "formatted": "Nha Sĩ Tâm Việt, 366, Đường Quang Trung, 72100, Vietnam",
+                "address_line1": "Nha Sĩ Tâm Việt",
+                "address_line2": "366, Đường Quang Trung, 72100, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.dentist"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nha Sĩ Tâm Việt",
+                        "osm_id": 6769851246,
+                        "amenity": "dentist",
+                        "osm_type": "n",
+                        "healthcare": "dentist",
+                        "addr:street": "Đường Quang Trung",
+                        "addr:housenumber": 366
+                    }
+                },
+                "distance": 3294,
+                "place_id": "510d23ced4b5aa5a40592f63ba863baa2540f00103f9016ebb8393010000009203134e68612053c4a92054c3a26d205669e1bb8774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66734809999998,
+                    10.832485399486897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pharmacity",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6651721,
+                "lat": 10.8496007,
+                "formatted": "Pharmacity, Đường Lê Đức Thọ, 71500, Vietnam",
+                "address_line1": "Pharmacity",
+                "address_line2": "Đường Lê Đức Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Pharmacity",
+                        "osm_id": 6758069582,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 3422,
+                "place_id": "518bedff2d92aa5a405980ebe5dcfeb22540f00103f9014ef5cf920100000092030a506861726d6163697479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66517209999999,
+                    10.849600699488064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tây Cao Nguyên",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Phạm Văn Chiêu",
+                "lon": 106.663076,
+                "lat": 10.8533742,
+                "formatted": "Nhà Thuốc Tây Cao Nguyên, Phạm Văn Chiêu, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Tây Cao Nguyên",
+                "address_line2": "Phạm Văn Chiêu, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tây Cao Nguyên",
+                        "osm_id": 6759766028,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Phạm Văn Chiêu"
+                    }
+                },
+                "distance": 3443,
+                "place_id": "51ccb051d66faa5a4059e81a8c76edb42540f00103f9010cd8e9920100000092031d4e68c3a020546875e1bb91632054c3a2792043616f204e677579c3aa6e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66307599999999,
+                    10.853374199488329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "70048",
+                "street": "Đường Quang Trung",
+                "lon": 106.6688896,
+                "lat": 10.8310298,
+                "formatted": "Đường Quang Trung, 70048, Vietnam",
+                "address_line1": "Đường Quang Trung",
+                "address_line2": "70048, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6769841686,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Quang Trung"
+                    }
+                },
+                "distance": 3480,
+                "place_id": "519b285316cfaa5a40592c98e5bc7ca92540f00103f9011696839301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66888959999999,
+                    10.831029799486792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OTiV",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Bảy Hiền",
+                "postcode": "70500",
+                "street": "Hoàng Hoa Thám",
+                "lon": 106.6480298,
+                "lat": 10.8055664,
+                "formatted": "OTiV, Hoàng Hoa Thám, 70500, Vietnam",
+                "address_line1": "OTiV",
+                "address_line2": "Hoàng Hoa Thám, 70500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "OTiV",
+                        "phone": "028 6293 6629",
+                        "osm_id": 9728475686,
+                        "amenity": "pharmacy",
+                        "website": "https://otiv.com.vn",
+                        "operator": "Công ty cổ phần dược phẩm ECO",
+                        "osm_type": "n",
+                        "wikidata": "Q124547360",
+                        "healthcare": "pharmaceutical_company",
+                        "contact:facebook": "EcogreenOTiV"
+                    }
+                },
+                "website": "https://otiv.com.vn",
+                "operator": "Công ty cổ phần dược phẩm ECO",
+                "contact": {
+                    "phone": "028 6293 6629"
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q124547360"
+                },
+                "distance": 3500,
+                "place_id": "515675fb5179a95a4059f816f932739c2540f00103f90126c2dc43020000009203044f546956"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64802979999999,
+                    10.805566399485073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "72100",
+                "street": "Hẻm 312 Đường Quang Trung",
+                "housenumber": "2",
+                "lon": 106.6697185,
+                "lat": 10.8310667,
+                "formatted": "2, Hẻm 312 Đường Quang Trung, 72100, Vietnam",
+                "address_line1": "2, Hẻm 312 Đường Quang Trung",
+                "address_line2": "72100, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6769841690,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Hẻm 312 Quang Trung",
+                        "addr:housenumber": 2
+                    }
+                },
+                "distance": 3570,
+                "place_id": "51adc1fbaadcaa5a4059522e0e9381a92540f00103f9011a96839301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6697185,
+                    10.8310666994868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh Viện Thẩm Mỹ Gangwhoo",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Bình",
+                "city": "Ho Chi Minh City",
+                "postcode": "70500",
+                "street": "Cong Hoa St",
+                "housenumber": "576 - 578",
+                "lon": 106.6390376,
+                "lat": 10.8031329,
+                "formatted": "Bệnh Viện Thẩm Mỹ Gangwhoo, 576 - 578, Cong Hoa St, Ho Chi Minh City, 70500, Vietnam",
+                "address_line1": "Bệnh Viện Thẩm Mỹ Gangwhoo",
+                "address_line2": "576 - 578, Cong Hoa St, Ho Chi Minh City, 70500, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bệnh Viện Thẩm Mỹ Gangwhoo",
+                        "phone": "090 166 68 79",
+                        "osm_id": 10201281118,
+                        "website": "https://benhvienthammygangwhoo.vn/",
+                        "operator": "Cosmetic Surgery",
+                        "osm_type": "n",
+                        "addr:city": "Ho Chi Minh City",
+                        "healthcare": "doctor",
+                        "addr:street": "Đường Cộng Hòa",
+                        "addr:district": "Tân Bình",
+                        "addr:postcode": 700000,
+                        "addr:province": "Việt Nam",
+                        "addr:housenumber": "576 - 578",
+                        "addr:subdistrict": "Phường 13",
+                        "healthcare:speciality": "surgery"
+                    }
+                },
+                "website": "https://benhvienthammygangwhoo.vn/",
+                "operator": "Cosmetic Surgery",
+                "contact": {
+                    "phone": "090 166 68 79"
+                },
+                "distance": 3574,
+                "place_id": "51833af6fde5a85a40593642433c349b2540f00103f9015e320b600200000092032242e1bb876e68205669e1bb876e205468e1baa96d204de1bbb92047616e6777686f6f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63903759999998,
+                    10.803132899484904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Công Vinh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "lon": 106.6653599,
+                "lat": 10.8531161,
+                "formatted": "Nhà Thuốc Công Vinh, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Công Vinh",
+                "address_line2": "Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Công Vinh",
+                        "osm_id": 6758069584,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Thống Nhất"
+                    }
+                },
+                "distance": 3634,
+                "place_id": "5178a4b04195aa5a405997fc25a2cbb42540f00103f90150f5cf92010000009203174e68c3a020546875e1bb91632043c3b46e672056696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6653599,
+                    10.853116099488302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tây Bào Anh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "lon": 106.6655235,
+                "lat": 10.8532122,
+                "formatted": "Nhà Thuốc Tây Bào Anh, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Tây Bào Anh",
+                "address_line2": "Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tây Bào Anh",
+                        "osm_id": 6759766026,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Thống Nhất"
+                    }
+                },
+                "distance": 3655,
+                "place_id": "510bcee0ef97aa5a405978b3ba3ad8b42540f00103f9010ad8e9920100000092031a4e68c3a020546875e1bb91632054c3a2792042c3a06f20416e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66552349999999,
+                    10.853212199488311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tai Mũi Họng bv Nhi Đồng 2",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "70048",
+                "street": "Đường Quang Trung",
+                "housenumber": "363",
+                "lon": 106.6703728,
+                "lat": 10.8299978,
+                "formatted": "ENT children and adults, 363, Đường Quang Trung, 70048, Vietnam",
+                "address_line1": "ENT children and adults",
+                "address_line2": "363, Đường Quang Trung, 70048, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.facilities",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tai Mũi Họng bv Nhi Đồng 2",
+                        "phone": "+84903778502",
+                        "osm_id": 10559809561,
+                        "amenity": "clinic",
+                        "name:en": "ENT children and adults",
+                        "website": "https://pkbsquachngocminhnd2.business.site/",
+                        "operator": "Quách Ngọc Minh",
+                        "osm_type": "n",
+                        "addr:city": "Phường 10",
+                        "healthcare": "clinic",
+                        "start_date": "2001-01-01",
+                        "addr:street": "Đường Quang Trung",
+                        "payment:cash": "yes",
+                        "addr:district": "Gò Vấp",
+                        "addr:province": "Hồ Chí Minh",
+                        "opening_hours": "Mo-Sa 17:30-20:00",
+                        "operator:type": "private",
+                        "payment:notes": "yes",
+                        "addr:housenumber": 363,
+                        "addr:subdistrict": "Phường 10",
+                        "air_conditioning": "yes",
+                        "healthcare:speciality": "ear;nose_&_throat;paediatrics"
+                    }
+                },
+                "website": "https://pkbsquachngocminhnd2.business.site/",
+                "opening_hours": "Mo-Sa 17:30-20:00",
+                "operator": "Quách Ngọc Minh",
+                "operator_details": {
+                    "type": "private"
+                },
+                "name_international": {
+                    "en": "ENT children and adults"
+                },
+                "contact": {
+                    "phone": "+84903778502"
+                },
+                "facilities": {
+                    "air_conditioning": true
+                },
+                "payment_options": {
+                    "cash": true,
+                    "notes": true
+                },
+                "distance": 3658,
+                "place_id": "512f085163e7aa5a40594f18b978f5a82540f00103f90119e8697502000000920320546169204dc5a9692048e1bb8d6e67206276204e686920c490e1bb936e672032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67037279999998,
+                    10.829997799486732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Nhơn",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "housenumber": "613",
+                "lon": 106.6688038,
+                "lat": 10.8475012,
+                "formatted": "613, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "613, Đường Lê Đức Thọ",
+                "address_line2": "71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6775512516,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ",
+                        "addr:housenumber": 613
+                    }
+                },
+                "distance": 3689,
+                "place_id": "51321c74aecdaa5a4059253e5eadebb12540f00103f901c41dda9301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6688038,
+                    10.847501199487917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Thanh Tuyển",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "lon": 106.6656147,
+                "lat": 10.8539327,
+                "formatted": "Nhà Thuốc Thanh Tuyển, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "Nhà Thuốc Thanh Tuyển",
+                "address_line2": "Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Thanh Tuyển",
+                        "osm_id": 6759766027,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Thống Nhất"
+                    }
+                },
+                "distance": 3707,
+                "place_id": "51280f666e99aa5a40593493b2aa36b52540f00103f9010bd8e9920100000092031a4e68c3a020546875e1bb9163205468616e6820547579e1bb836e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66561469999999,
+                    10.853932699488361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Nhơn",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "housenumber": "547",
+                "lon": 106.670212,
+                "lat": 10.846591,
+                "formatted": "547, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "547, Đường Lê Đức Thọ",
+                "address_line2": "71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6777663468,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ",
+                        "addr:housenumber": 547
+                    }
+                },
+                "distance": 3799,
+                "place_id": "51c058dfc0e4aa5a4059d1c61f6074b12540f00103f901eceffa9301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67021199999999,
+                    10.84659099948786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "70048",
+                "street": "Hẻm 467 Lê Đức Thọ",
+                "housenumber": "53",
+                "lon": 106.6713647,
+                "lat": 10.8436709,
+                "formatted": "53, Hẻm 467 Lê Đức Thọ, 70048, Vietnam",
+                "address_line1": "53, Hẻm 467 Lê Đức Thọ",
+                "address_line2": "70048, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6783157958,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Hẻm 467 Lê Đức Thọ",
+                        "addr:housenumber": 53
+                    }
+                },
+                "distance": 3828,
+                "place_id": "51158ca5a3f7aa5a4059d9c5d3a1f5af2540f00103f901c6c64e9401000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67136469999998,
+                    10.843670899487664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trung tâm Y tế quận Tân Bình",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Bình",
+                "postcode": "70500",
+                "street": "Tan Hai Street",
+                "housenumber": "12",
+                "lon": 106.64013413415137,
+                "lat": 10.8006732,
+                "formatted": "Tan Binh district Health Center, 12, Tan Hai Street, 70500, Vietnam",
+                "address_line1": "Tan Binh district Health Center",
+                "address_line2": "12, Tan Hai Street, 70500, Vietnam",
+                "categories": [
+                    "building",
+                    "building.healthcare",
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [
+                    "details",
+                    "details.building",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trung tâm Y tế quận Tân Bình",
+                        "phone": "(028) 38 125 208",
+                        "osm_id": 1229638771,
+                        "name:en": "Tan Binh district Health Center",
+                        "building": "yes",
+                        "operator": "Sở y tế Thành phố Hồ Chí Minh",
+                        "osm_type": "w",
+                        "addr:city": "TP. Hồ Chí Minh",
+                        "healthcare": "centre",
+                        "addr:street": "Tân Hải",
+                        "addr:district": "Tân Bình",
+                        "building:levels": 8,
+                        "addr:housenumber": 12,
+                        "addr:subdistrict": "Phường 13"
+                    }
+                },
+                "operator": "Sở y tế Thành phố Hồ Chí Minh",
+                "name_international": {
+                    "en": "Tan Binh district Health Center"
+                },
+                "contact": {
+                    "phone": "(028) 38 125 208"
+                },
+                "building": {
+                    "levels": 8
+                },
+                "distance": 3838,
+                "place_id": "51f0ce28f5f7a85a405931246dd6f1992540f00102f90173cc4a49000000009203235472756e672074c3a26d20592074e1babf207175e1baad6e2054c3a26e2042c3ac6e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64013413415137,
+                    10.80067319948475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Số 62",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Nhơn",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6710757,
+                "lat": 10.8461919,
+                "formatted": "Nhà Thuốc Số 62, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc Số 62",
+                "address_line2": "Đường Lê Đức Thọ, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Số 62",
+                        "osm_id": 6759766022,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 3874,
+                "place_id": "51fb287ee7f2aa5a405979e18c1040b12540f00103f90106d8e992010000009203144e68c3a020546875e1bb91632053e1bb91203632"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6710757,
+                    10.846191899487836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "72100",
+                "street": "Đường Nguyễn Văn Lượng",
+                "lon": 106.6728151,
+                "lat": 10.8384536,
+                "formatted": "Đường Nguyễn Văn Lượng, 72100, Vietnam",
+                "address_line1": "Đường Nguyễn Văn Lượng",
+                "address_line2": "72100, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6760218323,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Nguyễn Văn Lượng"
+                    }
+                },
+                "distance": 3891,
+                "place_id": "5150b010670fab5a4059e0054aca49ad2540f00103f901d3bef09201000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67281509999998,
+                    10.838453599487309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Duy Châu",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Nhơn",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6715303,
+                "lat": 10.8454477,
+                "formatted": "Nhà Thuốc Duy Châu, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc Duy Châu",
+                "address_line2": "Đường Lê Đức Thọ, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Duy Châu",
+                        "osm_id": 6758069567,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 3897,
+                "place_id": "517931395afaaa5a4059958e5785deb02540f00103f9013ff5cf92010000009203164e68c3a020546875e1bb916320447579204368c3a275"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67153029999999,
+                    10.845447699487787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tư Nhân Mai Thảo",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Nhơn",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6717945,
+                "lat": 10.845173,
+                "formatted": "Nhà Thuốc Tư Nhân Mai Thảo, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc Tư Nhân Mai Thảo",
+                "address_line2": "Đường Lê Đức Thọ, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tư Nhân Mai Thảo",
+                        "osm_id": 6758069566,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 3917,
+                "place_id": "517dc85baefeaa5a40593a86f083bab02540f00103f9013ef5cf92010000009203214e68c3a020546875e1bb91632054c6b0204e68c3a26e204d6169205468e1baa36f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67179449999999,
+                    10.845172999487762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc 24h",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Nhơn",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.672054,
+                "lat": 10.8451606,
+                "formatted": "Nhà Thuốc 24h, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc 24h",
+                "address_line2": "Đường Lê Đức Thọ, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc 24h",
+                        "osm_id": 6759766021,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 3943,
+                "place_id": "5158c9c7ee02ab5a4059db55dde3b8b02540f00103f90105d8e992010000009203104e68c3a020546875e1bb916320323468"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.672054,
+                    10.84516059948776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh Viện Đa Khoa Mỹ Đức",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Bình",
+                "postcode": "10000",
+                "street": "Hẻm 4 Núi Thành",
+                "lon": 106.6415956,
+                "lat": 10.7999684,
+                "formatted": "My Duc Hospital, Hẻm 4 Núi Thành, 10000, Vietnam",
+                "address_line1": "My Duc Hospital",
+                "address_line2": "Hẻm 4 Núi Thành, 10000, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bệnh Viện Đa Khoa Mỹ Đức",
+                        "phone": "0838100290",
+                        "osm_id": 4613806894,
+                        "amenity": "hospital",
+                        "name:en": "My Duc Hospital",
+                        "osm_type": "n",
+                        "healthcare": "hospital",
+                        "addr:street": "Hẻm 4 Núi Thành",
+                        "addr:postcode": 10000
+                    }
+                },
+                "name_international": {
+                    "en": "My Duc Hospital"
+                },
+                "contact": {
+                    "phone": "0838100290"
+                },
+                "distance": 3946,
+                "place_id": "517bd0fde60fa95a40598e3d437595992540f00103f9012e1b01130100000092032242e1bb876e68205669e1bb876e20c49061204b686f61204de1bbb920c490e1bba963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6415956,
+                    10.799968399484694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "70048",
+                "street": "Hẻm 226 Nguyễn Văn Lượng",
+                "lon": 106.6733703,
+                "lat": 10.8396008,
+                "formatted": "Hẻm 226 Nguyễn Văn Lượng, 70048, Vietnam",
+                "address_line1": "Hẻm 226 Nguyễn Văn Lượng",
+                "address_line2": "70048, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6783443372,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Hẻm 226 Nguyễn Văn Lượng"
+                    }
+                },
+                "distance": 3964,
+                "place_id": "514026be7f18ab5a4059d1fcee27e0ad2540f00103f901ac21539401000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67337029999999,
+                    10.839600799487387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "70048",
+                "street": "Đường Nguyễn Văn Lượng",
+                "housenumber": "186",
+                "lon": 106.673483,
+                "lat": 10.8386986,
+                "formatted": "186, Đường Nguyễn Văn Lượng, 70048, Vietnam",
+                "address_line1": "186, Đường Nguyễn Văn Lượng",
+                "address_line2": "70048, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6759719029,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Nguyễn Văn Lượng",
+                        "addr:housenumber": 186
+                    }
+                },
+                "distance": 3966,
+                "place_id": "515eda70581aab5a405985ff1fe769ad2540f00103f9017520e99201000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.673483,
+                    10.838698599487325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "70048",
+                "street": "Hẻm 226 Nguyễn Văn Lượng",
+                "housenumber": "28",
+                "lon": 106.6736251,
+                "lat": 10.840212,
+                "formatted": "28, Hẻm 226 Nguyễn Văn Lượng, 70048, Vietnam",
+                "address_line1": "28, Hẻm 226 Nguyễn Văn Lượng",
+                "address_line2": "70048, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6783443373,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Hẻm 226 Nguyễn Văn Lượng",
+                        "addr:housenumber": 28
+                    }
+                },
+                "distance": 4000,
+                "place_id": "51f09073ac1cab5a4059af02674430ae2540f00103f901ad21539401000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67362509999998,
+                    10.84021199948742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tư Nhân Kim Long",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "housenumber": "560",
+                "lon": 106.6738853,
+                "lat": 10.8440581,
+                "formatted": "Nhà Thuốc Tư Nhân Kim Long, 560, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc Tư Nhân Kim Long",
+                "address_line2": "560, Đường Lê Đức Thọ, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tư Nhân Kim Long",
+                        "osm_id": 6759766020,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ",
+                        "addr:housenumber": 560
+                    }
+                },
+                "distance": 4106,
+                "place_id": "515330cfef20ab5a405974721a6228b02540f00103f90104d8e9920100000092031f4e68c3a020546875e1bb91632054c6b0204e68c3a26e204b696d204c6f6e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67388529999998,
+                    10.84405809948769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Lê Hoàng Phái",
+                "lon": 106.6753122,
+                "lat": 10.8398445,
+                "formatted": "Đường Lê Hoàng Phái, 71400, Vietnam",
+                "address_line1": "Đường Lê Hoàng Phái",
+                "address_line2": "71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6777253085,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Hoàng Phái"
+                    }
+                },
+                "distance": 4178,
+                "place_id": "51c065a95038ab5a40593c0c261900ae2540f00103f901ddacf49301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67531220000001,
+                    10.839844499487405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6750728,
+                "lat": 10.843061,
+                "formatted": "Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Đường Lê Đức Thọ",
+                "address_line2": "71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6775459567,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 4209,
+                "place_id": "51d29a8b6434ab5a405936aafab0a5af2540f00103f901ef4ed99301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67507279999998,
+                    10.84306099948763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Lê Hoàng Phái",
+                "lon": 106.6753927,
+                "lat": 10.8423893,
+                "formatted": "Đường Lê Hoàng Phái, 71400, Vietnam",
+                "address_line1": "Đường Lê Hoàng Phái",
+                "address_line2": "71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6775268374,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Hoàng Phái"
+                    }
+                },
+                "distance": 4229,
+                "place_id": "51429d4da239ab5a4059569977a64daf2540f00103f9011664d69301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6753927,
+                    10.842389299487575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng khám Đa khoa Viện Gút",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "city": "Ho Chi Minh City",
+                "postcode": "72100",
+                "street": "Hồng Hà",
+                "housenumber": "13A",
+                "lon": 106.6690362,
+                "lat": 10.8132305,
+                "formatted": "Phòng khám Đa khoa Viện Gút, 13A, Hồng Hà, Ho Chi Minh City, 72100, Vietnam",
+                "address_line1": "Phòng khám Đa khoa Viện Gút",
+                "address_line2": "13A, Hồng Hà, Ho Chi Minh City, 72100, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis",
+                    "healthcare.clinic_or_praxis.general",
+                    "wheelchair",
+                    "wheelchair.yes"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Phòng khám Đa khoa Viện Gút",
+                        "email": "info@viengut.com",
+                        "phone": "+84 1900 6506",
+                        "osm_id": 10910879301,
+                        "amenity": "clinic",
+                        "website": "https://viengut.com/",
+                        "operator": "CTY TNHH MỘT THÀNH VIÊN VIỆN GÚT",
+                        "osm_type": "n",
+                        "addr:city": "Thành phố Hồ Chí Minh",
+                        "check_date": "2023-05-19",
+                        "healthcare": "clinic",
+                        "wheelchair": "yes",
+                        "addr:street": "Hồng Hà",
+                        "addr:district": "Tan Binh",
+                        "opening_hours": "Mo-Sa 07:00-16:30",
+                        "operator:type": "private",
+                        "addr:housenumber": "13A",
+                        "addr:subdistrict": "Ward 2",
+                        "healthcare:speciality": "general"
+                    }
+                },
+                "website": "https://viengut.com/",
+                "opening_hours": "Mo-Sa 07:00-16:30",
+                "operator": "CTY TNHH MỘT THÀNH VIÊN VIỆN GÚT",
+                "operator_details": {
+                    "type": "private"
+                },
+                "contact": {
+                    "phone": "+84 1900 6506",
+                    "email": "info@viengut.com"
+                },
+                "facilities": {
+                    "wheelchair": true
+                },
+                "distance": 4243,
+                "place_id": "51c3b5357dd1aa5a4059fccc7ebf5fa02540f00103f90145ce568a020000009203215068c3b26e67206b68c3a16d20c49061206b686f61205669e1bb876e2047c3ba74"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66903619999998,
+                    10.813230499485591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tây Thảo Tám",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6754651,
+                "lat": 10.8428253,
+                "formatted": "Nhà Thuốc Tây Thảo Tám, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc Tây Thảo Tám",
+                "address_line2": "Đường Lê Đức Thọ, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tây Thảo Tám",
+                        "osm_id": 6758069557,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 4246,
+                "place_id": "51b785f8d13aab5a4059d31433cc86af2540f00103f90135f5cf920100000092031d4e68c3a020546875e1bb91632054c3a279205468e1baa36f2054c3a16d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67546509999998,
+                    10.842825299487606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trung Tâm Y Tế Dự Phòng Quận 12",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Thới Hiệp",
+                "postcode": "71716",
+                "street": "Dương Thị Mười",
+                "lon": 106.6391286,
+                "lat": 10.8743224,
+                "formatted": "Trung Tâm Y Tế Dự Phòng Quận 12, Dương Thị Mười, 71716, Vietnam",
+                "address_line1": "Trung Tâm Y Tế Dự Phòng Quận 12",
+                "address_line2": "Dương Thị Mười, 71716, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trung Tâm Y Tế Dự Phòng Quận 12",
+                        "phone": "+842862507950",
+                        "osm_id": 9171304680,
+                        "amenity": "hospital",
+                        "osm_type": "n",
+                        "healthcare": "hospital",
+                        "healthcare:speciality": "vaccination"
+                    }
+                },
+                "contact": {
+                    "phone": "+842862507950"
+                },
+                "distance": 4310,
+                "place_id": "510cbca47be7a85a405907f07f2fa7bf2540f00103f901e800a722020000009203275472756e672054c3a26d20592054e1babf2044e1bbb1205068c3b26e67205175e1baad6e203132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63912859999999,
+                    10.874322399489769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Quỳnh Mai",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72215",
+                "street": "Lam Son",
+                "lon": 106.6667531,
+                "lat": 10.8092342,
+                "formatted": "Nhà Thuốc Quỳnh Mai, Lam Son, 72215, Vietnam",
+                "address_line1": "Nhà Thuốc Quỳnh Mai",
+                "address_line2": "Lam Son, 72215, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Quỳnh Mai",
+                        "osm_id": 7088117086,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy"
+                    }
+                },
+                "distance": 4324,
+                "place_id": "516dc03115acaa5a40593930ebf1539e2540f00103f9015e157ca6010000009203184e68c3a020546875e1bb9163205175e1bbb36e68204d6169"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66675310000001,
+                    10.809234199485319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tây Chánh Tâm",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường An Nhơn",
+                "lon": 106.676998,
+                "lat": 10.8367307,
+                "formatted": "Nhà Thuốc Tây Chánh Tâm, Đường An Nhơn, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc Tây Chánh Tâm",
+                "address_line2": "Đường An Nhơn, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tây Chánh Tâm",
+                        "osm_id": 6770694315,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường An Nhơn"
+                    }
+                },
+                "distance": 4336,
+                "place_id": "51465d6bef53ab5a40599eb65bf767ac2540f00103f901ab9890930100000092031d4e68c3a020546875e1bb91632054c3a279204368c3a16e682054c3a26d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.676998,
+                    10.836730699487187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Nguyễn Văn Lượng",
+                "lon": 106.6769363,
+                "lat": 10.8383982,
+                "formatted": "Đường Nguyễn Văn Lượng, 71400, Vietnam",
+                "address_line1": "Đường Nguyễn Văn Lượng",
+                "address_line2": "71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6760218328,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Nguyễn Văn Lượng"
+                    }
+                },
+                "distance": 4339,
+                "place_id": "516a7ea1ec52ab5a40597ba55f8742ad2540f00103f901d8bef09201000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6769363,
+                    10.838398199487292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc La Anh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Nguyễn Oanh",
+                "housenumber": "382",
+                "lon": 106.6767646,
+                "lat": 10.8421166,
+                "formatted": "Nhà Thuốc La Anh, 382, Đường Nguyễn Oanh, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc La Anh",
+                "address_line2": "382, Đường Nguyễn Oanh, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc La Anh",
+                        "osm_id": 6760258522,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Nguyễn Oanh",
+                        "addr:housenumber": 382
+                    }
+                },
+                "distance": 4371,
+                "place_id": "51ca05781c50ab5a4059826f2ce829af2540f00103f901da5bf192010000009203134e68c3a020546875e1bb9163204c6120416e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67676459999998,
+                    10.842116599487557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tây Trí Tám",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Nhơn",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6771696,
+                "lat": 10.8416741,
+                "formatted": "Nhà Thuốc Tây Trí Tám, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc Tây Trí Tám",
+                "address_line2": "Đường Lê Đức Thọ, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tây Trí Tám",
+                        "osm_id": 6758218885,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 4407,
+                "place_id": "511c7629bf56ab5a4059db6056e8efae2540f00103f901853cd2920100000092031b4e68c3a020546875e1bb91632054c3a279205472c3ad2054c3a16d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67716960000001,
+                    10.841674099487525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Nguyễn Oanh",
+                "lon": 106.6770852,
+                "lat": 10.8429412,
+                "formatted": "Đường Nguyễn Oanh, 71400, Vietnam",
+                "address_line1": "Đường Nguyễn Oanh",
+                "address_line2": "71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6774953061,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Nguyễn Oanh"
+                    }
+                },
+                "distance": 4422,
+                "place_id": "51c3a6295d55ab5a4059268028fd95af2540f00103f9016594d19301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67708520000001,
+                    10.842941199487608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm y tế phường Tân Sơn Nhì",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhì",
+                "postcode": "72011",
+                "street": "Nguyễn Thế Truyện",
+                "lon": 106.63183745972287,
+                "lat": 10.795188750000001,
+                "formatted": "Trạm y tế phường Tân Sơn Nhì, Nguyễn Thế Truyện, 72011, Vietnam",
+                "address_line1": "Trạm y tế phường Tân Sơn Nhì",
+                "address_line2": "Nguyễn Thế Truyện, 72011, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trạm y tế phường Tân Sơn Nhì",
+                        "osm_id": 1245344404,
+                        "amenity": "clinic",
+                        "osm_type": "w",
+                        "healthcare": "clinic"
+                    }
+                },
+                "distance": 4472,
+                "place_id": "517079620670a85a4059735dd2fa22972540f00102f90194723a4a000000009203265472e1baa16d20792074e1babf207068c6b0e1bb9d6e672054c3a26e2053c6a16e204e68c3ac"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63183745972287,
+                    10.795188749484373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kính Thuốc Điện Biên Phủ - Ngã Tư Gò Mây",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Bình Tân",
+                "postcode": "71914",
+                "street": "Lê Đức Anh",
+                "lon": 106.600814,
+                "lat": 10.8160756,
+                "formatted": "Kính Thuốc Điện Biên Phủ - Ngã Tư Gò Mây, Lê Đức Anh, 71914, Vietnam",
+                "address_line1": "Kính Thuốc Điện Biên Phủ - Ngã Tư Gò Mây",
+                "address_line2": "Lê Đức Anh, 71914, Vietnam",
+                "categories": [
+                    "healthcare"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Kính Thuốc Điện Biên Phủ - Ngã Tư Gò Mây",
+                        "osm_id": 9587171490,
+                        "osm_type": "n",
+                        "healthcare": "optometrist"
+                    }
+                },
+                "distance": 4533,
+                "place_id": "51a73e90bc73a65a4059c7b535a9d4a12540f00103f901a2a0703b020000009203354bc3ad6e6820546875e1bb916320c49069e1bb876e204269c3aa6e205068e1bba7202d204e67c3a32054c6b02047c3b2204dc3a279"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.600814,
+                    10.816075599485783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "188 Beauty Spa quận 12 | Viện thẩm mỹ hàng đầu tpHCM",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Thới Hiệp",
+                "city": "Ho Chi Minh City",
+                "postcode": "71716",
+                "street": "Dương Thị Mười",
+                "housenumber": "15",
+                "lon": 106.6406947,
+                "lat": 10.8763131,
+                "formatted": "188 Beauty Spa quận 12 | Viện thẩm mỹ hàng đầu tpHCM, 15, Dương Thị Mười, Ho Chi Minh City, 71716, Vietnam",
+                "address_line1": "188 Beauty Spa quận 12 | Viện thẩm mỹ hàng đầu tpHCM",
+                "address_line2": "15, Dương Thị Mười, Ho Chi Minh City, 71716, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "188 Beauty Spa quận 12 | Viện thẩm mỹ hàng đầu tpHCM",
+                        "osm_id": 10982272878,
+                        "amenity": "hospital",
+                        "osm_type": "n",
+                        "addr:city": "thành phố Hồ Chí Minh",
+                        "emergency": "yes",
+                        "healthcare": "hospital",
+                        "addr:street": "Dương Thị Mười",
+                        "addr:district": "quận 12",
+                        "addr:postcode": 700000,
+                        "addr:housenumber": 15,
+                        "addr:subdistrict": "Hiệp Thành",
+                        "healthcare:speciality": "làm_đẹp;chăm_sóc_da;điều_trị_da;spa_làm_đẹp"
+                    }
+                },
+                "distance": 4540,
+                "place_id": "511dce572401a95a405924bb4e1cacc02540f00103f9016e2f988e020000009203403138382042656175747920537061207175e1baad6e203132207c205669e1bb876e207468e1baa96d206de1bbb92068c3a06e6720c491e1baa77520747048434d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6406947,
+                    10.876313099489899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng khám Đa khoa Phước Linh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Bình Hưng Hòa",
+                "postcode": "71914",
+                "street": "Phạm Đăng Giảng",
+                "lon": 106.6019597,
+                "lat": 10.813747,
+                "formatted": "Phòng khám Đa khoa Phước Linh, Phạm Đăng Giảng, 71914, Vietnam",
+                "address_line1": "Phòng khám Đa khoa Phước Linh",
+                "address_line2": "Phạm Đăng Giảng, 71914, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Phòng khám Đa khoa Phước Linh",
+                        "osm_id": 11494702068,
+                        "amenity": "clinic",
+                        "osm_type": "n",
+                        "healthcare": "clinic"
+                    }
+                },
+                "distance": 4553,
+                "place_id": "51a340fa8186a65a40598c045c72a3a02540f00103f901f43b23ad020000009203235068c3b26e67206b68c3a16d20c49061206b686f61205068c6b0e1bb9b63204c696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6019597,
+                    10.813746999485623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trung tâm Y khoa Bernard",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "city": "Ho Chi Minh City",
+                "postcode": "72215",
+                "street": "Phan Đình Giót",
+                "housenumber": "22",
+                "lon": 106.6649049,
+                "lat": 10.804236,
+                "formatted": "Trung tâm Y khoa Bernard, 22, Phan Đình Giót, Ho Chi Minh City, 72215, Vietnam",
+                "address_line1": "Trung tâm Y khoa Bernard",
+                "address_line2": "22, Phan Đình Giót, Ho Chi Minh City, 72215, Vietnam",
+                "categories": [
+                    "healthcare"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trung tâm Y khoa Bernard",
+                        "osm_id": 11407122680,
+                        "name:en": "Bernard Healthcare Center",
+                        "osm_type": "n",
+                        "addr:city": "Thành phố Hồ Chí Minh",
+                        "healthcare": "yes",
+                        "addr:street": "Phan Đình Giót",
+                        "addr:district": "Tân Bình",
+                        "addr:housenumber": 22,
+                        "addr:subdistrict": "Phường 2"
+                    }
+                },
+                "name_international": {
+                    "en": "Bernard Healthcare Center"
+                },
+                "distance": 4577,
+                "place_id": "51ce1c48cd8daa5a4059911b28d2c49b2540f00103f901f8e0eaa7020000009203195472756e672074c3a26d2059206b686f61204265726e617264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66490489999998,
+                    10.804235999484975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Thuốc Tây Nhân Ái 1",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6790874,
+                "lat": 10.8397431,
+                "formatted": "Nhà Thuốc Tây Nhân Ái 1, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Nhà Thuốc Tây Nhân Ái 1",
+                "address_line2": "Đường Lê Đức Thọ, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Thuốc Tây Nhân Ái 1",
+                        "osm_id": 6759498683,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 4587,
+                "place_id": "510a88ff2a76ab5a40591aaebacef2ad2540f00103f901bbc3e5920100000092031d4e68c3a020546875e1bb91632054c3a279204e68c3a26e20c381692031"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67908739999999,
+                    10.839743099487396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà thuốc Bảo Khang",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Xã Bà Điểm",
+                "postcode": "70000",
+                "street": "Đường Trung Mỹ - Tân Xuân",
+                "housenumber": "54/3",
+                "lon": 106.6104639,
+                "lat": 10.8676221,
+                "formatted": "Nhà thuốc Bảo Khang, 54/3, Đường Trung Mỹ - Tân Xuân, 70000, Vietnam",
+                "address_line1": "Nhà thuốc Bảo Khang",
+                "address_line2": "54/3, Đường Trung Mỹ - Tân Xuân, 70000, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà thuốc Bảo Khang",
+                        "email": "drbenhnghenghiep@icloud.com",
+                        "phone": "0918807199",
+                        "osm_id": 5599518422,
+                        "amenity": "doctors",
+                        "osm_type": "n",
+                        "healthcare": "doctor",
+                        "addr:street": "Trung Mỹ - Tân Xuân",
+                        "addr:postcode": 70000,
+                        "opening_hours": "24/7",
+                        "addr:housenumber": "54/3"
+                    }
+                },
+                "opening_hours": "24/7",
+                "contact": {
+                    "phone": "0918807199",
+                    "email": "drbenhnghenghiep@icloud.com"
+                },
+                "distance": 4622,
+                "place_id": "51de782dd711a75a4059d22fbdf638bc2540f00103f901d6dec14d010000009203184e68c3a020746875e1bb91632042e1baa36f204b68616e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61046389999998,
+                    10.8676220994893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Nguyễn Văn Lượng",
+                "lon": 106.67953,
+                "lat": 10.8384062,
+                "formatted": "Đường Nguyễn Văn Lượng, 71400, Vietnam",
+                "address_line1": "Đường Nguyễn Văn Lượng",
+                "address_line2": "71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6760052594,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Nguyễn Văn Lượng"
+                    }
+                },
+                "distance": 4622,
+                "place_id": "51a8a9656b7dab5a40598a1fcf9343ad2540f00103f9017237ee9201000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67953,
+                    10.838406199487299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế xã Bà Điểm",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Xã Bà Điểm",
+                "postcode": "71914",
+                "street": "Đường Số 6",
+                "lon": 106.5943997,
+                "lat": 10.8349481,
+                "formatted": "Trạm Y tế xã Bà Điểm, Đường Số 6, 71914, Vietnam",
+                "address_line1": "Trạm Y tế xã Bà Điểm",
+                "address_line2": "Đường Số 6, 71914, Vietnam",
+                "categories": [
+                    "building",
+                    "building.healthcare",
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trạm Y tế xã Bà Điểm",
+                        "osm_id": 1314671873,
+                        "amenity": "clinic",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Xã Bà Điểm",
+                        "healthcare": "clinic",
+                        "addr:district": "Huyện Hóc Môn",
+                        "addr:province": "Thành phố Hồ Chí Minh",
+                        "addr:subdistrict": "Xã Bà Điểm"
+                    }
+                },
+                "distance": 4682,
+                "place_id": "5123100aa50aa65a4059024f3a517eab2540f00102f901014d5c4e0000000092031d5472e1baa16d20592074e1babf2078c3a32042c3a020c49069e1bb836d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.59439969999998,
+                    10.834948099487068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pharmacity",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường Lê Đức Thọ",
+                "lon": 106.6801013,
+                "lat": 10.8383785,
+                "formatted": "Pharmacity, Đường Lê Đức Thọ, 71400, Vietnam",
+                "address_line1": "Pharmacity",
+                "address_line2": "Đường Lê Đức Thọ, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Pharmacity",
+                        "osm_id": 6772848754,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Lê Đức Thọ"
+                    }
+                },
+                "distance": 4684,
+                "place_id": "51e45d9ac786ab5a40595aef59f23fad2540f00103f9017278b1930100000092030a506861726d6163697479"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.68010129999999,
+                    10.838378499487295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng Khám Đa Khoa Hữu Nghị",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "71400",
+                "street": "Đường số 5",
+                "housenumber": "501-503",
+                "lon": 106.6783081,
+                "lat": 10.848021,
+                "formatted": "Phòng Khám Đa Khoa Hữu Nghị, 501-503, Đường số 5, 71400, Vietnam",
+                "address_line1": "Phòng Khám Đa Khoa Hữu Nghị",
+                "address_line2": "501-503, Đường số 5, 71400, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Phòng Khám Đa Khoa Hữu Nghị",
+                        "osm_id": 6336841552,
+                        "amenity": "hospital",
+                        "osm_type": "n",
+                        "emergency": "yes",
+                        "healthcare": "hospital",
+                        "addr:street": "Đường số 5",
+                        "addr:housenumber": "501-503"
+                    }
+                },
+                "distance": 4689,
+                "place_id": "512987606669ab5a40597e3ef6ce2fb22540f00103f9015087b479010000009203225068c3b26e67204b68c3a16d20c49061204b686f612048e1bbaf75204e6768e1bb8b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6783081,
+                    10.848020999487968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Quân y 175",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Hạnh Thông",
+                "postcode": "70048",
+                "street": "Nguyen Kiem",
+                "housenumber": "786",
+                "lon": 106.68058604715321,
+                "lat": 10.8187508,
+                "formatted": "175 Military Hospital, 786, Nguyen Kiem, 70048, Vietnam",
+                "address_line1": "175 Military Hospital",
+                "address_line2": "786, Nguyen Kiem, 70048, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis.general",
+                    "healthcare.hospital"
+                ],
+                "details": [
+                    "details",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bệnh viện Quân y 175",
+                        "osm_id": 125294543,
+                        "amenity": "hospital",
+                        "landuse": "military",
+                        "name:en": "175 Military Hospital",
+                        "name:zh": "175軍醫院",
+                        "website": "http://www.benhvien175.vn/",
+                        "operator": "Bộ Quốc phòng",
+                        "osm_type": "w",
+                        "wikidata": "Q18456130",
+                        "addr:city": "Tp. Hồ Chí Minh",
+                        "emergency": "yes",
+                        "wikipedia": "en:Military Hospital 175",
+                        "healthcare": "hospital",
+                        "addr:street": "Nguyễn Kiệm",
+                        "addr:district": "Quận Gò Vấp",
+                        "operator:type": "military",
+                        "addr:housenumber": 786,
+                        "addr:subdistrict": "Phường 3",
+                        "healthcare:speciality": "general"
+                    }
+                },
+                "website": "http://www.benhvien175.vn/",
+                "operator": "Bộ Quốc phòng",
+                "operator_details": {
+                    "type": "military"
+                },
+                "name_international": {
+                    "en": "175 Military Hospital",
+                    "zh": "175軍醫院"
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q18456130",
+                    "wikipedia": "en:Military Hospital 175"
+                },
+                "distance": 4775,
+                "place_id": "51c3a8c7b88eab5a40596cbb064e33a32540f00102f901cfd777070000000092031942e1bb876e68207669e1bb876e205175c3a26e207920313735"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6805860471532,
+                    10.818750799485962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Đa khoa Tâm Anh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72215",
+                "street": "Pho Quang",
+                "lon": 106.66630905650248,
+                "lat": 10.80246685,
+                "formatted": "Bệnh viện Đa khoa Tâm Anh, Pho Quang, 72215, Vietnam",
+                "address_line1": "Bệnh viện Đa khoa Tâm Anh",
+                "address_line2": "Pho Quang, 72215, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bệnh viện Đa khoa Tâm Anh",
+                        "osm_id": 1230057968,
+                        "amenity": "hospital",
+                        "osm_type": "w",
+                        "healthcare": "hospital"
+                    }
+                },
+                "distance": 4775,
+                "place_id": "513cadbdcea4aa5a4059c15255efdc9a2540f00102f901f03151490000000092031f42e1bb876e68207669e1bb876e20c49061206b686f612054c3a26d20416e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66630905650248,
+                    10.80246684948486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trạm Y tế phường Hiệp Thành",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Thới Hiệp",
+                "postcode": "71716",
+                "street": "Hiệp Thành 13",
+                "lon": 106.63858440121443,
+                "lat": 10.8789442,
+                "formatted": "Trạm Y tế phường Hiệp Thành, Hiệp Thành 13, 71716, Vietnam",
+                "address_line1": "Trạm Y tế phường Hiệp Thành",
+                "address_line2": "Hiệp Thành 13, 71716, Vietnam",
+                "categories": [
+                    "building",
+                    "building.healthcare",
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trạm Y tế phường Hiệp Thành",
+                        "osm_id": 1050184996,
+                        "amenity": "clinic",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Phường Hiệp Thành",
+                        "healthcare": "clinic",
+                        "addr:district": "Quận 12",
+                        "addr:province": "Thành phố Hồ Chí Minh",
+                        "addr:subdistrict": "Phường Hiệp Thành"
+                    }
+                },
+                "distance": 4808,
+                "place_id": "51e9bc1b91dea85a40593ca35ff904c22540f00102f901248d983e000000009203255472e1baa16d20592074e1babf207068c6b0e1bb9d6e67204869e1bb8770205468c3a06e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63858440121443,
+                    10.878944199490086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng khám Phụ sản 315",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Bình",
+                "postcode": "72012",
+                "street": "Bàu Cát",
+                "lon": 106.6427491,
+                "lat": 10.79218,
+                "formatted": "Phòng khám Phụ sản 315, Bàu Cát, 72012, Vietnam",
+                "address_line1": "Phòng khám Phụ sản 315",
+                "address_line2": "Bàu Cát, 72012, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Phòng khám Phụ sản 315",
+                        "osm_id": 11438719434,
+                        "amenity": "clinic",
+                        "osm_type": "n",
+                        "healthcare": "clinic"
+                    }
+                },
+                "distance": 4816,
+                "place_id": "5124021fcd22a95a4059dfa8ec9d98952540f00103f901ca01cda90200000092031c5068c3b26e67206b68c3a16d205068e1bba52073e1baa36e20333135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6427491,
+                    10.792179999484175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Phòng Khám Đa Khoa Hoàn Mỹ Sài Gòn",
+                "lon": 106.65911789999998,
+                "lat": 10.79731059948451,
+                "categories": [
+                    "healthcare"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Phòng Khám Đa Khoa Hoàn Mỹ Sài Gòn",
+                        "osm_id": 9585091187,
+                        "osm_type": "n",
+                        "healthcare": "yes"
+                    }
+                },
+                "distance": 4838,
+                "place_id": "51522dd8fc2eaa5a40598b144b1839982540f00103f90173e2503b0200000092032a5068c3b26e67204b68c3a16d20c49061204b686f6120486fc3a06e204de1bbb92053c3a0692047c3b26e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65911789999998,
+                    10.79731059948451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Hạnh Thông",
+                "postcode": "71400",
+                "suburb": "Go Vap",
+                "street": "Đường Nguyễn Văn Nghi",
+                "housenumber": "382",
+                "lon": 106.6809824,
+                "lat": 10.8262813,
+                "formatted": "382, Đường Nguyễn Văn Nghi, Go Vap, 71400, Vietnam",
+                "address_line1": "382, Đường Nguyễn Văn Nghi",
+                "address_line2": "Go Vap, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6772699062,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Nguyễn Văn Nghi",
+                        "addr:housenumber": 382
+                    }
+                },
+                "distance": 4875,
+                "place_id": "51b549343795ab5a40597d2ead570ea72540f00103f901b62faf9301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.68098240000002,
+                    10.826281299486476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bệnh viện Tân Bình",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Hoang Van Thu Street",
+                "lon": 106.65547001331876,
+                "lat": 10.7944046,
+                "formatted": "Bệnh viện Tân Bình, Hoang Van Thu Street, 72106, Vietnam",
+                "address_line1": "Bệnh viện Tân Bình",
+                "address_line2": "Hoang Van Thu Street, 72106, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.hospital"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bệnh viện Tân Bình",
+                        "osm_id": 373721573,
+                        "amenity": "hospital",
+                        "osm_type": "w",
+                        "healthcare": "hospital"
+                    }
+                },
+                "distance": 4902,
+                "place_id": "519ead7f38f3a95a405979271d33bc962540f00102f901e58946160000000092031842e1bb876e68207669e1bb876e2054c3a26e2042c3ac6e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65547001331876,
+                    10.794404599484311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Hạnh Thông",
+                "postcode": "71400",
+                "suburb": "Go Vap",
+                "street": "Đường Nguyễn Văn Nghi",
+                "lon": 106.6815564,
+                "lat": 10.8262951,
+                "formatted": "Đường Nguyễn Văn Nghi, Go Vap, 71400, Vietnam",
+                "address_line1": "Đường Nguyễn Văn Nghi",
+                "address_line2": "Go Vap, 71400, Vietnam",
+                "categories": [
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.pharmacy",
+                    "healthcare",
+                    "healthcare.pharmacy"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6772390415,
+                        "amenity": "pharmacy",
+                        "osm_type": "n",
+                        "healthcare": "pharmacy",
+                        "addr:street": "Đường Nguyễn Văn Nghi"
+                    }
+                },
+                "distance": 4936,
+                "place_id": "514a18bc9e9eab5a40596f47ba2610a72540f00103f9010f7aaa9301000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6815564,
+                    10.826295099486485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dr. Trung Liver Clinic",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Hạnh Thông",
+                "postcode": "71409",
+                "street": "Bạch Đằng",
+                "lon": 106.6777243,
+                "lat": 10.8146855,
+                "formatted": "Dr. Trung Liver Clinic, Bạch Đằng, 71409, Vietnam",
+                "address_line1": "Dr. Trung Liver Clinic",
+                "address_line2": "Bạch Đằng, 71409, Vietnam",
+                "categories": [
+                    "healthcare",
+                    "healthcare.clinic_or_praxis"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 4793304021,
+                        "amenity": "clinic",
+                        "name:en": "Dr. Trung Liver Clinic",
+                        "osm_type": "n",
+                        "healthcare": "clinic"
+                    }
+                },
+                "name_international": {
+                    "en": "Dr. Trung Liver Clinic"
+                },
+                "distance": 4972,
+                "place_id": "51160dbed55fab5a405904a231751ea12540f00103f901d503b41d01000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6777243,
+                    10.814685499485684
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tìm Dịch vụ (Geoapify)</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+        h1 {
+            color: #005a9c;
+        }
+        #controls {
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .input-group {
+            margin-bottom: 15px;
+        }
+        .input-group label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #555;
+        }
+        .input-group input {
+            width: calc(100% - 22px); /* Điều chỉnh padding */
+            padding: 10px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .input-group p {
+            font-size: 12px;
+            color: #666;
+            margin: 5px 0 0 0;
+        }
+        button {
+            padding: 12px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #results {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        ul { list-style-type: none; padding-left: 0; }
+        li {
+            padding: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        li:last-child { border-bottom: none; }
+        li strong { color: #005a9c; }
+        .error { color: red; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <h1>Tìm Dịch vụ lân cận</h1>
+
+    <div id="controls">
+        <div class="input-group">
+            <label for="lat">Vĩ độ (Latitude):</label>
+            <input type="number" id="lat" step="any" value="10.7769">
+        </div>
+        <div class="input-group">
+            <label for="lon">Kinh độ (Longitude):</label>
+            <input type="number" id="lon" step="any" value="106.6954">
+        </div>
+        <div class="input-group">
+            <label for="radius">Khoảng cách tối đa (mét):</label>
+            <input type="number" id="radius" value="1000">
+        </div>
+        <div class="input-group">
+            <label for="limit">Số lượng địa điểm:</label>
+            <input type="number" id="limit" value="15">
+        </div>
+        <div class="input-group">
+            <label for="categories">Loại địa điểm (Categories):</label>
+            <input type="text" id="categories" value="catering.restaurant,commercial.supermarket">
+            <p>Cách nhau bằng dấu phẩy. 
+                Xem danh sách categories 
+                <a href="https://apidocs.geoapify.com/docs/places/#categories" target="_blank">tại đây</a>.
+            </p>
+        </div>
+        <button id="searchButton">Tìm dịch vụ</button>
+    </div>
+
+    <div id="results">
+        <p>Vui lòng nhập thông tin và nhấn nút tìm kiếm...</p>
+    </div>
+
+    <script>
+        // -----------------------------------------------------------------
+        // CẤU HÌNH
+        // Vui lòng thay YOUR_API_KEY bằng API Key của bạn
+        // -----------------------------------------------------------------
+        const apiKey = '2694e53c5bc04f29a02d7793e65f0fe3';
+
+        // -----------------------------------------------------------------
+        // LOGIC TRUY VẤN
+        // -----------------------------------------------------------------
+        const searchButton = document.getElementById('searchButton');
+        const resultsDiv = document.getElementById('results');
+
+        searchButton.addEventListener('click', findNearbyPlaces);
+
+        async function findNearbyPlaces() {
+            // Lấy giá trị từ TẤT CẢ các ô input
+            const lat = document.getElementById('lat').value;
+            const lon = document.getElementById('lon').value;
+            const radius = document.getElementById('radius').value;
+            const limit = document.getElementById('limit').value;
+            const categories = document.getElementById('categories').value; // MỚI
+
+            // Kiểm tra thông tin nhập
+            if (!lat || !lon || !radius || !limit || !categories) {
+                resultsDiv.innerHTML = '<p class="error">Vui lòng nhập đầy đủ tất cả các trường.</p>';
+                return;
+            }
+
+            // Kiểm tra API key
+            if (apiKey === 'YOUR_API_KEY') {
+                resultsDiv.innerHTML = '<p class="error">Lỗi: Bạn chưa thay thế YOUR_API_KEY. Vui lòng cập nhật API Key trong mã nguồn.</p>';
+                return;
+            }
+
+            resultsDiv.innerHTML = '<p>Đang tìm kiếm...</p>';
+
+            // Xây dựng URL truy vấn API
+            // Biến 'categories' giờ được lấy từ ô input
+            const url = `https://api.geoapify.com/v2/places?categories=${categories}&filter=circle:${lon},${lat},${radius}&limit=${limit}&apiKey=${apiKey}`;
+
+            try {
+                const response = await fetch(url);
+
+                if (!response.ok) {
+                    const errorData = await response.json();
+                    throw new Error(`Lỗi API: ${errorData.message || response.statusText}`);
+                }
+
+                const data = await response.json();
+                displayResults(data.features, categories);
+
+            } catch (error) {
+                console.error('Đã xảy ra lỗi:', error);
+                resultsDiv.innerHTML = `<p class="error">Không thể tải dữ liệu. Vui lòng kiểm tra API key và console (F12).</p>`;
+            }
+        }
+
+        // Hàm hiển thị kết quả
+        function displayResults(places, categories) {
+            if (!places || places.length === 0) {
+                resultsDiv.innerHTML = `<p>Không tìm thấy địa điểm nào với loại (categories): "${categories}" trong khu vực.</p>`;
+                return;
+            }
+
+            let html = `<h3>Tìm thấy ${places.length} địa điểm:</h3><ul>`;
+            places.forEach(place => {
+                const properties = place.properties;
+                const name = properties.name || 'Không có tên';
+                const address = properties.address_line2 || 'Không rõ địa chỉ';
+                const placeCategories = properties.categories.join(', '); // Hiển thị categories của địa điểm
+                
+                html += `<li>
+                            <strong>${name}</strong>
+                            <p>Địa chỉ: ${address}</p>
+                            <p><i>Loại: ${placeCategories}</i></p>
+                         </li>`;
+            });
+            html += '</ul>';
+
+            resultsDiv.innerHTML = html;
+        }
+    </script>
+
+</body>
+</html>
