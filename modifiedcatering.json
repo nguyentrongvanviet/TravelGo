@@ -41,7 +41,8 @@
                     "cuisine": "bubble_tea"
                 },
                 "distance": 217,
-                "place_id": "517874232caaa85a4059fd587461c6ab2540f00103f90182d60020010000009203105472c3a02053e1bbaf61204861707079"
+                "place_id": "517874232caaa85a4059fd587461c6ab2540f00103f90182d60020010000009203105472c3a02053e1bbaf61204861707079",
+                "id": 0
             },
             "geometry": {
                 "type": "Point",
@@ -87,7 +88,8 @@
                     }
                 },
                 "distance": 253,
-                "place_id": "51400f5ab4a5a85a4059e3dddd2f77ab2540f00103f901bd8e94f50000000092032342c3a16e682058c3a86f204d69e1bb816e205472756e6720487579e1bb816e20436869"
+                "place_id": "51400f5ab4a5a85a4059e3dddd2f77ab2540f00103f901bd8e94f50000000092032342c3a16e682058c3a86f204d69e1bb816e205472756e6720487579e1bb816e20436869",
+                "id": 1
             },
             "geometry": {
                 "type": "Point",
@@ -133,7 +135,8 @@
                     }
                 },
                 "distance": 781,
-                "place_id": "513b75e5b33ca95a40598ea15361e9aa2540f00103f9019aaf2493000000009203194ce1baa9752044c3aa20c490e1bba9632044c6b0e1bba16e67"
+                "place_id": "513b75e5b33ca95a40598ea15361e9aa2540f00103f9019aaf2493000000009203194ce1baa9752044c3aa20c490e1bba9632044c6b0e1bba16e67",
+                "id": 2
             },
             "geometry": {
                 "type": "Point",
@@ -201,7 +204,8 @@
                     "cuisine": "coffee_shop;vietnamese"
                 },
                 "distance": 785,
-                "place_id": "514f61b6aee2a85a4059e2519a3248af2540f00103f901420eddae00000000920310486967686c616e647320436f66666565"
+                "place_id": "514f61b6aee2a85a4059e2519a3248af2540f00103f901420eddae00000000920310486967686c616e647320436f66666565",
+                "id": 3
             },
             "geometry": {
                 "type": "Point",
@@ -244,7 +248,8 @@
                     }
                 },
                 "distance": 792,
-                "place_id": "51691899db18a95a4059e3d173cb7aae2540f00103f90171b9e764010000009203145175c3a16e2043c3a0205068c3aa204e68c3b363"
+                "place_id": "51691899db18a95a4059e3d173cb7aae2540f00103f90171b9e764010000009203145175c3a16e2043c3a0205068c3aa204e68c3b363",
+                "id": 4
             },
             "geometry": {
                 "type": "Point",
@@ -285,7 +290,8 @@
                     }
                 },
                 "distance": 951,
-                "place_id": "5194d7ef2e3ca85a40597cfdac039dab2540f00103f901b3b370f502000000"
+                "place_id": "5194d7ef2e3ca85a40597cfdac039dab2540f00103f901b3b370f502000000",
+                "id": 5
             },
             "geometry": {
                 "type": "Point",
@@ -352,7 +358,8 @@
                     "cuisine": "vietnamese"
                 },
                 "distance": 1026,
-                "place_id": "5148c5b59036a85a40595443c0e171aa2540f00103f9011a3e7a470100000092031843c6a16d204368617920546869e1bb876e204e68e1baab6e"
+                "place_id": "5148c5b59036a85a40595443c0e171aa2540f00103f9011a3e7a470100000092031843c6a16d204368617920546869e1bb876e204e68e1baab6e",
+                "id": 6
             },
             "geometry": {
                 "type": "Point",
