@@ -1,5 +1,5 @@
 {
-    "type": "category_commercial, radius_5000, limit_7",
+    "type": "category_commercial, radius_5000, limit_75",
     "features": [
         {
             "type": "Feature",
@@ -68,7 +68,7 @@
                     10.835825099487133
                 ]
             },
-            "id": 7
+            "id": 75
         },
         {
             "type": "Feature",
@@ -137,7 +137,7 @@
                     10.83433139948702
                 ]
             },
-            "id": 8
+            "id": 76
         },
         {
             "type": "Feature",
@@ -206,7 +206,7 @@
                     10.834858299487058
                 ]
             },
-            "id": 9
+            "id": 77
         },
         {
             "type": "Feature",
@@ -272,7 +272,7 @@
                     10.834436799487033
                 ]
             },
-            "id": 10
+            "id": 78
         },
         {
             "type": "Feature",
@@ -316,7 +316,7 @@
                     10.831246299486821
                 ]
             },
-            "id": 11
+            "id": 79
         },
         {
             "type": "Feature",
@@ -372,7 +372,7 @@
                     10.841933949487538
                 ]
             },
-            "id": 12
+            "id": 80
         },
         {
             "type": "Feature",
@@ -424,7 +424,3629 @@
                     10.836051799487146
                 ]
             },
-            "id": 13
+            "id": 81
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Pham Van Bach",
+                "housenumber": "1145",
+                "lon": 106.6442601,
+                "lat": 10.8344895,
+                "formatted": "WinMart+, 1145, Pham Van Bach, 71500, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "1145, Pham Van Bach, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "phone": 901722171,
+                        "osm_id": 5609999113,
+                        "website": "http://www.vinmartplus.vn",
+                        "alt_name": "VinMart+ 1145 Phạm Văn Bạch",
+                        "osm_type": "n",
+                        "addr:full": "1145 Phạm Văn Bạch, Phường 12, Quận Gò Vấp",
+                        "addr:street": "Phạm Văn Bạch",
+                        "brand:wikidata": "Q113236478",
+                        "addr:housenumber": 1145
+                    }
+                },
+                "website": "http://www.vinmartplus.vn",
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "name_other": {
+                    "alt_name": "VinMart+ 1145 Phạm Văn Bạch"
+                },
+                "contact": {
+                    "phone": 901722171
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 760,
+                "place_id": "5188e7b68e3ba95a4059f64d2a3542ab2540f00103f90109cb614e0100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6442601,
+                    10.834489499487045
+                ]
+            },
+            "id": 82
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Hẻm 44 Đường số 45",
+                "lon": 106.63774721587005,
+                "lat": 10.84275455,
+                "formatted": "Hẻm 44 Đường số 45, 71500, Vietnam",
+                "address_line1": "Hẻm 44 Đường số 45",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "commercial",
+                    "commercial.vehicle"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "car",
+                        "osm_id": 1311711384,
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Phường 14",
+                        "addr:district": "Gò Vấp",
+                        "addr:province": "Thành phố Hồ Chí Minh",
+                        "addr:subdistrict": "Phường 14"
+                    }
+                },
+                "commercial": {
+                    "type": "car"
+                },
+                "distance": 791,
+                "place_id": "51b8d1b2d9d0a85a40597f3539867daf2540f00102f90198202f4e00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63774721587004,
+                    10.842754549487607
+                ]
+            },
+            "id": 83
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tạp Hoá Thanh Minh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Hẻm 687 Tân Sơn",
+                "lon": 106.6449294,
+                "lat": 10.8358889,
+                "formatted": "Tạp Hoá Thanh Minh, Hẻm 687 Tân Sơn, 71500, Vietnam",
+                "address_line1": "Tạp Hoá Thanh Minh",
+                "address_line2": "Hẻm 687 Tân Sơn, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tạp Hoá Thanh Minh",
+                        "shop": "convenience",
+                        "osm_id": 4769024355,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 828,
+                "place_id": "51a54ef68546a95a4059fbc53ca1f9ab2540f00103f9016389411c0100000092031554e1baa17020486fc3a1205468616e68204d696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64492939999998,
+                    10.835888899487136
+                ]
+            },
+            "id": 84
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71509",
+                "street": "Hẻm 435 Tân Sơn",
+                "lon": 106.6425703,
+                "lat": 10.8292944,
+                "formatted": "WinMart+, Hẻm 435 Tân Sơn, 71509, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "Hẻm 435 Tân Sơn, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "phone": 906018583,
+                        "osm_id": 5609998420,
+                        "website": "http://www.vinmartplus.vn",
+                        "alt_name": "VinMart+ Khang Gia",
+                        "osm_type": "n",
+                        "addr:full": "Căn hộ số S17,tầng trệt cao ốc khang gia 01, Quang Trung, Phường 14, Quận Gò Vấp",
+                        "brand:wikidata": "Q113236478"
+                    }
+                },
+                "website": "http://www.vinmartplus.vn",
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "name_other": {
+                    "alt_name": "VinMart+ Khang Gia"
+                },
+                "contact": {
+                    "phone": 906018583
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 883,
+                "place_id": "5161f82ddf1fa95a40593f1a894699a82540f00103f90154c8614e0100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6425703,
+                    10.829294399486683
+                ]
+            },
+            "id": 85
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Hẻm 911 Quang Trung",
+                "housenumber": "S17",
+                "lon": 106.6386006,
+                "lat": 10.8436887,
+                "formatted": "WinMart+, S17, Hẻm 911 Quang Trung, 71500, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "S17, Hẻm 911 Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "phone": 901722627,
+                        "osm_id": 5609999940,
+                        "website": "http://www.vinmartplus.vn",
+                        "alt_name": "VinMart+ Cao ốc Khang Gia",
+                        "osm_type": "n",
+                        "addr:full": "căn hộ số S17,tầng trệt cao ốc khang gia 01, Quang Trung, Phường 14, Quận Gò Vấp",
+                        "addr:street": "Hẻm 911 Quang Trung",
+                        "brand:wikidata": "Q113236478",
+                        "addr:housenumber": "S17"
+                    }
+                },
+                "website": "http://www.vinmartplus.vn",
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "name_other": {
+                    "alt_name": "VinMart+ Cao ốc Khang Gia"
+                },
+                "contact": {
+                    "phone": 901722627
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 927,
+                "place_id": "512f0d0dd5dea85a4059cc9b18f7f7af2540f00103f90144ce614e0100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6386006,
+                    10.843688699487664
+                ]
+            },
+            "id": 86
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71509",
+                "street": "Phan Huy Ich",
+                "lon": 106.6398179,
+                "lat": 10.8439676,
+                "formatted": "Phan Huy Ich, 71509, Vietnam",
+                "address_line1": "Phan Huy Ich",
+                "address_line2": "71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "service",
+                    "service.beauty",
+                    "service.beauty.massage"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "massage",
+                        "osm_id": 4541465389,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "massage"
+                },
+                "distance": 985,
+                "place_id": "514ef9c6c6f2a85a4059d25d6d851cb02540f00103f9012d43b10e01000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6398179,
+                    10.843967599487687
+                ]
+            },
+            "id": 87
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PNJ",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Quang Trung",
+                "housenumber": "863-865",
+                "lon": 106.640423,
+                "lat": 10.843872,
+                "formatted": "PNJ, 863-865, Quang Trung, 71500, Vietnam",
+                "address_line1": "PNJ",
+                "address_line2": "863-865, Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.jewelry"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "PNJ",
+                        "shop": "jewelry",
+                        "brand": "PNJ",
+                        "osm_id": 5608880632,
+                        "website": "https://www.pnj.com.vn/",
+                        "osm_type": "n",
+                        "addr:street": "Quang Trung",
+                        "brand:wikidata": "Q61129183",
+                        "addr:housenumber": "863-865"
+                    }
+                },
+                "website": "https://www.pnj.com.vn/",
+                "brand": "PNJ",
+                "brand_details": {
+                    "wikidata": "Q61129183"
+                },
+                "commercial": {
+                    "type": "jewelry"
+                },
+                "distance": 995,
+                "place_id": "51cb26c0b0fca85a40598c9e9ffd0fb02540f00103f901f8b9504e01000000920303504e4a"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64042299999998,
+                    10.843871999487668
+                ]
+            },
+            "id": 88
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Co-opmart Liên Hiệp TP.HCM",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Quang Trung",
+                "lon": 106.6436933,
+                "lat": 10.8419863,
+                "formatted": "Co-opmart Liên Hiệp TP.HCM, Đường Quang Trung, 71500, Vietnam",
+                "address_line1": "Co-opmart Liên Hiệp TP.HCM",
+                "address_line2": "Đường Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.supermarket"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Co-opmart Liên Hiệp TP.HCM",
+                        "shop": "supermarket",
+                        "osm_id": 2593670953,
+                        "operator": "Co-opmart Liên hiệp TP.HCM",
+                        "osm_type": "n"
+                    }
+                },
+                "operator": "Co-opmart Liên hiệp TP.HCM",
+                "commercial": {
+                    "type": "supermarket"
+                },
+                "distance": 1005,
+                "place_id": "51df09624532a95a405949f507d418af2540f00103f9012947989a0000000092031d436f2d6f706d617274204c69c3aa6e204869e1bb87702054502e48434d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64369329999998,
+                    10.841986299487546
+                ]
+            },
+            "id": 89
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mắt Kính Thiên Long",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Đường Quang Trung",
+                "lon": 106.6399844,
+                "lat": 10.8442882,
+                "formatted": "Mắt Kính Thiên Long, Đường Quang Trung, 71500, Vietnam",
+                "address_line1": "Mắt Kính Thiên Long",
+                "address_line2": "Đường Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.optician"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Mắt Kính Thiên Long",
+                        "shop": "optician",
+                        "osm_id": 4541424090,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "optician"
+                },
+                "distance": 1024,
+                "place_id": "51cffc2081f5a85a40599865fa8a46b02540f00103f901daa1b00e010000009203174de1baaf74204bc3ad6e6820546869c3aa6e204c6f6e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63998439999999,
+                    10.844288199487707
+                ]
+            },
+            "id": 90
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Công Ty TNHH SX TM Thuỵ Minh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Đường Quang Trung",
+                "housenumber": "911/4",
+                "lon": 106.6388643,
+                "lat": 10.8447325,
+                "formatted": "Công Ty TNHH SX TM Thuỵ Minh, 911/4, Đường Quang Trung, 71500, Vietnam",
+                "address_line1": "Công Ty TNHH SX TM Thuỵ Minh",
+                "address_line2": "911/4, Đường Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.cosmetics"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Công Ty TNHH SX TM Thuỵ Minh",
+                        "shop": "cosmetics",
+                        "email": "thuyminh.company@gmail.com",
+                        "phone": "0907070380",
+                        "osm_id": 4213816992,
+                        "website": "http://thuyminh.zz.mu",
+                        "osm_type": "n",
+                        "addr:street": "Đường Quang Trung",
+                        "addr:postcode": "08",
+                        "opening_hours": "Mo-Fr 08:00-22:00",
+                        "addr:housenumber": "911/4"
+                    }
+                },
+                "website": "http://thuyminh.zz.mu",
+                "opening_hours": "Mo-Fr 08:00-22:00",
+                "contact": {
+                    "phone": "0907070380",
+                    "email": "thuyminh.company@gmail.com"
+                },
+                "commercial": {
+                    "type": "cosmetics"
+                },
+                "distance": 1045,
+                "place_id": "513ec51627e3a85a40591a5636c780b02540f00103f901a0be29fb0000000092031f43c3b46e6720547920544e484820535820544d20546875e1bbb5204d696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6388643,
+                    10.844732499487737
+                ]
+            },
+            "id": 91
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "An Phước",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Quang Trung",
+                "housenumber": "901",
+                "lon": 106.6388423,
+                "lat": 10.8451444,
+                "formatted": "An Phước, 901, Quang Trung, 71500, Vietnam",
+                "address_line1": "An Phước",
+                "address_line2": "901, Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.clothing",
+                    "commercial.clothing.clothes"
+                ],
+                "details": [
+                    "details",
+                    "details.commercial",
+                    "details.contact",
+                    "details.targeted_for"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "An Phước",
+                        "shop": "clothes",
+                        "phone": "028 3831 2382",
+                        "osm_id": 6813546190,
+                        "clothes": "suits",
+                        "alt_name": "An Phước 901 Quang Trung",
+                        "osm_type": "n",
+                        "addr:full": "901 Quang Trung, phường 14, quận Gò Vấp, Hồ Chí Minh, Việt Nam",
+                        "addr:street": "Quang Trung",
+                        "opening_hours": "7:30-21:30",
+                        "addr:housenumber": 901
+                    }
+                },
+                "opening_hours": "7:30-21:30",
+                "name_other": {
+                    "alt_name": "An Phước 901 Quang Trung"
+                },
+                "contact": {
+                    "phone": "028 3831 2382"
+                },
+                "commercial": {
+                    "type": "clothes",
+                    "clothes": "suits"
+                },
+                "distance": 1090,
+                "place_id": "514973d0cae2a85a4059216548c4b6b02540f00103f901ce761e960100000092030b416e205068c6b0e1bb9b63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63884229999998,
+                    10.845144399487767
+                ]
+            },
+            "id": 92
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn",
+                "postcode": "71509",
+                "street": "Hẻm 513 Phạm Văn Bạch",
+                "lon": 106.6392199,
+                "lat": 10.8256211,
+                "formatted": "Hẻm 513 Phạm Văn Bạch, 71509, Vietnam",
+                "address_line1": "Hẻm 513 Phạm Văn Bạch",
+                "address_line2": "71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "convenience",
+                        "osm_id": 7248906485,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 1100,
+                "place_id": "51f35c95fae8a85a4059115d0acfb7a62540f00103f901f58811b001000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63921989999999,
+                    10.825621099486428
+                ]
+            },
+            "id": 93
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Công Ty TNHH DUCKARTSUPPLY",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "city": "Ho Chi Minh City",
+                "postcode": "71509",
+                "street": "Đường Đông Hưng Thuận 07",
+                "housenumber": "9/5",
+                "lon": 106.6267297,
+                "lat": 10.8333568,
+                "formatted": "Công Ty TNHH DUCKARTSUPPLY, 9/5, Đường Đông Hưng Thuận 07, Ho Chi Minh City, 71509, Vietnam",
+                "address_line1": "Công Ty TNHH DUCKARTSUPPLY",
+                "address_line2": "9/5, Đường Đông Hưng Thuận 07, Ho Chi Minh City, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.art"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Công Ty TNHH DUCKARTSUPPLY",
+                        "shop": "art",
+                        "email": "Duckartsupply@gmail.com",
+                        "phone": "+84903225663",
+                        "osm_id": 8834291134,
+                        "osm_type": "n",
+                        "addr:city": "Hồ Chí Minh",
+                        "addr:street": "Đường Đông Hưng Thuận 07",
+                        "payment:cash": "yes",
+                        "payment:visa": "yes",
+                        "addr:district": "Quận 12",
+                        "addr:postcode": 71509,
+                        "addr:province": "Hồ Chí Minh",
+                        "opening_hours": "Mo-Sa 08:00-18:00",
+                        "addr:housenumber": "9/5",
+                        "addr:subdistrict": "Phường Tân Hưng Thuận",
+                        "payment:visa_debit": "yes",
+                        "payment:credit_cards": "yes",
+                        "payment:wire_transfer": "yes"
+                    }
+                },
+                "opening_hours": "Mo-Sa 08:00-18:00",
+                "contact": {
+                    "phone": "+84903225663",
+                    "email": "Duckartsupply@gmail.com"
+                },
+                "payment_options": {
+                    "cash": true,
+                    "visa": true,
+                    "visa_debit": true,
+                    "credit_cards": true,
+                    "wire_transfer": true
+                },
+                "commercial": {
+                    "type": "art"
+                },
+                "distance": 1185,
+                "place_id": "51a43be3561ca85a405936640fbeadaa2540f00103f901be95900e0200000092031b43c3b46e6720547920544e4848204455434b415254535550504c59"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6267297,
+                    10.83335679948696
+                ]
+            },
+            "id": 94
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Công Ty TNHH Ô Tô Isuzu",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Quang Trung",
+                "lon": 106.6482944,
+                "lat": 10.8387724,
+                "formatted": "Công Ty TNHH Ô Tô Isuzu, Đường Quang Trung, 71500, Vietnam",
+                "address_line1": "Công Ty TNHH Ô Tô Isuzu",
+                "address_line2": "Đường Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.repair",
+                    "service.vehicle.repair.car"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Công Ty TNHH Ô Tô Isuzu",
+                        "shop": "car_repair",
+                        "osm_id": 2487519073,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "car_repair"
+                },
+                "distance": 1252,
+                "place_id": "51848bcba77da95a4059ca2b719373ad2540f00103f901618744940000000092031a43c3b46e6720547920544e484820c3942054c3b4204973757a75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6482944,
+                    10.838772399487329
+                ]
+            },
+            "id": 95
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FPT Shop",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn",
+                "postcode": "71509",
+                "street": "Đường Tân Trụ",
+                "lon": 106.6306617,
+                "lat": 10.8251202,
+                "formatted": "FPT Shop, Đường Tân Trụ, 71509, Vietnam",
+                "address_line1": "FPT Shop",
+                "address_line2": "Đường Tân Trụ, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.elektronics"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "FPT Shop",
+                        "shop": "mobile_phone",
+                        "osm_id": 6699586158,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "mobile_phone"
+                },
+                "distance": 1353,
+                "place_id": "51bf15e4c25ca85a40594820a02776a62540f00103f9016e92538f010000009203084650542053686f70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6306617,
+                    10.825120199486392
+                ]
+            },
+            "id": 96
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Siêu Thị Tiện Lợi Citi Mart",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn",
+                "postcode": "71509",
+                "street": "Phan Huy Ich",
+                "housenumber": "31-33",
+                "lon": 106.6303666,
+                "lat": 10.8252692,
+                "formatted": "Siêu Thị Tiện Lợi Citi Mart, 31-33, Phan Huy Ich, 71509, Vietnam",
+                "address_line1": "Siêu Thị Tiện Lợi Citi Mart",
+                "address_line2": "31-33, Phan Huy Ich, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.supermarket"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Siêu Thị Tiện Lợi Citi Mart",
+                        "shop": "supermarket",
+                        "osm_id": 4875563426,
+                        "osm_type": "n",
+                        "addr:street": "Đường Phan Huy Ích",
+                        "addr:housenumber": "31-33"
+                    }
+                },
+                "commercial": {
+                    "type": "supermarket"
+                },
+                "distance": 1357,
+                "place_id": "5168df26ed57a85a405965613caf89a62540f00103f901a2319b22010000009203225369c3aa75205468e1bb8b205469e1bb876e204ce1bba3692043697469204d617274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6303666,
+                    10.825269199486408
+                ]
+            },
+            "id": 97
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bách Hoá Trung Đức",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Song Hành Quốc Lộ 22",
+                "lon": 106.6247139,
+                "lat": 10.8307152,
+                "formatted": "Bách Hoá Trung Đức, Song Hành Quốc Lộ 22, 71509, Vietnam",
+                "address_line1": "Bách Hoá Trung Đức",
+                "address_line2": "Song Hành Quốc Lộ 22, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bách Hoá Trung Đức",
+                        "shop": "convenience",
+                        "osm_id": 4913984421,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 1478,
+                "place_id": "51d2760250fba75a4059ee2bac8053a92540f00103f901a573e5240100000092031742c3a1636820486fc3a1205472756e6720c490e1bba963"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62471389999999,
+                    10.830715199486772
+                ]
+            },
+            "id": 98
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Nguyễn Văn Khối",
+                "housenumber": "392",
+                "lon": 106.6481171,
+                "lat": 10.8438046,
+                "formatted": "WinMart+, 392, Nguyễn Văn Khối, 71500, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "392, Nguyễn Văn Khối, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "phone": 901722190,
+                        "osm_id": 5609997913,
+                        "website": "http://www.vinmartplus.vn",
+                        "alt_name": "VinMart+ 392 Đường số 10",
+                        "osm_type": "n",
+                        "addr:full": "392, ĐƯỜNG Cây Trâm , PHƯỜNG 9, QUẬN GÒ VẤP",
+                        "addr:street": "Cây Trâm",
+                        "brand:wikidata": "Q113236478",
+                        "addr:housenumber": 392
+                    }
+                },
+                "website": "http://www.vinmartplus.vn",
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "name_other": {
+                    "alt_name": "VinMart+ 392 Đường số 10"
+                },
+                "contact": {
+                    "phone": 901722190
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 1499,
+                "place_id": "519d1e25c07aa95a40591f070e2807b02540f00103f90159c6614e0100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6481171,
+                    10.843804599487667
+                ]
+            },
+            "id": 99
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Siêu Thị Điện Máy Nội Thất Chợ Lớn Quận 12",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Hẻm 106 Đường Trường Chinh",
+                "lon": 106.6248202,
+                "lat": 10.8285419,
+                "formatted": "Siêu Thị Điện Máy Nội Thất Chợ Lớn Quận 12, Hẻm 106 Đường Trường Chinh, 71509, Vietnam",
+                "address_line1": "Siêu Thị Điện Máy Nội Thất Chợ Lớn Quận 12",
+                "address_line2": "Hẻm 106 Đường Trường Chinh, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.elektronics"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Siêu Thị Điện Máy Nội Thất Chợ Lớn Quận 12",
+                        "shop": "electrical",
+                        "osm_id": 9585835380,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "electrical"
+                },
+                "distance": 1568,
+                "place_id": "515438dd0dfda75a40595652d3a436a82540f00103f901743d5c3b0200000092033b5369c3aa75205468e1bb8b20c49069e1bb876e204dc3a179204ee1bb9969205468e1baa574204368e1bba3204ce1bb9b6e205175e1baad6e203132"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62482019999999,
+                    10.828541899486634
+                ]
+            },
+            "id": 100
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thế Giới Di Động",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Phan Văn Hớn",
+                "lon": 106.6249826,
+                "lat": 10.8270791,
+                "formatted": "Thế Giới Di Động, Phan Văn Hớn, 71509, Vietnam",
+                "address_line1": "Thế Giới Di Động",
+                "address_line2": "Phan Văn Hớn, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.elektronics"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Thế Giới Di Động",
+                        "shop": "mobile_phone",
+                        "osm_id": 6326608157,
+                        "osm_type": "n",
+                        "description": "Thế giới di động khu vực Phan Văn Hớn giao với Trường Chinh",
+                        "opening_hours:signed": "no",
+                        "check_date:opening_hours": "2023-03-12"
+                    }
+                },
+                "description": "Thế giới di động khu vực Phan Văn Hớn giao với Trường Chinh",
+                "commercial": {
+                    "type": "mobile_phone"
+                },
+                "distance": 1637,
+                "place_id": "516ae404b7ffa75a4059e4ff66e976a72540f00103f9011d611879010000009203175468e1babf204769e1bb9b6920446920c490e1bb996e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62498259999998,
+                    10.827079099486532
+                ]
+            },
+            "id": 101
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.6235722,
+                "lat": 10.8289839,
+                "formatted": "Trường Chinh, 71509, Vietnam",
+                "address_line1": "Trường Chinh",
+                "address_line2": "71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.vehicle"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "car",
+                        "osm_id": 6319111465,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "car"
+                },
+                "distance": 1667,
+                "place_id": "51776c5f9be8a75a40595b69e29370a82540f00103f90129fda57801000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6235722,
+                    10.828983899486664
+                ]
+            },
+            "id": 102
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.6301057,
+                "lat": 10.8210752,
+                "formatted": "Trường Chinh, 71509, Vietnam",
+                "address_line1": "Trường Chinh",
+                "address_line2": "71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.clothing",
+                    "commercial.clothing.clothes"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "clothes",
+                        "osm_id": 4555473390,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "clothes"
+                },
+                "distance": 1772,
+                "place_id": "517ca1dba653a85a4059fbb2f2f763a42540f00103f901ee01870f01000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6301057,
+                    10.821075199486122
+                ]
+            },
+            "id": 103
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.6214592,
+                "lat": 10.8310643,
+                "formatted": "WinMart+, Trường Chinh, 71509, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "Trường Chinh, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "phone": 901702862,
+                        "osm_id": 5609998370,
+                        "website": "http://www.vinmartplus.vn",
+                        "alt_name": "VinMart+ TM28-CC.8X-Plus",
+                        "osm_type": "n",
+                        "addr:full": "TM28-CC.8X-Plus 22/1422/14A/22/1422/14Cvà 22/14D Đường Trường Chinh, Phường Tân Thới Nhât.Quận 12,Tp HCM",
+                        "brand:wikidata": "Q113236478"
+                    }
+                },
+                "website": "http://www.vinmartplus.vn",
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "name_other": {
+                    "alt_name": "VinMart+ TM28-CC.8X-Plus"
+                },
+                "contact": {
+                    "phone": 901702862
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 1805,
+                "place_id": "5118f3cefcc5a75a40597b56864281a92540f00103f90122c8614e0100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6214592,
+                    10.831064299486789
+                ]
+            },
+            "id": 104
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kho Hàng Hùng Hậu",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "city": "Ho Chi Minh City",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "housenumber": "29/4",
+                "lon": 106.6216245,
+                "lat": 10.8304431,
+                "formatted": "Kho Hàng Hùng Hậu, 29/4, Trường Chinh, Ho Chi Minh City, 71509, Vietnam",
+                "address_line1": "Kho Hàng Hùng Hậu",
+                "address_line2": "29/4, Trường Chinh, Ho Chi Minh City, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.supermarket"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Kho Hàng Hùng Hậu",
+                        "shop": "supermarket",
+                        "phone": "0901300442",
+                        "osm_id": 9325963947,
+                        "website": "https://hunghauco.vn/",
+                        "osm_type": "n",
+                        "addr:city": "Hồ Chí Minh",
+                        "addr:street": "Trường Chinh",
+                        "addr:district": "Quận 12",
+                        "opening_hours": "24/7",
+                        "addr:housenumber": "29/4",
+                        "addr:subdistrict": "Tân Thới Nhất"
+                    }
+                },
+                "website": "https://hunghauco.vn/",
+                "opening_hours": "24/7",
+                "contact": {
+                    "phone": "0901300442"
+                },
+                "commercial": {
+                    "type": "supermarket"
+                },
+                "distance": 1807,
+                "place_id": "511b7920b2c8a75a40590ff882d62fa92540f00103f901abeade2b020000009203154b686f2048c3a06e672048c3b96e672048e1baad75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62162449999998,
+                    10.830443099486756
+                ]
+            },
+            "id": 105
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Siêu Thị Viễn Thông",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Street No. 21",
+                "housenumber": "66/7",
+                "lon": 106.6522048,
+                "lat": 10.8425946,
+                "formatted": "Siêu Thị Viễn Thông, 66/7, Street No. 21, 71500, Vietnam",
+                "address_line1": "Siêu Thị Viễn Thông",
+                "address_line2": "66/7, Street No. 21, 71500, Vietnam",
+                "categories": [
+                    "commercial"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Siêu Thị Viễn Thông",
+                        "shop": "yes",
+                        "phone": "(08) 38312123",
+                        "osm_id": 4386725377,
+                        "website": "http://sieuthivienthong24h.vn/",
+                        "osm_type": "n",
+                        "addr:city": "Ho Chi Minh",
+                        "addr:street": "Duong so 21",
+                        "addr:district": "Gò Vấp",
+                        "addr:housenumber": "66/7",
+                        "addr:subdistrict": 8
+                    }
+                },
+                "website": "http://sieuthivienthong24h.vn/",
+                "contact": {
+                    "phone": "(08) 38312123"
+                },
+                "distance": 1807,
+                "place_id": "51d59233b9bda95a4059bc2b318f68af2540f00103f901011e7805010000009203195369c3aa75205468e1bb8b205669e1bb856e205468c3b46e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6522048,
+                    10.84259459948759
+                ]
+            },
+            "id": 106
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tạp Hoá Chú 8",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Hẻm 74/39 Phan Văn Hớn",
+                "lon": 106.6215521,
+                "lat": 10.8303666,
+                "formatted": "Tạp Hoá Chú 8, Hẻm 74/39 Phan Văn Hớn, 71509, Vietnam",
+                "address_line1": "Tạp Hoá Chú 8",
+                "address_line2": "Hẻm 74/39 Phan Văn Hớn, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.supermarket"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tạp Hoá Chú 8",
+                        "shop": "supermarket",
+                        "osm_id": 9326078202,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "supermarket"
+                },
+                "distance": 1817,
+                "place_id": "51a5907582c7a75a405903f998cf25a92540f00103f901faa8e02b0200000092031154e1baa17020486fc3a1204368c3ba2038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62155209999999,
+                    10.830366599486757
+                ]
+            },
+            "id": 107
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mercedes - Benz Vietnam",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Quang Trung",
+                "lon": 106.6544445,
+                "lat": 10.837231,
+                "formatted": "Mercedes - Benz Vietnam, Đường Quang Trung, 71500, Vietnam",
+                "address_line1": "Mercedes - Benz Vietnam",
+                "address_line2": "Đường Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.repair",
+                    "service.vehicle.repair.car"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Mercedes - Benz Vietnam",
+                        "shop": "car_repair",
+                        "brand": "Mercedes-Benz",
+                        "osm_id": 2353079401,
+                        "osm_type": "n",
+                        "brand:wikidata": "Q36008"
+                    }
+                },
+                "brand": "Mercedes-Benz",
+                "brand_details": {
+                    "wikidata": "Q36008"
+                },
+                "commercial": {
+                    "type": "car_repair"
+                },
+                "distance": 1878,
+                "place_id": "5103232f6be2a95a405973fda38aa9ac2540f00103f9016924418c000000009203174d65726365646573202d2042656e7a20566965746e616d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6544445,
+                    10.837230999487224
+                ]
+            },
+            "id": 108
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Road No.9",
+                "housenumber": "238",
+                "lon": 106.6513453,
+                "lat": 10.8460602,
+                "formatted": "WinMart+, 238, Road No.9, 71500, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "238, Road No.9, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "osm_id": 6751162951,
+                        "osm_type": "n",
+                        "addr:street": "Đường số 9",
+                        "brand:wikidata": "Q113236478",
+                        "addr:housenumber": 238
+                    }
+                },
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 1930,
+                "place_id": "51d07932a4afa95a4059b47e6ecd2eb12540f00103f901479266920100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6513453,
+                    10.84606019948783
+                ]
+            },
+            "id": 109
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Co.opmart Thắng Lợi",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.63075459388257,
+                "lat": 10.81805245,
+                "formatted": "Co.opmart Thắng Lợi, Trường Chinh, 71509, Vietnam",
+                "address_line1": "Co.opmart Thắng Lợi",
+                "address_line2": "Trường Chinh, 71509, Vietnam",
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "commercial",
+                    "commercial.supermarket"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Co.opmart Thắng Lợi",
+                        "shop": "supermarket",
+                        "osm_id": 1149374215,
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:street": "Trường Chinh",
+                        "addr:district": "Quận Tân Phú",
+                        "addr:province": "Thành phố Hồ Chí Minh",
+                        "addr:subdistrict": "Phường Tây Thạnh"
+                    }
+                },
+                "commercial": {
+                    "type": "supermarket"
+                },
+                "distance": 1992,
+                "place_id": "51c02184485ea85a4059d0e849c5d7a22540f00102f901070f824400000000920317436f2e6f706d617274205468e1baaf6e67204ce1bba369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63075459388256,
+                    10.818052449485918
+                ]
+            },
+            "id": 110
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tạp Hoá 107",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71507",
+                "street": "Đường Đỗ Mười",
+                "lon": 106.6336549,
+                "lat": 10.853342,
+                "formatted": "Tạp Hoá 107, Đường Đỗ Mười, 71507, Vietnam",
+                "address_line1": "Tạp Hoá 107",
+                "address_line2": "Đường Đỗ Mười, 71507, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tạp Hoá 107",
+                        "shop": "convenience",
+                        "osm_id": 4806781821,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 2026,
+                "place_id": "51ce1c48cd8da85a40590f36183ee9b42540f00103f9017dab811e0100000092030e54e1baa17020486fc3a120313037"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63365489999998,
+                    10.85334199948832
+                ]
+            },
+            "id": 111
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Co.op Mart Thắng Lợi",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.6308605,
+                "lat": 10.8182143,
+                "formatted": "Co.op Mart Thắng Lợi, Trường Chinh, 71509, Vietnam",
+                "address_line1": "Co.op Mart Thắng Lợi",
+                "address_line2": "Trường Chinh, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.supermarket"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Co.op Mart Thắng Lợi",
+                        "shop": "supermarket",
+                        "osm_id": 9584841103,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "supermarket"
+                },
+                "distance": 2030,
+                "place_id": "51a4f5b70460a85a4059bed212fceca22540f00103f9018f114d3b02000000920318436f2e6f70204d617274205468e1baaf6e67204ce1bba369"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63086049999998,
+                    10.818214299485927
+                ]
+            },
+            "id": 112
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Co.opmart",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Đường Phan Văn Hớn",
+                "housenumber": "102",
+                "lon": 106.6197414,
+                "lat": 10.8286526,
+                "formatted": "Co.opmart, 102, Đường Phan Văn Hớn, 71509, Vietnam",
+                "address_line1": "Co.opmart",
+                "address_line2": "102, Đường Phan Văn Hớn, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.supermarket"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Co.opmart",
+                        "shop": "supermarket",
+                        "phone": "+842838155484",
+                        "branch": "Phan Văn Hớn",
+                        "osm_id": 9593240662,
+                        "osm_type": "n",
+                        "addr:street": "Đường Phan Văn Hớn",
+                        "opening_hours": "Mo-Su 08:00-22:00",
+                        "addr:housenumber": 102
+                    }
+                },
+                "opening_hours": "Mo-Su 08:00-22:00",
+                "branch": "Phan Văn Hớn",
+                "contact": {
+                    "phone": "+842838155484"
+                },
+                "commercial": {
+                    "type": "supermarket"
+                },
+                "distance": 2067,
+                "place_id": "518a3ed5d7a9a75a4059ba144d2745a82540f00103f901563ccd3b02000000920309436f2e6f706d617274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61974139999998,
+                    10.828652599486635
+                ]
+            },
+            "id": 113
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Co.op Mart Trường Chinh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.6311526,
+                "lat": 10.8176424,
+                "formatted": "Co.op Mart Trường Chinh, Trường Chinh, 71509, Vietnam",
+                "address_line1": "Co.op Mart Trường Chinh",
+                "address_line2": "Trường Chinh, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.supermarket"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Co.op Mart Trường Chinh",
+                        "shop": "supermarket",
+                        "osm_id": 4555505691,
+                        "name:vi": "Co.op Mart",
+                        "osm_type": "n"
+                    }
+                },
+                "name_international": {
+                    "vi": "Co.op Mart"
+                },
+                "commercial": {
+                    "type": "supermarket"
+                },
+                "distance": 2078,
+                "place_id": "5142f2dfcd64a85a4059cf3a4b06a2a22540f00103f9011b80870f0100000092031a436f2e6f70204d617274205472c6b0e1bb9d6e67204368696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63115259999998,
+                    10.817642399485889
+                ]
+            },
+            "id": 114
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anphucspa",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "street": "Đường Tô Ký",
+                "housenumber": "2242/19",
+                "lon": 106.6257256,
+                "lat": 10.8509719,
+                "formatted": "Anphucspa, 2242/19, Đường Tô Ký, 71507, Vietnam",
+                "address_line1": "Anphucspa",
+                "address_line2": "2242/19, Đường Tô Ký, 71507, Vietnam",
+                "categories": [
+                    "commercial",
+                    "service",
+                    "service.beauty",
+                    "service.beauty.massage"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Anphucspa",
+                        "shop": "massage",
+                        "phone": "+84909837814",
+                        "osm_id": 10939958642,
+                        "operator": "Anphucspa",
+                        "osm_type": "n",
+                        "addr:city": "Ho chi Minh",
+                        "addr:street": "Quốc lộ 1",
+                        "addr:district": "District 12",
+                        "addr:postcode": 71507,
+                        "addr:province": "Hồ Chí Minh",
+                        "opening_hours": "Mo-Su 09:00-21:00",
+                        "addr:housenumber": "2242/19",
+                        "addr:subdistrict": "Trung My Tay"
+                    }
+                },
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "operator": "Anphucspa",
+                "contact": {
+                    "phone": "+84909837814"
+                },
+                "commercial": {
+                    "type": "massage"
+                },
+                "distance": 2142,
+                "place_id": "51461163e30ba85a4059ba3bbc96b2b32540f00103f9017285128c02000000920309416e70687563737061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62572559999998,
+                    10.850971899488162
+                ]
+            },
+            "id": 115
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bike box shop",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn",
+                "postcode": "70500",
+                "street": "Hẻm 111 Phạm Văn Bạch",
+                "housenumber": "103",
+                "lon": 106.6349242,
+                "lat": 10.8159154,
+                "formatted": "Bike box shop, 103, Hẻm 111 Phạm Văn Bạch, 70500, Vietnam",
+                "address_line1": "Bike box shop",
+                "address_line2": "103, Hẻm 111 Phạm Văn Bạch, 70500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.outdoor_and_sport",
+                    "commercial.outdoor_and_sport.bicycle"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bike box shop",
+                        "shop": "bicycle",
+                        "osm_id": 12651088466,
+                        "osm_type": "n",
+                        "addr:housenumber": 103
+                    }
+                },
+                "commercial": {
+                    "type": "bicycle"
+                },
+                "distance": 2171,
+                "place_id": "51189c1c99a2a85a40593330caa9bfa12540f00103f901524a10f20200000092030d42696b6520626f782073686f70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6349242,
+                    10.815915399485766
+                ]
+            },
+            "id": 116
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kho Viettel Z11",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Xã Bà Điểm",
+                "postcode": "71914",
+                "street": "Quốc Lộ 1",
+                "housenumber": "Khu Z11",
+                "lon": 106.6225471,
+                "lat": 10.8485967,
+                "formatted": "Kho Viettel Z11, Khu Z11, Quốc Lộ 1, 71914, Vietnam",
+                "address_line1": "Kho Viettel Z11",
+                "address_line2": "Khu Z11, Quốc Lộ 1, 71914, Vietnam",
+                "categories": [
+                    "commercial",
+                    "rental",
+                    "rental.storage"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Kho Viettel Z11",
+                        "shop": "storage_rental",
+                        "osm_id": 12475268861,
+                        "osm_type": "n",
+                        "addr:city": "Phường Trung Mỹ Tây",
+                        "addr:street": "Quốc lộ 1",
+                        "addr:postcode": 700000,
+                        "addr:province": "Hồ Chí Minh",
+                        "addr:housenumber": "Khu Z11"
+                    }
+                },
+                "commercial": {
+                    "type": "storage_rental"
+                },
+                "distance": 2181,
+                "place_id": "510eaecacfd7a75a4059c8963f447bb22540f00103f901fd7e95e70200000092030f4b686f205669657474656c205a3131"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62254709999999,
+                    10.848596699487999
+                ]
+            },
+            "id": 117
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Đại Lý Sữa Ngọc Linh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Hẻm 310 Phạm Văn Chiêu",
+                "lon": 106.6514986,
+                "lat": 10.8495999,
+                "formatted": "Đại Lý Sữa Ngọc Linh, Hẻm 310 Phạm Văn Chiêu, 71500, Vietnam",
+                "address_line1": "Đại Lý Sữa Ngọc Linh",
+                "address_line2": "Hẻm 310 Phạm Văn Chiêu, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Đại Lý Sữa Ngọc Linh",
+                        "shop": "convenience",
+                        "osm_id": 4817131621,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 2203,
+                "place_id": "51f1182f27b2a95a4059e7f80dc2feb22540f00103f90165981f1f0100000092031cc490e1baa169204cc3bd2053e1bbaf61204e67e1bb8d63204c696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65149859999998,
+                    10.849599899488068
+                ]
+            },
+            "id": 118
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.63163873901843,
+                "lat": 10.815808449999999,
+                "formatted": "Trường Chinh, 71509, Vietnam",
+                "address_line1": "Trường Chinh",
+                "address_line2": "71509, Vietnam",
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "commercial",
+                    "commercial.vehicle"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "car",
+                        "osm_id": 361358045,
+                        "building": "yes",
+                        "osm_type": "w"
+                    }
+                },
+                "commercial": {
+                    "type": "car"
+                },
+                "distance": 2205,
+                "place_id": "5122bee3c46ca85a405902af24a5b1a12540f00102f901dde2891500000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63163873901843,
+                    10.815808449485761
+                ]
+            },
+            "id": 119
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Honda Quang Khánh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn",
+                "city": "Ho Chi Minh City",
+                "postcode": "71509",
+                "street": "Đường Trường Chinh",
+                "housenumber": "744",
+                "lon": 106.6324879,
+                "lat": 10.8156862,
+                "formatted": "Honda Quang Khánh, 744, Đường Trường Chinh, Ho Chi Minh City, 71509, Vietnam",
+                "address_line1": "Honda Quang Khánh",
+                "address_line2": "744, Đường Trường Chinh, Ho Chi Minh City, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.vehicle"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Honda Quang Khánh",
+                        "shop": "motorcycle",
+                        "brand": "Honda",
+                        "phone": "+84 28 3815 0366",
+                        "osm_id": 12578244886,
+                        "osm_type": "n",
+                        "addr:city": "Hồ Chí Minh",
+                        "addr:street": "Đ. Trường Chinh",
+                        "addr:country": "VN",
+                        "addr:district": "Tân Bình",
+                        "addr:housenumber": 744,
+                        "addr:subdistrict": "Phường 15"
+                    }
+                },
+                "brand": "Honda",
+                "contact": {
+                    "phone": "+84 28 3815 0366"
+                },
+                "commercial": {
+                    "type": "motorcycle"
+                },
+                "distance": 2245,
+                "place_id": "51686787ae7aa85a4059012e1d9fa1a12540f00103f90116c9b8ed02000000920312486f6e6461205175616e67204b68c3a16e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6324879,
+                    10.815686199485755
+                ]
+            },
+            "id": 120
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "housenumber": "161",
+                "lon": 106.6572473,
+                "lat": 10.8413231,
+                "formatted": "WinMart+, 161, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "161, Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "phone": 901702638,
+                        "osm_id": 5610000296,
+                        "website": "http://www.vinmartplus.vn",
+                        "alt_name": "VinMart+ 161 Lê Văn Thọ",
+                        "osm_type": "n",
+                        "addr:full": "139A (số nhà mới 161) Lê Văn Thọ, Phường 8 ( Phường 11 cũ), Quận Gò Vấp, TP. Hồ Chí Minh",
+                        "addr:street": "Đường Lê Văn Thọ",
+                        "brand:wikidata": "Q113236478",
+                        "addr:housenumber": 161
+                    }
+                },
+                "website": "http://www.vinmartplus.vn",
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "name_other": {
+                    "alt_name": "VinMart+ 161 Lê Văn Thọ"
+                },
+                "contact": {
+                    "phone": 901702638
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 2270,
+                "place_id": "5197b8fa5610aa5a40591956bbe6c1ae2540f00103f901a8cf614e0100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65724729999998,
+                    10.841323099487498
+                ]
+            },
+            "id": 121
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6570689,
+                "lat": 10.842714,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.health_and_beauty",
+                    "commercial.health_and_beauty.optician"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "optician",
+                        "osm_id": 8149539361,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "optician"
+                },
+                "distance": 2301,
+                "place_id": "51ff2db76a0daa5a4059745c973578af2540f00103f901211ac0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6570689,
+                    10.842713999487593
+                ]
+            },
+            "id": 122
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bách Hóa XANH",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Đường Dương Thị Giang",
+                "lon": 106.6201585,
+                "lat": 10.8234145,
+                "formatted": "Bách Hóa XANH, Đường Dương Thị Giang, 71509, Vietnam",
+                "address_line1": "Bách Hóa XANH",
+                "address_line2": "Đường Dương Thị Giang, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bách Hóa XANH",
+                        "shop": "convenience",
+                        "brand": "Bách Hóa XANH",
+                        "osm_id": 6326608156,
+                        "osm_type": "n",
+                        "brand:wikidata": "Q115327101"
+                    }
+                },
+                "brand": "Bách Hóa XANH",
+                "brand_details": {
+                    "wikidata": "Q115327101"
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 2302,
+                "place_id": "5188f546adb0a75a40590bb1d49596a52540f00103f9011c6118790100000092030f42c3a163682048c3b3612058414e48"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6201585,
+                    10.823414499486281
+                ]
+            },
+            "id": 123
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cửa Hàng Vi Tính Tân Thành Danh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "70000",
+                "street": "Đường Lê Văn Thọ",
+                "housenumber": "179",
+                "lon": 106.6571336,
+                "lat": 10.8427368,
+                "formatted": "Tân Thành Danh Computer, 179, Đường Lê Văn Thọ, 70000, Vietnam",
+                "address_line1": "Tân Thành Danh Computer",
+                "address_line2": "179, Đường Lê Văn Thọ, 70000, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.elektronics",
+                    "internet_access"
+                ],
+                "details": [
+                    "details",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cửa Hàng Vi Tính Tân Thành Danh",
+                        "shop": "computer",
+                        "email": "tanthanhdanhltd@gmail.com",
+                        "phone": "0901851852",
+                        "osm_id": 5397411321,
+                        "name:en": "Tân Thành Danh Computer",
+                        "website": "https://tanthanhdanh.vn/",
+                        "osm_type": "n",
+                        "addr:street": "Đường Lê Văn Thọ",
+                        "addr:postcode": 70000,
+                        "opening_hours": "Mo-Su 09:00-21:00",
+                        "internet_access": "wlan",
+                        "addr:housenumber": 179
+                    }
+                },
+                "website": "https://tanthanhdanh.vn/",
+                "opening_hours": "Mo-Su 09:00-21:00",
+                "name_international": {
+                    "en": "Tân Thành Danh Computer"
+                },
+                "contact": {
+                    "phone": "0901851852",
+                    "email": "tanthanhdanhltd@gmail.com"
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "commercial": {
+                    "type": "computer"
+                },
+                "distance": 2309,
+                "place_id": "519246167a0eaa5a4059b2dea1327baf2540f00103f901f9f5b5410100000092032543e1bbad612048c3a06e672056692054c3ad6e682054c3a26e205468c3a06e682044616e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65713359999998,
+                    10.8427367994876
+                ]
+            },
+            "id": 124
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cửa Hàng Mỹ Phẩm Guardian",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6572164,
+                "lat": 10.842988,
+                "formatted": "Cửa Hàng Mỹ Phẩm Guardian, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cửa Hàng Mỹ Phẩm Guardian",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.chemist"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cửa Hàng Mỹ Phẩm Guardian",
+                        "shop": "chemist",
+                        "brand": "Guardian",
+                        "osm_id": 8149539359,
+                        "osm_type": "n",
+                        "brand:wikidata": "Q63371124"
+                    }
+                },
+                "brand": "Guardian",
+                "brand_details": {
+                    "wikidata": "Q63371124"
+                },
+                "commercial": {
+                    "type": "chemist"
+                },
+                "distance": 2327,
+                "place_id": "51441960d50faa5a40598270811f9caf2540f00103f9011f1ac0e50100000092032043e1bbad612048c3a06e67204de1bbb9205068e1baa96d20477561726469616e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65721639999998,
+                    10.842987999487608
+                ]
+            },
+            "id": 125
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bến Thành Ford",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.63187819968789,
+                "lat": 10.8145396,
+                "formatted": "Bến Thành Ford, Trường Chinh, 71509, Vietnam",
+                "address_line1": "Bến Thành Ford",
+                "address_line2": "Trường Chinh, 71509, Vietnam",
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "commercial",
+                    "commercial.vehicle"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bến Thành Ford",
+                        "shop": "car",
+                        "osm_id": 361357345,
+                        "name:vi": "Bến Thành Ford",
+                        "building": "yes",
+                        "operator": "ford",
+                        "osm_type": "w"
+                    }
+                },
+                "operator": "ford",
+                "name_international": {
+                    "vi": "Bến Thành Ford"
+                },
+                "commercial": {
+                    "type": "car"
+                },
+                "distance": 2352,
+                "place_id": "51c0ad42b170a85a4059042d9a550ba12540f00102f90121e089150000000092031142e1babf6e205468c3a06e6820466f7264"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63187819968789,
+                    10.814539599485677
+                ]
+            },
+            "id": 126
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.657178,
+                "lat": 10.8443605,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.florist"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "florist",
+                        "osm_id": 8149539354,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "florist"
+                },
+                "distance": 2382,
+                "place_id": "51a46950340faa5a4059feaaf60450b02540f00103f9011a1ac0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65717799999999,
+                    10.844360499487717
+                ]
+            },
+            "id": 127
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6569661,
+                "lat": 10.8448768,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.florist"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "florist",
+                        "osm_id": 8149539353,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "florist"
+                },
+                "distance": 2386,
+                "place_id": "5129858abb0baa5a4059e3e51db193b02540f00103f901191ac0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65696609999999,
+                    10.844876799487741
+                ]
+            },
+            "id": 128
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dán Keo Xe Nguyễn Decal",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Phạm Văn Chiêu",
+                "housenumber": "353",
+                "lon": 106.6532057,
+                "lat": 10.8504037,
+                "formatted": "Dán Keo Xe Nguyễn Decal, 353, Phạm Văn Chiêu, 71500, Vietnam",
+                "address_line1": "Dán Keo Xe Nguyễn Decal",
+                "address_line2": "353, Phạm Văn Chiêu, 71500, Vietnam",
+                "categories": [
+                    "commercial"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Dán Keo Xe Nguyễn Decal",
+                        "shop": "yes",
+                        "osm_id": 6369726085,
+                        "osm_type": "n",
+                        "addr:street": "Phạm Văn Chiêu",
+                        "addr:housenumber": 353
+                    }
+                },
+                "distance": 2399,
+                "place_id": "51e3c3471fcea95a4059d6651b1d68b32540f00103f901854eaa7b0100000092031a44c3a16e204b656f205865204e677579e1bb856e20446563616c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65320569999999,
+                    10.850403699488123
+                ]
+            },
+            "id": 129
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mazda Trường Chinh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.6321691,
+                "lat": 10.8140961,
+                "formatted": "Mazda Trường Chinh, Trường Chinh, 71509, Vietnam",
+                "address_line1": "Mazda Trường Chinh",
+                "address_line2": "Trường Chinh, 71509, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.vehicle"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Mazda Trường Chinh",
+                        "shop": "car",
+                        "osm_id": 9587486339,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "car"
+                },
+                "distance": 2424,
+                "place_id": "51ab82627575a85a4059202f3634d1a02540f00103f901836e753b020000009203154d617a6461205472c6b0e1bb9d6e67204368696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63216909999998,
+                    10.814096099485653
+                ]
+            },
+            "id": 130
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Road No.8",
+                "lon": 106.6571168,
+                "lat": 10.8454235,
+                "formatted": "WinMart+, Road No.8, 71500, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "Road No.8, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "osm_id": 8149539349,
+                        "osm_type": "n",
+                        "brand:wikidata": "Q113236478"
+                    }
+                },
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 2427,
+                "place_id": "51bc699f330eaa5a4059cc235359dbb02540f00103f901151ac0e50100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65711679999998,
+                    10.845423499487787
+                ]
+            },
+            "id": 131
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "72100",
+                "street": "Đường Quang Trung",
+                "housenumber": "143",
+                "lon": 106.6595969,
+                "lat": 10.8360491,
+                "formatted": "WinMart+, 143, Đường Quang Trung, 72100, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "143, Đường Quang Trung, 72100, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "phone": 839872488,
+                        "osm_id": 5609997900,
+                        "website": "http://www.vinmartplus.vn",
+                        "alt_name": "VinMart+ 143 Quang Trung",
+                        "osm_type": "n",
+                        "addr:full": "143, QUANG TRUNG , PHƯỜNG 10, QUẬN GV",
+                        "addr:street": "Đường Quang Trung",
+                        "brand:wikidata": "Q113236478",
+                        "addr:housenumber": 143
+                    }
+                },
+                "website": "http://www.vinmartplus.vn",
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "name_other": {
+                    "alt_name": "VinMart+ 143 Quang Trung"
+                },
+                "contact": {
+                    "phone": 839872488
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 2432,
+                "place_id": "51c082ead536aa5a4059884ba8a00eac2540f00103f9014cc6614e0100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6595969,
+                    10.836049099487141
+                ]
+            },
+            "id": 132
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cửa Hàng Xăm Riderock",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "72100",
+                "street": "Hẻm 653 Quang Trung",
+                "lon": 106.6596386,
+                "lat": 10.8348544,
+                "formatted": "Cửa Hàng Xăm Riderock, Hẻm 653 Quang Trung, 72100, Vietnam",
+                "address_line1": "Cửa Hàng Xăm Riderock",
+                "address_line2": "Hẻm 653 Quang Trung, 72100, Vietnam",
+                "categories": [
+                    "commercial"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cửa Hàng Xăm Riderock",
+                        "shop": "tattoo",
+                        "osm_id": 6054034486,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "tattoo"
+                },
+                "distance": 2436,
+                "place_id": "51788bd18437aa5a4059f56f2d0972ab2540f00103f901363cd9680100000092031943e1bbad612048c3a06e672058c4836d2052696465726f636b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6596386,
+                    10.834854399487066
+                ]
+            },
+            "id": 133
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Co.opmart SCA Phạm Văn Chiêu",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Phạm Văn Chiêu",
+                "housenumber": "359",
+                "lon": 106.65343933820009,
+                "lat": 10.8511314,
+                "formatted": "Co.opmart SCA Phạm Văn Chiêu, 359, Phạm Văn Chiêu, 71500, Vietnam",
+                "address_line1": "Co.opmart SCA Phạm Văn Chiêu",
+                "address_line2": "359, Phạm Văn Chiêu, 71500, Vietnam",
+                "categories": [
+                    "building",
+                    "building.commercial",
+                    "commercial",
+                    "commercial.supermarket"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Co.opmart SCA Phạm Văn Chiêu",
+                        "shop": "supermarket",
+                        "osm_id": 1214094908,
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Phường 14",
+                        "addr:street": "Đường Phạm Văn Chiêu",
+                        "addr:district": "Gò Vấp",
+                        "addr:province": "Ho Chi Minh City",
+                        "addr:housenumber": 359,
+                        "addr:subdistrict": "Phường 14"
+                    }
+                },
+                "commercial": {
+                    "type": "supermarket"
+                },
+                "distance": 2437,
+                "place_id": "5150df3af3d1a95a405905cdaa7ec7b32540f00102f9013c9e5d4800000000920320436f2e6f706d61727420534341205068e1baa16d2056c4836e20436869c3aa75"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65343933820009,
+                    10.851131399488176
+                ]
+            },
+            "id": 134
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Đại Lý Sữa Bích Nga",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Phạm Văn Chiêu",
+                "lon": 106.6544107,
+                "lat": 10.850801,
+                "formatted": "Đại Lý Sữa Bích Nga, Phạm Văn Chiêu, 71500, Vietnam",
+                "address_line1": "Đại Lý Sữa Bích Nga",
+                "address_line2": "Phạm Văn Chiêu, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Đại Lý Sữa Bích Nga",
+                        "shop": "convenience",
+                        "osm_id": 4794379424,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 2525,
+                "place_id": "51c1a96adde1a95a4059516948309cb32540f00103f901a06cc41d0100000092031ac490e1baa169204cc3bd2053e1bbaf612042c3ad6368204e6761"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65441069999999,
+                    10.850800999488145
+                ]
+            },
+            "id": 135
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Sách Bình Minh",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "housenumber": "360",
+                "lon": 106.6570019,
+                "lat": 10.8474174,
+                "formatted": "Nhà Sách Bình Minh, 360, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Nhà Sách Bình Minh",
+                "address_line2": "360, Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.books"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Sách Bình Minh",
+                        "shop": "books",
+                        "osm_id": 8149539329,
+                        "osm_type": "n",
+                        "addr:street": "Đường Lê Văn Thọ",
+                        "addr:housenumber": 360
+                    }
+                },
+                "commercial": {
+                    "type": "books"
+                },
+                "distance": 2525,
+                "place_id": "513a7ab2510caa5a405958b981b1e0b12540f00103f901011ac0e5010000009203154e68c3a02053c3a163682042c3ac6e68204d696e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65700189999998,
+                    10.847417399487924
+                ]
+            },
+            "id": 136
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PNJ",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "72100",
+                "street": "Đường Quang Trung",
+                "lon": 106.6606512,
+                "lat": 10.8359822,
+                "formatted": "PNJ, Đường Quang Trung, 72100, Vietnam",
+                "address_line1": "PNJ",
+                "address_line2": "Đường Quang Trung, 72100, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.jewelry"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "PNJ",
+                        "shop": "jewelry",
+                        "brand": "PNJ",
+                        "osm_id": 5608881097,
+                        "website": "https://www.pnj.com.vn/",
+                        "alt_name": "PNJ Quang Trung",
+                        "osm_type": "n",
+                        "brand:wikidata": "Q61129183"
+                    }
+                },
+                "website": "https://www.pnj.com.vn/",
+                "brand": "PNJ",
+                "brand_details": {
+                    "wikidata": "Q61129183"
+                },
+                "name_other": {
+                    "alt_name": "PNJ Quang Trung"
+                },
+                "commercial": {
+                    "type": "jewelry"
+                },
+                "distance": 2547,
+                "place_id": "510a84f81b48aa5a4059bcabdddb05ac2540f00103f901c9bb504e01000000920303504e4a"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66065119999999,
+                    10.835982199487141
+                ]
+            },
+            "id": 137
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6569563,
+                "lat": 10.8479495,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "service",
+                    "service.travel_agency"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "travel_agency",
+                        "osm_id": 8149539324,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "travel_agency"
+                },
+                "distance": 2552,
+                "place_id": "51aed96f920baa5a4059afebd16f26b22540f00103f901fc19c0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65695630000002,
+                    10.847949499487951
+                ]
+            },
+            "id": 138
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Của Hàng Thời Trang Ha Bu House",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6569616,
+                "lat": 10.8480443,
+                "formatted": "Của Hàng Thời Trang Ha Bu House, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Của Hàng Thời Trang Ha Bu House",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.clothing",
+                    "commercial.clothing.clothes"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Của Hàng Thời Trang Ha Bu House",
+                        "shop": "clothes",
+                        "osm_id": 8149539322,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "clothes"
+                },
+                "distance": 2559,
+                "place_id": "5195aeaaa80baa5a405956b8c7dc32b22540f00103f901fa19c0e50100000092032443e1bba7612048c3a06e67205468e1bb9d69205472616e6720486120427520486f757365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6569616,
+                    10.848044299487963
+                ]
+            },
+            "id": 139
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6569133,
+                "lat": 10.8482788,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "service",
+                    "service.beauty",
+                    "service.beauty.hairdresser"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "hairdresser",
+                        "osm_id": 8149539320,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "hairdresser"
+                },
+                "distance": 2569,
+                "place_id": "51aef314de0aaa5a4059c9614b9951b22540f00103f901f819c0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65691330000001,
+                    10.848278799487973
+                ]
+            },
+            "id": 140
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6569348,
+                "lat": 10.8482498,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.clothing",
+                    "commercial.clothing.clothes"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "clothes",
+                        "osm_id": 8149539321,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "clothes"
+                },
+                "distance": 2569,
+                "place_id": "51ac6642380baa5a4059604737cc4db22540f00103f901f919c0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65693479999999,
+                    10.848249799487974
+                ]
+            },
+            "id": 141
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "WinMart+",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Số 1",
+                "lon": 106.657729,
+                "lat": 10.8476263,
+                "formatted": "WinMart+, Đường Số 1, 71500, Vietnam",
+                "address_line1": "WinMart+",
+                "address_line2": "Đường Số 1, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.convenience"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "WinMart+",
+                        "shop": "convenience",
+                        "brand": "WinMart+",
+                        "osm_id": 6791405260,
+                        "osm_type": "n",
+                        "addr:street": "Đường số 1",
+                        "brand:wikidata": "Q113236478"
+                    }
+                },
+                "brand": "WinMart+",
+                "brand_details": {
+                    "wikidata": "Q113236478"
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "distance": 2605,
+                "place_id": "515e28603b18aa5a4059760f0713fcb12540f00103f901cc9ecc940100000092030857696e4d6172742b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65772899999999,
+                    10.847626299487938
+                ]
+            },
+            "id": 142
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6565486,
+                "lat": 10.8496143,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.food_and_drink",
+                    "commercial.food_and_drink.bakery"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "bakery",
+                        "osm_id": 8149536112,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "bakery"
+                },
+                "distance": 2621,
+                "place_id": "51024f6be404aa5a4059c6073da500b32540f00103f901700dc0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65654859999998,
+                    10.849614299488064
+                ]
+            },
+            "id": 143
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "housenumber": "404",
+                "lon": 106.6565298,
+                "lat": 10.8496828,
+                "formatted": "404, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "404, Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.vehicle"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "motorcycle",
+                        "osm_id": 8149536111,
+                        "osm_type": "n",
+                        "addr:street": "Đường Lê Văn Thọ",
+                        "addr:housenumber": 404
+                    }
+                },
+                "commercial": {
+                    "type": "motorcycle"
+                },
+                "distance": 2624,
+                "place_id": "515cf6909504aa5a4059ca8cb79f09b32540f00103f9016f0dc0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65652979999999,
+                    10.849682799488068
+                ]
+            },
+            "id": 144
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cửa Hàng Xe Thể Thao Biker Sport",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6563393,
+                "lat": 10.8503414,
+                "formatted": "Cửa Hàng Xe Thể Thao Biker Sport, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cửa Hàng Xe Thể Thao Biker Sport",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "service",
+                    "service.vehicle",
+                    "service.vehicle.repair",
+                    "service.vehicle.repair.motorcycle"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cửa Hàng Xe Thể Thao Biker Sport",
+                        "shop": "motorcycle_repair",
+                        "osm_id": 8149536106,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "motorcycle_repair"
+                },
+                "distance": 2652,
+                "place_id": "5116258d7601aa5a4059fe78aaf25fb32540f00103f9016a0dc0e50100000092032543e1bbad612048c3a06e67205865205468e1bb83205468616f2042696b65722053706f7274"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65633929999998,
+                    10.850341399488112
+                ]
+            },
+            "id": 145
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bánh Mì Ngọc Lan",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6561972,
+                "lat": 10.8508498,
+                "formatted": "Bánh Mì Ngọc Lan, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Bánh Mì Ngọc Lan",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.food_and_drink",
+                    "commercial.food_and_drink.bakery"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bánh Mì Ngọc Lan",
+                        "shop": "bakery",
+                        "osm_id": 8149536105,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "bakery"
+                },
+                "distance": 2676,
+                "place_id": "51836e8a22ffa95a40593438bd95a2b32540f00103f901690dc0e50100000092031442c3a16e68204dc3ac204e67e1bb8d63204c616e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6561972,
+                    10.850849799488152
+                ]
+            },
+            "id": 146
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cửa Hàng Thời Trang Mafada",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6561999,
+                "lat": 10.8512845,
+                "formatted": "Cửa Hàng Thời Trang Mafada, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cửa Hàng Thời Trang Mafada",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.clothing",
+                    "commercial.clothing.clothes"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cửa Hàng Thời Trang Mafada",
+                        "shop": "clothes",
+                        "osm_id": 8149536102,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "clothes"
+                },
+                "distance": 2707,
+                "place_id": "51dc88dd2dffa95a405971c9d98fdbb32540f00103f901660dc0e50100000092031f43e1bbad612048c3a06e67205468e1bb9d69205472616e67204d6166616461"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65619989999999,
+                    10.851284499488175
+                ]
+            },
+            "id": 147
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Phạm Văn Chiêu",
+                "lon": 106.656216,
+                "lat": 10.8513661,
+                "formatted": "Phạm Văn Chiêu, 71500, Vietnam",
+                "address_line1": "Phạm Văn Chiêu",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.books"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "shop": "books",
+                        "osm_id": 8149536101,
+                        "osm_type": "n"
+                    }
+                },
+                "commercial": {
+                    "type": "books"
+                },
+                "distance": 2714,
+                "place_id": "512ac76471ffa95a40592073e441e6b32540f00103f901650dc0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.656216,
+                    10.851366099488189
+                ]
+            },
+            "id": 148
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PNJ",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "72100",
+                "street": "Hẻm 637 Quang Trung",
+                "lon": 106.662269,
+                "lat": 10.835108,
+                "formatted": "PNJ, Hẻm 637 Quang Trung, 72100, Vietnam",
+                "address_line1": "PNJ",
+                "address_line2": "Hẻm 637 Quang Trung, 72100, Vietnam",
+                "categories": [
+                    "commercial",
+                    "commercial.jewelry"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "PNJ",
+                        "shop": "jewelry",
+                        "brand": "PNJ",
+                        "osm_id": 5608880707,
+                        "website": "https://www.pnj.com.vn/",
+                        "alt_name": "PNJ Co.opmart Quang Trung",
+                        "osm_type": "n",
+                        "brand:wikidata": "Q61129183",
+                        "brand:wikipedia": "vi:PNJ"
+                    }
+                },
+                "website": "https://www.pnj.com.vn/",
+                "brand": "PNJ",
+                "brand_details": {
+                    "wikidata": "Q61129183",
+                    "wikipedia": "vi:PNJ"
+                },
+                "name_other": {
+                    "alt_name": "PNJ Co.opmart Quang Trung"
+                },
+                "commercial": {
+                    "type": "jewelry"
+                },
+                "distance": 2723,
+                "place_id": "51e409849d62aa5a405995d9944693ab2540f00103f90143ba504e01000000920303504e4a"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66226899999998,
+                    10.835107999487073
+                ]
+            },
+            "id": 149
         }
     ]
 }

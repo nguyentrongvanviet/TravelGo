@@ -1,5 +1,5 @@
 {
-    "type": "category_entertainment, radius_5000, limit_7",
+    "type": "category_entertainment, radius_5000, limit_75",
     "features": [
         {
             "type": "Feature",
@@ -42,7 +42,7 @@
                     10.847010899487895
                 ]
             },
-            "id": 14
+            "id": 150
         },
         {
             "type": "Feature",
@@ -86,7 +86,7 @@
                     10.8558845994885
                 ]
             },
-            "id": 15
+            "id": 151
         },
         {
             "type": "Feature",
@@ -135,7 +135,7 @@
                     10.834806399487054
                 ]
             },
-            "id": 16
+            "id": 152
         },
         {
             "type": "Feature",
@@ -178,7 +178,7 @@
                     10.806275899485119
                 ]
             },
-            "id": 17
+            "id": 153
         },
         {
             "type": "Feature",
@@ -243,7 +243,7 @@
                     10.806241699485115
                 ]
             },
-            "id": 18
+            "id": 154
         },
         {
             "type": "Feature",
@@ -286,7 +286,7 @@
                     10.802506649484865
                 ]
             },
-            "id": 19
+            "id": 155
         },
         {
             "type": "Feature",
@@ -333,7 +333,480 @@
                     10.85529584948846
                 ]
             },
-            "id": 20
+            "id": 156
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tanaka Tei",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Bình",
+                "postcode": "70500",
+                "street": "Bàu Bàng",
+                "lon": 106.6434633,
+                "lat": 10.8007878,
+                "formatted": "Tanaka Tei, Bàu Bàng, 70500, Vietnam",
+                "address_line1": "Tanaka Tei",
+                "address_line2": "Bàu Bàng, 70500, Vietnam",
+                "categories": [
+                    "entertainment",
+                    "entertainment.museum"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tanaka Tei",
+                        "osm_id": 5382283921,
+                        "tourism": "museum",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3886,
+                "place_id": "51466bb1802ea95a405943a5c3db009a2540f00103f9019122cf400100000092030a54616e616b6120546569"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64346329999998,
+                    10.800787799484743
+                ]
+            },
+            "id": 157
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Xã Bà Điểm",
+                "postcode": "71716",
+                "street": "Nguyen Anh Thu",
+                "lon": 106.6078038,
+                "lat": 10.855451,
+                "formatted": "Nguyen Anh Thu, 71716, Vietnam",
+                "address_line1": "Nguyen Anh Thu",
+                "address_line2": "71716, Vietnam",
+                "categories": [
+                    "entertainment",
+                    "entertainment.cinema"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6319111470,
+                        "amenity": "cinema",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3921,
+                "place_id": "519cd8e841e6a65a4059574464acfdb52540f00103f9012efda57801000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6078038,
+                    10.855450999488466
+                ]
+            },
+            "id": 158
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rạp Phim CGV CT Plaza",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72100",
+                "street": "Hồng Hà",
+                "lon": 106.6656455,
+                "lat": 10.813077,
+                "formatted": "CGV Cinema, Hồng Hà, 72100, Vietnam",
+                "address_line1": "CGV Cinema",
+                "address_line2": "Hồng Hà, 72100, Vietnam",
+                "categories": [
+                    "entertainment",
+                    "entertainment.cinema"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Rạp Phim CGV CT Plaza",
+                        "brand": "rạp chiếu phim CGV",
+                        "osm_id": 4851518925,
+                        "amenity": "cinema",
+                        "name:en": "CGV Cinema",
+                        "name:vi": "rạp chiếu phim CGV",
+                        "brand:en": "CGV Cinema",
+                        "brand:vi": "rạp chiếu phim CGV",
+                        "osm_type": "n",
+                        "official_name": "CGV Cinemas Vietnam",
+                        "brand:wikidata": "Q5012261"
+                    }
+                },
+                "brand": "rạp chiếu phim CGV",
+                "brand_details": {
+                    "wikidata": "Q5012261"
+                },
+                "name_other": {
+                    "official_name": "CGV Cinemas Vietnam"
+                },
+                "name_international": {
+                    "en": "CGV Cinema",
+                    "vi": "rạp chiếu phim CGV"
+                },
+                "distance": 3957,
+                "place_id": "51b14e95ef99aa5a40593dd7e3a04ba02540f00103f901cd4d2c210100000092031752e1baa170205068696d2043475620435420506c617a61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6656455,
+                    10.813076999485583
+                ]
+            },
+            "id": 159
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bảo tàng Không quân phía Nam",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Hẻm 4 Đồ Sơn",
+                "lon": 106.66058518111429,
+                "lat": 10.8052466,
+                "formatted": "Vietnam People's Air Force Museum, Hẻm 4 Đồ Sơn, 72106, Vietnam",
+                "address_line1": "Vietnam People's Air Force Museum",
+                "address_line2": "Hẻm 4 Đồ Sơn, 72106, Vietnam",
+                "categories": [
+                    "entertainment",
+                    "entertainment.museum"
+                ],
+                "details": [
+                    "details",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bảo tàng Không quân phía Nam",
+                        "osm_id": 197995330,
+                        "barrier": "wall",
+                        "landuse": "commercial",
+                        "name:en": "Vietnam People's Air Force Museum",
+                        "tourism": "museum",
+                        "osm_type": "w",
+                        "wikipedia": "en:Vietnam People's Air Force Museum, Ho Chi Minh City"
+                    }
+                },
+                "name_international": {
+                    "en": "Vietnam People's Air Force Museum"
+                },
+                "wiki_and_media": {
+                    "wikipedia": "en:Vietnam People's Air Force Museum, Ho Chi Minh City"
+                },
+                "distance": 4137,
+                "place_id": "51eb46110747aa5a4059cb014448499c2540f00102f901422bcd0b0000000092032242e1baa36f2074c3a06e67204b68c3b46e67207175c3a26e207068c3ad61204e616d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66058518111429,
+                    10.80524659948505
+                ]
+            },
+            "id": 160
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà hát Quân đội",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Nhất",
+                "postcode": "72106",
+                "street": "Hẻm 42 Đường Cộng Hòa",
+                "lon": 106.65645259893812,
+                "lat": 10.8020228,
+                "formatted": "Army Theater, Hẻm 42 Đường Cộng Hòa, 72106, Vietnam",
+                "address_line1": "Army Theater",
+                "address_line2": "Hẻm 42 Đường Cộng Hòa, 72106, Vietnam",
+                "categories": [
+                    "building",
+                    "building.entertainment",
+                    "entertainment",
+                    "entertainment.culture",
+                    "entertainment.culture.theatre"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà hát Quân đội",
+                        "osm_id": 197690845,
+                        "amenity": "theatre",
+                        "name:en": "Army Theater",
+                        "building": "yes",
+                        "osm_type": "w"
+                    }
+                },
+                "name_international": {
+                    "en": "Army Theater"
+                },
+                "distance": 4208,
+                "place_id": "510ef4c25103aa5a405913de7cbba29a2540f00102f901dd85c80b000000009203164e68c3a02068c3a174205175c3a26e20c491e1bb9969"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6564525989381,
+                    10.802022799484837
+                ]
+            },
+            "id": 161
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đức Nhuận",
+                "postcode": "71409",
+                "street": "Đường Đặng Văn Sâm",
+                "lon": 106.67354923523001,
+                "lat": 10.8123051,
+                "formatted": "Đường Đặng Văn Sâm, 71409, Vietnam",
+                "address_line1": "Đường Đặng Văn Sâm",
+                "address_line2": "71409, Vietnam",
+                "categories": [
+                    "entertainment",
+                    "entertainment.water_park"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 846926734,
+                        "leisure": "water_park",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4699,
+                "place_id": "51c163406e1bab5a40592a543974e69f2540f00102f9018e137b3200000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67354923523,
+                    10.812305099485531
+                ]
+            },
+            "id": 162
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rạp chiếu phim CGV",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72106",
+                "street": "Hẻm 413 Hoàng Văn Thụ",
+                "lon": 106.6601457,
+                "lat": 10.7989306,
+                "formatted": "CGV Cinema, Hẻm 413 Hoàng Văn Thụ, 72106, Vietnam",
+                "address_line1": "CGV Cinema",
+                "address_line2": "Hẻm 413 Hoàng Văn Thụ, 72106, Vietnam",
+                "categories": [
+                    "entertainment",
+                    "entertainment.cinema"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "rạp chiếu phim CGV",
+                        "brand": "rạp chiếu phim CGV",
+                        "osm_id": 11365765737,
+                        "amenity": "cinema",
+                        "name:en": "CGV Cinema",
+                        "name:vi": "rạp chiếu phim CGV",
+                        "brand:en": "CGV Cinema",
+                        "brand:vi": "rạp chiếu phim CGV",
+                        "osm_type": "n",
+                        "official_name": "CGV Cinemas Vietnam",
+                        "brand:wikidata": "Q5012261"
+                    }
+                },
+                "brand": "rạp chiếu phim CGV",
+                "brand_details": {
+                    "wikidata": "Q5012261"
+                },
+                "name_other": {
+                    "official_name": "CGV Cinemas Vietnam"
+                },
+                "name_international": {
+                    "en": "CGV Cinema",
+                    "vi": "rạp chiếu phim CGV"
+                },
+                "distance": 4741,
+                "place_id": "511506c0d33faa5a4059c71e796e0d992540f00103f90169d273a50200000092031672e1baa17020636869e1babf75207068696d20434756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6601457,
+                    10.798930599484619
+                ]
+            },
+            "id": 163
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rạp phim Galaxy Cinema Tân Bình",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Bình",
+                "city": "Ho Chi Minh City",
+                "postcode": "72012",
+                "street": "Nguyen Hong Dao",
+                "lon": 106.64064696269591,
+                "lat": 10.7908642,
+                "formatted": "Galaxy Cinema Tan Binh, Nguyen Hong Dao, Ho Chi Minh City, 72012, Vietnam",
+                "address_line1": "Galaxy Cinema Tan Binh",
+                "address_line2": "Nguyen Hong Dao, Ho Chi Minh City, 72012, Vietnam",
+                "categories": [
+                    "building",
+                    "building.entertainment",
+                    "entertainment",
+                    "entertainment.cinema"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Rạp phim Galaxy Cinema Tân Bình",
+                        "osm_id": 421603555,
+                        "amenity": "cinema",
+                        "name:en": "Galaxy Cinema Tan Binh",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:city": "Ho Chi Minh City",
+                        "addr:street": "Nguyễn Hồng Đào",
+                        "addr:district": "Tân Bình"
+                    }
+                },
+                "name_international": {
+                    "en": "Galaxy Cinema Tan Binh"
+                },
+                "distance": 4922,
+                "place_id": "51e0431e5c00a95a4059ffb80027ec942540f00102f901e32821190000000092032352e1baa170207068696d2047616c6178792043696e656d612054c3a26e2042c3ac6e68"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64064696269588,
+                    10.790864199484075
+                ]
+            },
+            "id": 164
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bảo tàng Lực lượng Vũ trang miền Đông Nam Bộ",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72215",
+                "street": "Hẻm 245 Hoàng Văn Thụ",
+                "lon": 106.66574274361956,
+                "lat": 10.7994117,
+                "formatted": "Southeastern Armed Forces Museum, Hẻm 245 Hoàng Văn Thụ, 72215, Vietnam",
+                "address_line1": "Southeastern Armed Forces Museum",
+                "address_line2": "Hẻm 245 Hoàng Văn Thụ, 72215, Vietnam",
+                "categories": [
+                    "entertainment",
+                    "entertainment.museum"
+                ],
+                "details": [
+                    "details",
+                    "details.wiki_and_media"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bảo tàng Lực lượng Vũ trang miền Đông Nam Bộ",
+                        "osm_id": 376923094,
+                        "landuse": "commercial",
+                        "name:en": "Southeastern Armed Forces Museum",
+                        "tourism": "museum",
+                        "osm_type": "w",
+                        "wikidata": "Q18207723",
+                        "wikipedia": "en:Southeastern Armed Forces Museum Military Zone 7"
+                    }
+                },
+                "name_international": {
+                    "en": "Southeastern Armed Forces Museum"
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q18207723",
+                    "wikipedia": "en:Southeastern Armed Forces Museum Military Zone 7"
+                },
+                "distance": 4975,
+                "place_id": "514cd973879baa5a40591aa7827d4c992540f00102f901d66377160000000092033b42e1baa36f2074c3a06e67204ce1bbb163206cc6b0e1bba36e672056c5a9207472616e67206d69e1bb816e20c490c3b46e67204e616d2042e1bb99"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66574274361955,
+                    10.799411699484654
+                ]
+            },
+            "id": 165
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "type": "category_catering, radius_5000, limit_7",
+    "type": "category_catering, radius_5000, limit_75",
     "features": [
         {
             "type": "Feature",
@@ -362,6 +362,3561 @@
                 ]
             },
             "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trà Sữa Bunny",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Nguyễn Văn Quá",
+                "housenumber": "163",
+                "lon": 106.6274885,
+                "lat": 10.8309913,
+                "formatted": "Trà Sữa Bunny, 163, Nguyễn Văn Quá, 71509, Vietnam",
+                "address_line1": "Trà Sữa Bunny",
+                "address_line2": "163, Nguyễn Văn Quá, 71509, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "catering.cafe.tea",
+                    "internet_access"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trà Sữa Bunny",
+                        "phone": "+84379102047",
+                        "osm_id": 6951957285,
+                        "amenity": "cafe",
+                        "cuisine": "tea",
+                        "operator": "Anh Xuan",
+                        "osm_type": "n",
+                        "addr:street": "Nguyễn Văn Quá",
+                        "opening_hours": "Mo-Su 10:00-22:00",
+                        "internet_access": "wlan",
+                        "addr:housenumber": 163
+                    }
+                },
+                "opening_hours": "Mo-Su 10:00-22:00",
+                "operator": "Anh Xuan",
+                "contact": {
+                    "phone": "+84379102047"
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "catering": {
+                    "cuisine": "tea"
+                },
+                "distance": 1185,
+                "place_id": "516e8786c528a85a4059d51c0db177a92540f00103f90125735e9e010000009203105472c3a02053e1bbaf612042756e6e79"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6274885,
+                    10.830991299486792
+                ]
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Favi",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Quang Trung",
+                "lon": 106.6484906,
+                "lat": 10.8391577,
+                "formatted": "Cà Phê Favi, Đường Quang Trung, 71500, Vietnam",
+                "address_line1": "Cà Phê Favi",
+                "address_line2": "Đường Quang Trung, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access"
+                ],
+                "details": [
+                    "details",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Favi",
+                        "osm_id": 5421996721,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "addr:street": "Đường Quang Trung",
+                        "opening_hours": "Mo-Su 06:00-22:00",
+                        "internet_access": "wlan"
+                    }
+                },
+                "opening_hours": "Mo-Su 06:00-22:00",
+                "facilities": {
+                    "internet_access": true
+                },
+                "distance": 1285,
+                "place_id": "51dbb0b7de80a95a405936f8f613a6ad2540f00103f901b11a2d430100000092030d43c3a0205068c3aa2046617669"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64849059999999,
+                    10.839157699487355
+                ]
+            },
+            "id": 8
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Hàng Đại Phú",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Nguyễn Văn Quá",
+                "lon": 106.6273877,
+                "lat": 10.8289691,
+                "formatted": "Nhà Hàng Đại Phú, Nguyễn Văn Quá, 71509, Vietnam",
+                "address_line1": "Nhà Hàng Đại Phú",
+                "address_line2": "Nguyễn Văn Quá, 71509, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Hàng Đại Phú",
+                        "osm_id": 2942888081,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 1303,
+                "place_id": "51685abd1e27a85a40592d6147a36ea82540f00103f90191e868af000000009203164e68c3a02048c3a06e6720c490e1baa169205068c3ba"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62738769999999,
+                    10.828969099486665
+                ]
+            },
+            "id": 9
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lẩu Dê Yên Hồng Quang 2",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường số 14",
+                "lon": 106.6475296,
+                "lat": 10.8417023,
+                "formatted": "Lẩu Dê Yên Hồng Quang 2, Đường số 14, 71500, Vietnam",
+                "address_line1": "Lẩu Dê Yên Hồng Quang 2",
+                "address_line2": "Đường số 14, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Lẩu Dê Yên Hồng Quang 2",
+                        "phone": "090 378 20 96",
+                        "osm_id": 4741763325,
+                        "amenity": "restaurant",
+                        "osm_type": "n",
+                        "addr:street": "Đường số 14",
+                        "opening_hours": "Mo-Su 09:00-11:00"
+                    }
+                },
+                "opening_hours": "Mo-Su 09:00-11:00",
+                "contact": {
+                    "phone": "090 378 20 96"
+                },
+                "distance": 1312,
+                "place_id": "5149ccfd1f71a95a4059ac88929af3ae2540f00103f901fd90a11a0100000092031d4ce1baa9752044c3aa2059c3aa6e2048e1bb936e67205175616e672032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6475296,
+                    10.84170229948753
+                ]
+            },
+            "id": 10
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Sake",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71507",
+                "street": "Đường DD11",
+                "lon": 106.626483,
+                "lat": 10.8420103,
+                "formatted": "Cà Phê Sake, Đường DD11, 71507, Vietnam",
+                "address_line1": "Cà Phê Sake",
+                "address_line2": "Đường DD11, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Sake",
+                        "osm_id": 5988698287,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 1397,
+                "place_id": "51ff1f274c18a85a40596e6356f91baf2540f00103f901af48f4640100000092030d43c3a0205068c3aa2053616b65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.626483,
+                    10.842010299487551
+                ]
+            },
+            "id": 11
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Hoa Sứ",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Hẻm 439 Nguyễn Văn Khối",
+                "housenumber": "442",
+                "lon": 106.6471041,
+                "lat": 10.8443127,
+                "formatted": "Cà Phê Hoa Sứ, 442, Hẻm 439 Nguyễn Văn Khối, 71500, Vietnam",
+                "address_line1": "Cà Phê Hoa Sứ",
+                "address_line2": "442, Hẻm 439 Nguyễn Văn Khối, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "catering.cafe.coffee",
+                    "catering.cafe.coffee_shop",
+                    "internet_access"
+                ],
+                "details": [
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Hoa Sứ",
+                        "osm_id": 5002385221,
+                        "amenity": "cafe",
+                        "cuisine": "coffee_shop",
+                        "osm_type": "n",
+                        "addr:street": "Đường Nguyễn Văn Khối",
+                        "internet_access": "wlan",
+                        "addr:housenumber": 442
+                    }
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "catering": {
+                    "cuisine": "coffee_shop"
+                },
+                "distance": 1451,
+                "place_id": "51e1a650276aa95a405958cb0fc149b02540f00103f90145572a2a0100000092031143c3a0205068c3aa20486f612053e1bba9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64710409999999,
+                    10.844312699487702
+                ]
+            },
+            "id": 12
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Hàng Tiệc Cưới Ngọc Trâm",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71507",
+                "street": "Nguyễn Văn Quá",
+                "housenumber": "948",
+                "lon": 106.6365739,
+                "lat": 10.8491522,
+                "formatted": "Nhà Hàng Tiệc Cưới Ngọc Trâm, 948, Nguyễn Văn Quá, 71507, Vietnam",
+                "address_line1": "Nhà Hàng Tiệc Cưới Ngọc Trâm",
+                "address_line2": "948, Nguyễn Văn Quá, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Hàng Tiệc Cưới Ngọc Trâm",
+                        "osm_id": 1576575990,
+                        "amenity": "restaurant",
+                        "osm_type": "n",
+                        "addr:street": "Nguyễn Văn Quá",
+                        "addr:housenumber": 948
+                    }
+                },
+                "distance": 1524,
+                "place_id": "512e7f74a0bda85a40595141bc13c4b22540f00103f901f6a3f85d000000009203264e68c3a02048c3a06e67205469e1bb87632043c6b0e1bb9b69204e67e1bb8d63205472c3a26d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6365739,
+                    10.849152199488033
+                ]
+            },
+            "id": 13
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Domino's",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn",
+                "postcode": "71509",
+                "street": "Phan Huy ích",
+                "lon": 106.6298095,
+                "lat": 10.8236731,
+                "formatted": "Domino's, Phan Huy ích, 71509, Vietnam",
+                "address_line1": "Domino's",
+                "address_line2": "Phan Huy ích, 71509, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.fast_food",
+                    "catering.fast_food.pizza"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Domino's",
+                        "brand": "Domino's",
+                        "osm_id": 6702039671,
+                        "amenity": "fast_food",
+                        "cuisine": "pizza",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "brand:wikidata": "Q839466"
+                    }
+                },
+                "brand": "Domino's",
+                "brand_details": {
+                    "wikidata": "Q839466"
+                },
+                "facilities": {
+                    "takeaway": true
+                },
+                "catering": {
+                    "cuisine": "pizza"
+                },
+                "distance": 1538,
+                "place_id": "51714d81cc4ea85a4059f6c6017bb8a52540f00103f9017702798f01000000920308446f6d696e6f2773"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62980949999998,
+                    10.823673099486296
+                ]
+            },
+            "id": 14
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Trường Chinh",
+                "lon": 106.6234362,
+                "lat": 10.8307251,
+                "formatted": "Trường Chinh, 71509, Vietnam",
+                "address_line1": "Trường Chinh",
+                "address_line2": "71509, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 6319111466,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 1609,
+                "place_id": "511e89f260e6a75a40592b86dccc54a92540f00103f9012afda57801000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62343619999999,
+                    10.830725099486775
+                ]
+            },
+            "id": 15
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Khúc Mùa Thu",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Hẻm 22 Đường số 21",
+                "lon": 106.6512559,
+                "lat": 10.8407002,
+                "formatted": "Cà Phê Khúc Mùa Thu, Hẻm 22 Đường số 21, 71500, Vietnam",
+                "address_line1": "Cà Phê Khúc Mùa Thu",
+                "address_line2": "Hẻm 22 Đường số 21, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access"
+                ],
+                "details": [
+                    "details",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Khúc Mùa Thu",
+                        "osm_id": 4504283091,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "addr:street": "Hẻm 22 đường số 21",
+                        "opening_hours": "Mo-Su 07:00-22:00",
+                        "internet_access": "wlan"
+                    }
+                },
+                "opening_hours": "Mo-Su 07:00-22:00",
+                "facilities": {
+                    "internet_access": true
+                },
+                "distance": 1628,
+                "place_id": "51eef4392daea95a40592314ad4170ae2540f00103f901d3e7790c0100000092031743c3a0205068c3aa204b68c3ba63204dc3b96120546875"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6512559,
+                    10.840700199487463
+                ]
+            },
+            "id": 16
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán ốc Thiện ý",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Nguyễn Văn Khối",
+                "lon": 106.6534493,
+                "lat": 10.8429138,
+                "formatted": "Quán ốc Thiện ý, Nguyễn Văn Khối, 71500, Vietnam",
+                "address_line1": "Quán ốc Thiện ý",
+                "address_line2": "Nguyễn Văn Khối, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Quán ốc Thiện ý",
+                        "osm_id": 11816610269,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 1945,
+                "place_id": "510646031dd2a95a4059f54ac46592af2540f00103f901dd2953c0020000009203155175c3a16e20e1bb916320546869e1bb876e20c3bd"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6534493,
+                    10.842913799487613
+                ]
+            },
+            "id": 17
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trà sữa Ann's House",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Tân Thới Nhất 12",
+                "housenumber": "16/4A",
+                "lon": 106.6196444,
+                "lat": 10.8332708,
+                "formatted": "Trà sữa Ann's House, 16/4A, Tân Thới Nhất 12, 71509, Vietnam",
+                "address_line1": "Trà sữa Ann's House",
+                "address_line2": "16/4A, Tân Thới Nhất 12, 71509, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.food_court",
+                    "internet_access"
+                ],
+                "details": [
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Trà sữa Ann's House",
+                        "phone": "0909768244",
+                        "osm_id": 4767350522,
+                        "amenity": "food_court",
+                        "cuisine": "ice_cream;tea;sausage;coffee_shop",
+                        "osm_type": "n",
+                        "addr:street": "Tân thới nhất 12",
+                        "internet_access": "wlan",
+                        "addr:housenumber": "16/4A"
+                    }
+                },
+                "contact": {
+                    "phone": "0909768244"
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "catering": {
+                    "cuisine": "ice_cream;tea;sausage;coffee_shop"
+                },
+                "distance": 1952,
+                "place_id": "519249fc40a8a75a405937046178a2aa2540f00103f901fafe271c010000009203165472c3a02073e1bbaf6120416e6e277320486f757365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6196444,
+                    10.833270799486952
+                ]
+            },
+            "id": 18
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Happy",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Road No.9",
+                "lon": 106.6518905,
+                "lat": 10.8458811,
+                "formatted": "Cà Phê Happy, Road No.9, 71500, Vietnam",
+                "address_line1": "Cà Phê Happy",
+                "address_line2": "Road No.9, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Happy",
+                        "osm_id": 6751194527,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "addr:street": "Đường số 9"
+                    }
+                },
+                "distance": 1966,
+                "place_id": "51ad84ee92b8a95a40599835d55317b12540f00103f9019f0d67920100000092030e43c3a0205068c3aa204861707079"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6518905,
+                    10.845881099487812
+                ]
+            },
+            "id": 19
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán Cơm Tấm Cây Khế 3",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Nguyễn Văn Khối",
+                "housenumber": "126",
+                "lon": 106.6559085,
+                "lat": 10.8426478,
+                "formatted": "Quán Cơm Tấm Cây Khế 3, 126, Nguyễn Văn Khối, 71500, Vietnam",
+                "address_line1": "Quán Cơm Tấm Cây Khế 3",
+                "address_line2": "126, Nguyễn Văn Khối, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Quán Cơm Tấm Cây Khế 3",
+                        "osm_id": 6649200485,
+                        "amenity": "restaurant",
+                        "osm_type": "n",
+                        "addr:street": "Đường Nguyễn Văn Khối",
+                        "addr:housenumber": 126
+                    }
+                },
+                "distance": 2180,
+                "place_id": "51c62aa567faa95a4059efb049886faf2540f00103f90165bf528c0100000092031d5175c3a16e2043c6a16d2054e1baa56d2043c3a279204b68e1babf2033"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65590849999998,
+                    10.842647799487592
+                ]
+            },
+            "id": 20
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Điêu Thuyền",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Hẻm 152 Nguyễn Văn Khối",
+                "lon": 106.6553312,
+                "lat": 10.8439776,
+                "formatted": "Cà Phê Điêu Thuyền, Hẻm 152 Nguyễn Văn Khối, 71500, Vietnam",
+                "address_line1": "Cà Phê Điêu Thuyền",
+                "address_line2": "Hẻm 152 Nguyễn Văn Khối, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "tourism",
+                    "tourism.attraction"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Điêu Thuyền",
+                        "osm_id": 4746301227,
+                        "amenity": "cafe",
+                        "name:vi": "Điêu Thuyền",
+                        "tourism": "attraction",
+                        "osm_type": "n"
+                    }
+                },
+                "name_international": {
+                    "vi": "Điêu Thuyền"
+                },
+                "distance": 2181,
+                "place_id": "511a0346f2f0a95a40595ab6f8d41db02540f00103f9012bcfe61a0100000092031843c3a0205068c3aa20c49069c3aa752054687579e1bb816e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6553312,
+                    10.843977599487676
+                ]
+            },
+            "id": 21
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Sapa",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.657255,
+                "lat": 10.841601,
+                "formatted": "Cà Phê Sapa, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Sapa",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Sapa",
+                        "osm_id": 446043808,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "addr:street": "Đường Lê Văn Thọ"
+                    }
+                },
+                "distance": 2280,
+                "place_id": "517a88467710aa5a4059dc288253e6ae2540f00103f901a016961a0000000092030d43c3a0205068c3aa2053617061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65725499999999,
+                    10.841600999487518
+                ]
+            },
+            "id": 22
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Hàng Quản Tượng",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "suburb": "Quang Trung Software City",
+                "street": "Khu Trung tâm",
+                "lon": 106.6289933,
+                "lat": 10.8542884,
+                "formatted": "Nhà Hàng Quản Tượng, Khu Trung tâm, Quang Trung Software City, 71507, Vietnam",
+                "address_line1": "Nhà Hàng Quản Tượng",
+                "address_line2": "Khu Trung tâm, Quang Trung Software City, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Hàng Quản Tượng",
+                        "osm_id": 2296636237,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2282,
+                "place_id": "51cd391d6d41a85a4059434f024a65b52540f00103f9014de3e3880000000092031a4e68c3a02048c3a06e67205175e1baa36e2054c6b0e1bba36e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6289933,
+                    10.854288399488388
+                ]
+            },
+            "id": 23
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Hàng Lối Xưa",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "suburb": "Quang Trung Software City",
+                "street": "Đường số 3",
+                "lon": 106.6267697,
+                "lat": 10.8532848,
+                "formatted": "Nhà Hàng Lối Xưa, Đường số 3, Quang Trung Software City, 71507, Vietnam",
+                "address_line1": "Nhà Hàng Lối Xưa",
+                "address_line2": "Đường số 3, Quang Trung Software City, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Hàng Lối Xưa",
+                        "osm_id": 2296636236,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2293,
+                "place_id": "51ebe7a8fe1ca85a4059dcf3c7bee1b42540f00103f9014ce3e388000000009203154e68c3a02048c3a06e67204ce1bb91692058c6b061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6267697,
+                    10.853284799488328
+                ]
+            },
+            "id": 24
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "suburb": "Quang Trung Software City",
+                "street": "Đường số 13",
+                "lon": 106.6298864,
+                "lat": 10.855221,
+                "formatted": "Đường số 13, Quang Trung Software City, 71507, Vietnam",
+                "address_line1": "Đường số 13",
+                "address_line2": "Quang Trung Software City, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 2296635574,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2340,
+                "place_id": "517e0c0c0f50a85a40598d4fdf86dfb52540f00103f901b6e0e38800000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6298864,
+                    10.855220999488461
+                ]
+            },
+            "id": 25
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Coco",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "suburb": "Quang Trung Software City",
+                "street": "Đường số 2",
+                "lon": 106.6301624,
+                "lat": 10.8553922,
+                "formatted": "Coco, Đường số 2, Quang Trung Software City, 71507, Vietnam",
+                "address_line1": "Coco",
+                "address_line2": "Đường số 2, Quang Trung Software City, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "catering.cafe.bubble_tea",
+                    "catering.cafe.tea"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Coco",
+                        "brand": "CoCo",
+                        "osm_id": 2296635575,
+                        "amenity": "cafe",
+                        "cuisine": "bubble_tea",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "brand:wikidata": "Q65084369"
+                    }
+                },
+                "brand": "CoCo",
+                "brand_details": {
+                    "wikidata": "Q65084369"
+                },
+                "facilities": {
+                    "takeaway": true
+                },
+                "catering": {
+                    "cuisine": "bubble_tea"
+                },
+                "distance": 2348,
+                "place_id": "51cecaac9454a85a4059ec1c64f7f5b52540f00103f901b7e0e38800000000920304436f636f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63016239999999,
+                    10.85539219948847
+                ]
+            },
+            "id": 26
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Sky View",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "suburb": "Quang Trung Software City",
+                "street": "Đường số 2",
+                "lon": 106.6315655,
+                "lat": 10.8560376,
+                "formatted": "Cà Phê Sky View, Đường số 2, Quang Trung Software City, 71507, Vietnam",
+                "address_line1": "Cà Phê Sky View",
+                "address_line2": "Đường số 2, Quang Trung Software City, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [
+                    "details.catering"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Sky View",
+                        "osm_id": 2296635577,
+                        "amenity": "cafe",
+                        "cuisine": "vietnamese",
+                        "osm_type": "n"
+                    }
+                },
+                "catering": {
+                    "cuisine": "vietnamese"
+                },
+                "distance": 2370,
+                "place_id": "5109f2b3916ba85a405922e66b8f4ab62540f00103f901b9e0e3880000000092031143c3a0205068c3aa20536b792056696577"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63156549999998,
+                    10.856037599488506
+                ]
+            },
+            "id": 27
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Viva Star",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6571591,
+                "lat": 10.8441475,
+                "formatted": "Cà Phê Viva Star, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Viva Star",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Viva Star",
+                        "osm_id": 4278131891,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2371,
+                "place_id": "5134b10ae50eaa5a40598099de1934b02540f00103f901b31cfffe0000000092031243c3a0205068c3aa20566976612053746172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6571591,
+                    10.84414749948769
+                ]
+            },
+            "id": 28
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Viva Star",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6571315,
+                "lat": 10.845241,
+                "formatted": "Cà Phê Viva Star, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Viva Star",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Viva Star",
+                        "osm_id": 4278261389,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2420,
+                "place_id": "51f96a47710eaa5a40599c13a46dc3b02540f00103f9018d1601ff0000000092031243c3a0205068c3aa20566976612053746172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6571315,
+                    10.845240999487764
+                ]
+            },
+            "id": 29
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Hàng Mina",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "suburb": "Quang Trung Software City",
+                "street": "Đường số 2",
+                "lon": 106.6280572,
+                "lat": 10.8553474,
+                "formatted": "Nhà Hàng Mina, Đường số 2, Quang Trung Software City, 71507, Vietnam",
+                "address_line1": "Nhà Hàng Mina",
+                "address_line2": "Đường số 2, Quang Trung Software City, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.vietnamese"
+                ],
+                "details": [
+                    "details.catering"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Hàng Mina",
+                        "osm_id": 2296635576,
+                        "amenity": "restaurant",
+                        "cuisine": "vietnamese",
+                        "osm_type": "n"
+                    }
+                },
+                "catering": {
+                    "cuisine": "vietnamese"
+                },
+                "distance": 2430,
+                "place_id": "511b81d31632a85a4059090b2718f0b52540f00103f901b8e0e3880000000092030f4e68c3a02048c3a06e67204d696e61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62805719999999,
+                    10.855347399488453
+                ]
+            },
+            "id": 30
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Mina",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "suburb": "Quang Trung Software City",
+                "street": "Đường số 2",
+                "lon": 106.628159,
+                "lat": 10.8554315,
+                "formatted": "Cà Phê Mina, Đường số 2, Quang Trung Software City, 71507, Vietnam",
+                "address_line1": "Cà Phê Mina",
+                "address_line2": "Đường số 2, Quang Trung Software City, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Mina",
+                        "osm_id": 2296666050,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2434,
+                "place_id": "51086ccec133a85a4059db8a141efbb52540f00103f901c257e4880000000092030d43c3a0205068c3aa204d696e61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62815899999998,
+                    10.855431499488466
+                ]
+            },
+            "id": 31
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Viva Star",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Hẻm 347 Lê Văn Thọ",
+                "lon": 106.6568704,
+                "lat": 10.8464058,
+                "formatted": "Cà Phê Viva Star, Hẻm 347 Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Viva Star",
+                "address_line2": "Hẻm 347 Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Viva Star",
+                        "osm_id": 8149539336,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2456,
+                "place_id": "51786d252a0aaa5a4059dbe3d7195cb12540f00103f901081ac0e50100000092031243c3a0205068c3aa20566976612053746172"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6568704,
+                    10.846405799487846
+                ]
+            },
+            "id": 32
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Starbucks",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "city": "Ho Chi Minh City",
+                "postcode": "72100",
+                "street": "Đường Quang Trung",
+                "housenumber": "2810",
+                "lon": 106.6599914,
+                "lat": 10.8361866,
+                "formatted": "Starbucks, 2810, Đường Quang Trung, Ho Chi Minh City, 72100, Vietnam",
+                "address_line1": "Starbucks",
+                "address_line2": "2810, Đường Quang Trung, Ho Chi Minh City, 72100, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "catering.cafe.coffee",
+                    "catering.cafe.coffee_shop",
+                    "internet_access"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Starbucks",
+                        "brand": "Starbucks",
+                        "osm_id": 6533230666,
+                        "amenity": "cafe",
+                        "cuisine": "coffee_shop",
+                        "delivery": "yes",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "addr:city": "Ho Chi Minh City",
+                        "addr:street": "Đường Quang Trung",
+                        "payment:visa": "yes",
+                        "addr:district": "Gò Vấp",
+                        "official_name": "Starbucks Coffee",
+                        "payment:coins": "yes",
+                        "brand:wikidata": "Q37158",
+                        "brand:wikipedia": "en:Starbucks",
+                        "internet_access": "wlan",
+                        "outdoor_seating": "no",
+                        "addr:housenumber": 2810,
+                        "addr:subdistrict": 11,
+                        "payment:mastercard": "yes",
+                        "internet_access:fee": "yes",
+                        "payment:credit_cards": "yes"
+                    }
+                },
+                "brand": "Starbucks",
+                "brand_details": {
+                    "wikidata": "Q37158",
+                    "wikipedia": "en:Starbucks"
+                },
+                "name_other": {
+                    "official_name": "Starbucks Coffee"
+                },
+                "facilities": {
+                    "internet_access": true,
+                    "outdoor_seating": false,
+                    "takeaway": true,
+                    "delivery": true
+                },
+                "payment_options": {
+                    "visa": true,
+                    "coins": true,
+                    "mastercard": true,
+                    "credit_cards": true
+                },
+                "catering": {
+                    "cuisine": "coffee_shop"
+                },
+                "distance": 2475,
+                "place_id": "5109a9914c3daa5a4059304d64a620ac2540f00103f9014a30698501000000920309537461726275636b73"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65999139999998,
+                    10.83618659948715
+                ]
+            },
+            "id": 33
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Lani",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6570287,
+                "lat": 10.8472145,
+                "formatted": "Cà Phê Lani, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Lani",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Lani",
+                        "osm_id": 8149539331,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2516,
+                "place_id": "5123c21ac20caa5a4059c2fe4f19c6b12540f00103f901031ac0e50100000092030d43c3a0205068c3aa204c616e69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6570287,
+                    10.847214499487908
+                ]
+            },
+            "id": 34
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "suburb": "Quang Trung Software City",
+                "street": "Đường số 5",
+                "lon": 106.63003,
+                "lat": 10.8573848,
+                "formatted": "Đường số 5, Quang Trung Software City, 71507, Vietnam",
+                "address_line1": "Đường số 5",
+                "address_line2": "Quang Trung Software City, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 11971598394,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2561,
+                "place_id": "51ef5f596952a85a405938c8f323fbb62540f00103f9013a1890c902000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63003000000002,
+                    10.8573847994886
+                ]
+            },
+            "id": 35
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.656916,
+                "lat": 10.8483209,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 8149539319,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2571,
+                "place_id": "51050e68e90aaa5a4059dfa0ef1d57b22540f00103f901f719c0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65691599999998,
+                    10.848320899487986
+                ]
+            },
+            "id": 36
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cơm Bình Dân",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Đông Hưng Thuận",
+                "postcode": "71509",
+                "street": "Đường Lê Đức Anh",
+                "lon": 106.6147039,
+                "lat": 10.8416611,
+                "formatted": "Cơm Bình Dân, Đường Lê Đức Anh, 71509, Vietnam",
+                "address_line1": "Cơm Bình Dân",
+                "address_line2": "Đường Lê Đức Anh, 71509, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.vietnamese"
+                ],
+                "details": [
+                    "details.catering"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cơm Bình Dân",
+                        "osm_id": 9587252982,
+                        "amenity": "restaurant",
+                        "cuisine": "vietnamese",
+                        "osm_type": "n"
+                    }
+                },
+                "catering": {
+                    "cuisine": "vietnamese"
+                },
+                "distance": 2573,
+                "place_id": "514fce064f57a75a4059883a2134eeae2540f00103f901f6de713b0200000092030f43c6a16d2042c3ac6e682044c3a26e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61470389999998,
+                    10.841661099487524
+                ]
+            },
+            "id": 37
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Effoc",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Thông Tây Hội",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.656165,
+                "lat": 10.8502676,
+                "formatted": "Cà Phê Effoc, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Effoc",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Effoc",
+                        "osm_id": 8149536108,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2632,
+                "place_id": "51e9f17b9bfea95a4059b94c594656b32540f00103f9016c0dc0e50100000092030e43c3a0205068c3aa204566666f63"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.656165,
+                    10.850267599488108
+                ]
+            },
+            "id": 38
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Hè Phố",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Hẻm 532 Lê Văn Thọ",
+                "lon": 106.6562186,
+                "lat": 10.8509025,
+                "formatted": "Cà Phê Hè Phố, Hẻm 532 Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Hè Phố",
+                "address_line2": "Hẻm 532 Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Hè Phố",
+                        "osm_id": 8149536104,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2681,
+                "place_id": "51b8814c7cffa95a4059c5c50e7ea9b32540f00103f901680dc0e50100000092031243c3a0205068c3aa2048c3a8205068e1bb91"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65621859999999,
+                    10.850902499488152
+                ]
+            },
+            "id": 39
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tiệm Bánh Xèo",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6559853,
+                "lat": 10.8523513,
+                "formatted": "Tiệm Bánh Xèo, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Tiệm Bánh Xèo",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.food_court"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tiệm Bánh Xèo",
+                        "osm_id": 8149536083,
+                        "amenity": "food_court",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2768,
+                "place_id": "51078ac4a9fba95a4059a102b86367b42540f00103f901530dc0e5010000009203115469e1bb876d2042c3a16e682058c3a86f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65598529999998,
+                    10.85235129948825
+                ]
+            },
+            "id": 40
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alfa Coffee",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "city": "Ho Chi Minh City",
+                "postcode": "70000",
+                "street": "Hẻm 148 Đường Số 59",
+                "housenumber": "8",
+                "lon": 106.6531649,
+                "lat": 10.8554027,
+                "formatted": "Alfa Coffee, 8, Hẻm 148 Đường Số 59, Ho Chi Minh City, 70000, Vietnam",
+                "address_line1": "Alfa Coffee",
+                "address_line2": "8, Hẻm 148 Đường Số 59, Ho Chi Minh City, 70000, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "internet_access"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Alfa Coffee",
+                        "phone": "+84 966141192",
+                        "osm_id": 10855868870,
+                        "amenity": "restaurant",
+                        "cuisine": "coffee_shop;steak_house;burger;asian;ice_cream;international",
+                        "name:vi": "Affa Cafe/ Alfa Coffee",
+                        "website": "https://affacoffee.vn/",
+                        "capacity": 200,
+                        "osm_type": "n",
+                        "addr:city": "Hồ Chí Minh",
+                        "diet:meat": "yes",
+                        "highchair": "yes",
+                        "diet:local": "yes",
+                        "addr:street": "Hẻm 148 Đường Số 59",
+                        "addr:district": "Gò Vấp",
+                        "addr:postcode": 70000,
+                        "addr:province": "hồ chí minh",
+                        "opening_hours": "Mo-Su 7:00-20:00",
+                        "internet_access": "wlan",
+                        "addr:housenumber": 8,
+                        "addr:subdistrict": "Phường 14",
+                        "air_conditioning": "yes"
+                    }
+                },
+                "website": "https://affacoffee.vn/",
+                "opening_hours": "Mo-Su 7:00-20:00",
+                "name_international": {
+                    "vi": "Affa Cafe/ Alfa Coffee"
+                },
+                "contact": {
+                    "phone": "+84 966141192"
+                },
+                "facilities": {
+                    "internet_access": true,
+                    "air_conditioning": true
+                },
+                "catering": {
+                    "cuisine": "coffee_shop;steak_house;burger;asian;ice_cream;international",
+                    "diet": {
+                        "meat": true,
+                        "local": true
+                    },
+                    "capacity": 200
+                },
+                "distance": 2807,
+                "place_id": "5149192774cda95a4059166db657f7b52540f00103f901c6690f870200000092030b416c666120436f66666565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6531649,
+                    10.855402699488462
+                ]
+            },
+            "id": 41
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Paris",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường số 4",
+                "lon": 106.6584907,
+                "lat": 10.8498812,
+                "formatted": "Cà Phê Paris, Đường số 4, 71500, Vietnam",
+                "address_line1": "Cà Phê Paris",
+                "address_line2": "Đường số 4, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Paris",
+                        "osm_id": 6754175681,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "addr:street": "Đường số 4"
+                    }
+                },
+                "distance": 2811,
+                "place_id": "51164e2db624aa5a4059be92eaa023b32540f00103f901c18a94920100000092030e43c3a0205068c3aa205061726973"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65849069999999,
+                    10.849881199488092
+                ]
+            },
+            "id": 42
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.65593,
+                "lat": 10.8537071,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.bar"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 8149536063,
+                        "amenity": "bar",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2867,
+                "place_id": "51c79dd2c1faa95a4059ba54d11819b52540f00103f9013f0dc0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65593,
+                    10.85370709948835
+                ]
+            },
+            "id": 43
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Tina",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6560877,
+                "lat": 10.8537875,
+                "formatted": "Cà Phê Tina, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Tina",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Tina",
+                        "osm_id": 8149536065,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2886,
+                "place_id": "51b4b34357fda95a40597a1298a223b52540f00103f901410dc0e50100000092030d43c3a0205068c3aa2054696e61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6560877,
+                    10.853787499488352
+                ]
+            },
+            "id": 44
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "street": "Đường Nguyễn Thị Trên",
+                "lon": 106.6152031,
+                "lat": 10.8496543,
+                "formatted": "Đường Nguyễn Thị Trên, 71507, Vietnam",
+                "address_line1": "Đường Nguyễn Thị Trên",
+                "address_line2": "71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 12707678456,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2892,
+                "place_id": "5176b9d27c5fa75a4059026a6ae305b32540f00103f901f8c86ff502000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6152031,
+                    10.84965429948807
+                ]
+            },
+            "id": 45
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Hoàng Điềm",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "housenumber": "644",
+                "lon": 106.6560743,
+                "lat": 10.8539508,
+                "formatted": "Cà Phê Hoàng Điềm, 644, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Hoàng Điềm",
+                "address_line2": "644, Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Hoàng Điềm",
+                        "osm_id": 8149536061,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "addr:street": "Đường Lê Văn Thọ",
+                        "addr:housenumber": 644
+                    }
+                },
+                "distance": 2897,
+                "place_id": "51c08f0f1ffda95a40592464080a39b52540f00103f9013d0dc0e50100000092031743c3a0205068c3aa20486fc3a06e6720c49069e1bb816d"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6560743,
+                    10.853950799488366
+                ]
+            },
+            "id": 46
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6559053,
+                "lat": 10.8542301,
+                "formatted": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Đường Lê Văn Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 8149536059,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2906,
+                "place_id": "517a31395afaa95a4059731fc9a55db52540f00103f9013b0dc0e501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6559053,
+                    10.854230099488381
+                ]
+            },
+            "id": 47
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Hàng Bún Bò Ghẹ",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Lê Văn Thọ",
+                "lon": 106.6560582,
+                "lat": 10.8542827,
+                "formatted": "Nhà Hàng Bún Bò Ghẹ, Đường Lê Văn Thọ, 71500, Vietnam",
+                "address_line1": "Nhà Hàng Bún Bò Ghẹ",
+                "address_line2": "Đường Lê Văn Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Hàng Bún Bò Ghẹ",
+                        "osm_id": 8149536058,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 2922,
+                "place_id": "51725188dbfca95a4059b9aebf8a64b52540f00103f9013a0dc0e5010000009203194e68c3a02048c3a06e672042c3ba6e2042c3b2204768e1bab9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65605819999999,
+                    10.854282699488396
+                ]
+            },
+            "id": 48
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Sao Việt",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Tây",
+                "postcode": "71500",
+                "street": "Hẻm 1319 Lê Đức Thọ",
+                "lon": 106.6513085,
+                "lat": 10.858982,
+                "formatted": "Cà Phê Sao Việt, Hẻm 1319 Lê Đức Thọ, 71500, Vietnam",
+                "address_line1": "Cà Phê Sao Việt",
+                "address_line2": "Hẻm 1319 Lê Đức Thọ, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Sao Việt",
+                        "osm_id": 4498793890,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3021,
+                "place_id": "51d5c6d809afa95a40593d50177dccb72540f00103f901a225260c0100000092031343c3a0205068c3aa2053616f205669e1bb8774"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65130849999998,
+                    10.858981999488714
+                ]
+            },
+            "id": 49
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Shop",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "lon": 106.6647296,
+                "lat": 10.8414857,
+                "formatted": "Cà Phê Shop, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "Cà Phê Shop",
+                "address_line2": "Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Shop",
+                        "osm_id": 6791462465,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "addr:street": "Đường Thống Nhất"
+                    }
+                },
+                "distance": 3067,
+                "place_id": "51b92b05ee8aaa5a40597db3ae36d7ae2540f00103f901417ecd940100000092030d43c3a0205068c3aa2053686f70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6647296,
+                    10.841485699487516
+                ]
+            },
+            "id": 50
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tiệm Cà Phê Mợ Đẹt",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "70000",
+                "street": "Thống Nhất",
+                "housenumber": "477/8",
+                "lon": 106.6633522,
+                "lat": 10.8462532,
+                "formatted": "Tiệm Cà Phê Mợ Đẹt, 477/8, Thống Nhất, 70000, Vietnam",
+                "address_line1": "Tiệm Cà Phê Mợ Đẹt",
+                "address_line2": "477/8, Thống Nhất, 70000, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access",
+                    "internet_access.free"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Tiệm Cà Phê Mợ Đẹt",
+                        "phone": "+84 938 467 436",
+                        "osm_id": 11809696289,
+                        "amenity": "cafe",
+                        "cuisine": "coffee_shop;coffee;take_away",
+                        "website": "https://www.facebook.com/profile.php?id=61558168102790&open_field=website&sk=about_contact_and_basic_info",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "addr:city": "Phường 16",
+                        "addr:street": "Thống Nhất",
+                        "addr:district": "Gò Vấp",
+                        "addr:postcode": 70000,
+                        "addr:province": "Hồ Chí Minh",
+                        "opening_hours": "Mo-Su 6:00-21:00",
+                        "internet_access": "yes",
+                        "outdoor_seating": "yes",
+                        "addr:housenumber": "477/8",
+                        "addr:subdistrict": "Phường 16",
+                        "internet_access:fee": "no"
+                    }
+                },
+                "website": "https://www.facebook.com/profile.php?id=61558168102790&open_field=website&sk=about_contact_and_basic_info",
+                "opening_hours": "Mo-Su 6:00-21:00",
+                "contact": {
+                    "phone": "+84 938 467 436"
+                },
+                "facilities": {
+                    "internet_access": true,
+                    "outdoor_seating": true,
+                    "takeaway": true
+                },
+                "catering": {
+                    "cuisine": "coffee_shop;coffee;take_away"
+                },
+                "distance": 3084,
+                "place_id": "51b32ec95c74aa5a40590ddf6f1948b12540f00103f90121aae9bf0200000092031b5469e1bb876d2043c3a0205068c3aa204de1bba320c490e1bab974"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6633522,
+                    10.846253199487842
+                ]
+            },
+            "id": 51
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bánh Canh Cá Lóc Ba Duy",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71507",
+                "street": "Tô Ký",
+                "housenumber": "469",
+                "lon": 106.6196333,
+                "lat": 10.8573839,
+                "formatted": "Bánh Canh Cá Lóc Ba Duy, 469, Tô Ký, 71507, Vietnam",
+                "address_line1": "Bánh Canh Cá Lóc Ba Duy",
+                "address_line2": "469, Tô Ký, 71507, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bánh Canh Cá Lóc Ba Duy",
+                        "osm_id": 6680120387,
+                        "amenity": "restaurant",
+                        "osm_type": "n",
+                        "addr:street": "Tô Ký",
+                        "addr:housenumber": 469
+                    }
+                },
+                "distance": 3111,
+                "place_id": "51cdc06d12a8a75a40594dd7c005fbb62540f00103f901438c2a8e0100000092031a42c3a16e682043616e682043c3a1204cc3b36320426120447579"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61963329999999,
+                    10.857383899488605
+                ]
+            },
+            "id": 52
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KFC",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "70500",
+                "street": "Trường Chinh",
+                "lon": 106.6342038,
+                "lat": 10.8073821,
+                "formatted": "KFC, Trường Chinh, 70500, Vietnam",
+                "address_line1": "KFC",
+                "address_line2": "Trường Chinh, 70500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.fast_food"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "KFC",
+                        "brand": "KFC",
+                        "osm_id": 4555504590,
+                        "amenity": "fast_food",
+                        "cuisine": "chicken",
+                        "name:vi": "KFC",
+                        "alt_name": "Kentucky Fried Chicken",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "brand:wikidata": "Q524757"
+                    }
+                },
+                "brand": "KFC",
+                "brand_details": {
+                    "wikidata": "Q524757"
+                },
+                "name_other": {
+                    "alt_name": "Kentucky Fried Chicken"
+                },
+                "name_international": {
+                    "vi": "KFC"
+                },
+                "facilities": {
+                    "takeaway": true
+                },
+                "catering": {
+                    "cuisine": "chicken"
+                },
+                "distance": 3118,
+                "place_id": "51eeff88cb96a85a40595a54c12f619d2540f00103f901ce7b870f010000009203034b4643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6342038,
+                    10.8073820994852
+                ]
+            },
+            "id": 53
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "72100",
+                "street": "Hẻm 499/44/29 Quang Trung",
+                "lon": 106.665898,
+                "lat": 10.831285,
+                "formatted": "Hẻm 499/44/29 Quang Trung, 72100, Vietnam",
+                "address_line1": "Hẻm 499/44/29 Quang Trung",
+                "address_line2": "72100, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.pub"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1553952833,
+                        "amenity": "pub",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3153,
+                "place_id": "51311ea5129eaa5a40590be7fc2f9ea92540f00103f90141709f5c00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66589799999998,
+                    10.831284999486817
+                ]
+            },
+            "id": 54
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "72011",
+                "street": "Đường B2",
+                "lon": 106.6218627,
+                "lat": 10.8112673,
+                "formatted": "Đường B2, 72011, Vietnam",
+                "address_line1": "Đường B2",
+                "address_line2": "72011, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 4837802721,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3162,
+                "place_id": "518ac63599cca75a405963356f6d5e9f2540f00103f901e1025b2001000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62186269999998,
+                    10.811267299485456
+                ]
+            },
+            "id": 55
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "KFC",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Đường Thống Nhất",
+                "lon": 106.6646853,
+                "lat": 10.8449288,
+                "formatted": "KFC, Đường Thống Nhất, 71500, Vietnam",
+                "address_line1": "KFC",
+                "address_line2": "Đường Thống Nhất, 71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.fast_food"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "KFC",
+                        "brand": "KFC",
+                        "osm_id": 6791462473,
+                        "amenity": "fast_food",
+                        "cuisine": "chicken",
+                        "alt_name": "Kentucky Fried Chicken",
+                        "brand:en": "KFC",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "addr:street": "Đường Thống Nhất",
+                        "brand:wikidata": "Q524757",
+                        "brand:wikipedia": "en:KFC"
+                    }
+                },
+                "brand": "KFC",
+                "brand_details": {
+                    "wikidata": "Q524757",
+                    "wikipedia": "en:KFC"
+                },
+                "name_other": {
+                    "alt_name": "Kentucky Fried Chicken"
+                },
+                "facilities": {
+                    "takeaway": true
+                },
+                "catering": {
+                    "cuisine": "chicken"
+                },
+                "distance": 3168,
+                "place_id": "51726836348aaa5a40592e7ff2819ab02540f00103f901497ecd94010000009203034b4643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6646853,
+                    10.844928799487743
+                ]
+            },
+            "id": 56
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Hàng Hải Sản Giang Ghẹ 5",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Bình",
+                "postcode": "70500",
+                "street": "Trường Chinh",
+                "housenumber": "680",
+                "lon": 106.63541827246058,
+                "lat": 10.806420450000001,
+                "formatted": "GiangGhe Seafood 5, 680, Trường Chinh, 70500, Vietnam",
+                "address_line1": "GiangGhe Seafood 5",
+                "address_line2": "680, Trường Chinh, 70500, Vietnam",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "internet_access"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Nhà Hàng Hải Sản Giang Ghẹ 5",
+                        "phone": "0961479686",
+                        "osm_id": 585163307,
+                        "amenity": "restaurant",
+                        "cuisine": "fine_dining;seafood",
+                        "name:en": "GiangGhe Seafood 5",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:street": "Trường Chinh",
+                        "opening_hours": "Mo-Su 09:00-22:30",
+                        "internet_access": "wlan",
+                        "addr:housenumber": 680
+                    }
+                },
+                "opening_hours": "Mo-Su 09:00-22:30",
+                "name_international": {
+                    "en": "GiangGhe Seafood 5"
+                },
+                "contact": {
+                    "phone": "0961479686"
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "catering": {
+                    "cuisine": "fine_dining;seafood"
+                },
+                "distance": 3182,
+                "place_id": "51efdf66b1aaa85a40597eba2224e39c2540f00102f9012be2e022000000009203244e68c3a02048c3a06e672048e1baa3692053e1baa36e204769616e67204768e1bab92035"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63541827246057,
+                    10.806420449485127
+                ]
+            },
+            "id": 57
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Chồn",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "70048",
+                "street": "Phan Van Tri",
+                "lon": 106.6666267,
+                "lat": 10.8349638,
+                "formatted": "Cà Phê Chồn, Phan Van Tri, 70048, Vietnam",
+                "address_line1": "Cà Phê Chồn",
+                "address_line2": "Phan Van Tri, 70048, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Chồn",
+                        "osm_id": 7007570669,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3200,
+                "place_id": "51fcc80803aaaa5a40591f48086080ab2540f00103f901ed0aafa10100000092030f43c3a0205068c3aa204368e1bb936e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6666267,
+                    10.834963799487069
+                ]
+            },
+            "id": 58
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71716",
+                "street": "Đường Phan Văn Hùm",
+                "lon": 106.6150627,
+                "lat": 10.8545949,
+                "formatted": "Đường Phan Văn Hùm, 71716, Vietnam",
+                "address_line1": "Đường Phan Văn Hùm",
+                "address_line2": "71716, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 12706509405,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3234,
+                "place_id": "51535ff12f5da75a4059274371768db52540f00103f9015df25df502000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6150627,
+                    10.854594899488417
+                ]
+            },
+            "id": 59
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pizza Hut",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "city": "Ho Chi Minh City",
+                "postcode": "70500",
+                "street": "Trường Chinh",
+                "housenumber": "1/1",
+                "lon": 106.63439,
+                "lat": 10.8062117,
+                "formatted": "Pizza Hut, 1/1, Trường Chinh, Ho Chi Minh City, 70500, Vietnam",
+                "address_line1": "Pizza Hut",
+                "address_line2": "1/1, Trường Chinh, Ho Chi Minh City, 70500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.pizza"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Pizza Hut",
+                        "brand": "Pizza Hut",
+                        "branch": "Pandora",
+                        "osm_id": 4089403710,
+                        "amenity": "restaurant",
+                        "cuisine": "pizza",
+                        "delivery": "no",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "addr:city": "Ho Chi Minh City",
+                        "addr:street": "Trường Chinh",
+                        "addr:district": "Quận Tân Phú",
+                        "opening_hours": "10:00-22:00",
+                        "brand:wikidata": "Q191615",
+                        "addr:housenumber": "1/1",
+                        "addr:subdistrict": "Phường Tây Thạnh"
+                    }
+                },
+                "opening_hours": "10:00-22:00",
+                "brand": "Pizza Hut",
+                "brand_details": {
+                    "wikidata": "Q191615"
+                },
+                "branch": "Pandora",
+                "facilities": {
+                    "takeaway": true,
+                    "delivery": false
+                },
+                "catering": {
+                    "cuisine": "pizza"
+                },
+                "distance": 3245,
+                "place_id": "5134ba83d899a85a4059dce1a5c7c79c2540f00103f9013e59bff30000000092030950697a7a6120487574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63439,
+                    10.806211699485111
+                ]
+            },
+            "id": 60
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Country House",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "70048",
+                "street": "Phan Van Tri",
+                "housenumber": "18C",
+                "lon": 106.6672247,
+                "lat": 10.8346905,
+                "formatted": "Country House Cafe, 18C, Phan Van Tri, 70048, Vietnam",
+                "address_line1": "Country House Cafe",
+                "address_line2": "18C, Phan Van Tri, 70048, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access",
+                    "internet_access.free"
+                ],
+                "details": [
+                    "details",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Country House",
+                        "osm_id": 4607099989,
+                        "amenity": "cafe",
+                        "name:en": "Country House Cafe",
+                        "osm_type": "n",
+                        "check_date": "2025-06-21",
+                        "addr:street": "Phan Văn Trị",
+                        "internet_access": "yes",
+                        "addr:housenumber": "18C",
+                        "internet_access:fee": "no"
+                    }
+                },
+                "name_international": {
+                    "en": "Country House Cafe"
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "distance": 3266,
+                "place_id": "5157653acfb3aa5a405957289b8d5cab2540f00103f90155c49a120100000092031643c3a0205068c3aa20436f756e74727920486f757365"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6672247,
+                    10.834690499487051
+                ]
+            },
+            "id": 61
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Trung Mỹ Tây",
+                "postcode": "71716",
+                "street": "Đường Phan Văn Hùm",
+                "lon": 106.6145623,
+                "lat": 10.854485,
+                "formatted": "Đường Phan Văn Hùm, 71716, Vietnam",
+                "address_line1": "Đường Phan Văn Hùm",
+                "address_line2": "71716, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 12706509404,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3268,
+                "place_id": "51b0f61cfd54a75a40595c73cf0e7fb52540f00103f9015cf25df502000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61456229999999,
+                    10.854484999488413
+                ]
+            },
+            "id": 62
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sarang Heo",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Gò Vấp",
+                "postcode": "72100",
+                "street": "Đường Phan Văn Trị",
+                "housenumber": "18C",
+                "lon": 106.6672908,
+                "lat": 10.8346717,
+                "formatted": "Sarang Heo, 18C, Đường Phan Văn Trị, 72100, Vietnam",
+                "address_line1": "Sarang Heo",
+                "address_line2": "18C, Đường Phan Văn Trị, 72100, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.korean",
+                    "internet_access",
+                    "internet_access.free"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Sarang Heo",
+                        "pets": "no",
+                        "osm_id": 12675515185,
+                        "amenity": "restaurant",
+                        "cuisine": "korean",
+                        "smoking": "no",
+                        "toilets": "yes",
+                        "osm_type": "n",
+                        "highchair": "yes",
+                        "check_date": "2025-06-21",
+                        "addr:street": "Đường Phan Văn Trị",
+                        "addr:district": "Quận Gò Vấp",
+                        "opening_hours": "Mo-Su 11:00-23:00",
+                        "internet_access": "yes",
+                        "addr:housenumber": "18C",
+                        "addr:subdistrict": "Phường 10",
+                        "air_conditioning": "yes",
+                        "internet_access:fee": "no"
+                    }
+                },
+                "opening_hours": "Mo-Su 11:00-23:00",
+                "facilities": {
+                    "internet_access": true,
+                    "smoking": false,
+                    "toilets": true,
+                    "air_conditioning": true
+                },
+                "catering": {
+                    "cuisine": "korean"
+                },
+                "distance": 3273,
+                "place_id": "51feba78e4b4aa5a40592163c8165aab2540f00103f901310385f30200000092030a536172616e672048656f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66729080000002,
+                    10.834671699487048
+                ]
+            },
+            "id": 63
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mợ Đẹt Coffee Take Away",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "70048",
+                "street": "Hẻm 208 Đường Số 9",
+                "housenumber": "208/16",
+                "lon": 106.6674262,
+                "lat": 10.8415301,
+                "formatted": "Mợ Đẹt Coffee Take Away, 208/16, Hẻm 208 Đường Số 9, 70048, Vietnam",
+                "address_line1": "Mợ Đẹt Coffee Take Away",
+                "address_line2": "208/16, Hẻm 208 Đường Số 9, 70048, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access",
+                    "internet_access.for_customers"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Mợ Đẹt Coffee Take Away",
+                        "phone": "0939755224",
+                        "osm_id": 11885257489,
+                        "amenity": "cafe",
+                        "website": "https://www.facebook.com/profile.php?id=61558168102790&mibextid=LQQJ4d",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "addr:city": "Quận Gò Vấp",
+                        "addr:street": "Hẻm 208 Đường số 9",
+                        "addr:district": "Gò Vấp",
+                        "addr:postcode": 70048,
+                        "addr:province": "TP. Hồ Chí Minh",
+                        "opening_hours": "Tu-Su 06:00-11:00",
+                        "internet_access": "yes",
+                        "addr:housenumber": "208/16",
+                        "addr:subdistrict": "Phường 16",
+                        "internet_access:fee": "customers"
+                    }
+                },
+                "website": "https://www.facebook.com/profile.php?id=61558168102790&mibextid=LQQJ4d",
+                "opening_hours": "Tu-Su 06:00-11:00",
+                "contact": {
+                    "phone": "0939755224"
+                },
+                "facilities": {
+                    "internet_access": true,
+                    "takeaway": true
+                },
+                "distance": 3356,
+                "place_id": "51965f611cb7aa5a405909cc7f08ddae2540f00103f90111a36ac40200000092031c4de1bba320c490e1bab97420436f666665652054616b652041776179"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6674262,
+                    10.841530099487516
+                ]
+            },
+            "id": 64
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Hẻm 873 Lê Đức Thọ",
+                "lon": 106.6642094,
+                "lat": 10.850129,
+                "formatted": "Hẻm 873 Lê Đức Thọ, 71500, Vietnam",
+                "address_line1": "Hẻm 873 Lê Đức Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access"
+                ],
+                "details": [
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 5189618321,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "internet_access": "wlan"
+                    }
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "distance": 3357,
+                "place_id": "5188ac246882aa5a4059825db41b44b32540f00103f901914a533501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6642094,
+                    10.85012899948811
+                ]
+            },
+            "id": 65
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Hẻm 869 Lê Đức Thọ",
+                "lon": 106.6644255,
+                "lat": 10.8500072,
+                "formatted": "Hẻm 869 Lê Đức Thọ, 71500, Vietnam",
+                "address_line1": "Hẻm 869 Lê Đức Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access"
+                ],
+                "details": [
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 5189616024,
+                        "amenity": "cafe",
+                        "osm_type": "n",
+                        "internet_access": "wlan"
+                    }
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "distance": 3371,
+                "place_id": "51384888f285aa5a4059f254c62434b32540f00103f9019841533501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6644255,
+                    10.850007199488093
+                ]
+            },
+            "id": 66
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Hẻm 869 Lê Đức Thọ",
+                "lon": 106.6643985,
+                "lat": 10.8500873,
+                "formatted": "Hẻm 869 Lê Đức Thọ, 71500, Vietnam",
+                "address_line1": "Hẻm 869 Lê Đức Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access",
+                    "tourism",
+                    "tourism.attraction",
+                    "tourism.attraction.artwork"
+                ],
+                "details": [
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 5189616025,
+                        "amenity": "cafe",
+                        "tourism": "artwork",
+                        "osm_type": "n",
+                        "internet_access": "wlan"
+                    }
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "distance": 3373,
+                "place_id": "51bc40498185aa5a4059bc177ca43eb32540f00103f9019941533501000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6643985,
+                    10.850087299488102
+                ]
+            },
+            "id": 67
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cà Phê Góc Phố",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "70048",
+                "street": "Đường Số 9",
+                "housenumber": "200",
+                "lon": 106.6677163,
+                "lat": 10.8416884,
+                "formatted": "Cà Phê Góc Phố, 200, Đường Số 9, 70048, Vietnam",
+                "address_line1": "Cà Phê Góc Phố",
+                "address_line2": "200, Đường Số 9, 70048, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "internet_access"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact",
+                    "details.facilities"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Cà Phê Góc Phố",
+                        "phone": "0961024568",
+                        "osm_id": 4999110022,
+                        "amenity": "cafe",
+                        "cuisine": "tea;breakfast;coffee_shop",
+                        "osm_type": "n",
+                        "addr:street": "Đường số 9",
+                        "addr:postcode": 70048,
+                        "opening_hours": "Mo-Su 06:00-22:30",
+                        "internet_access": "wlan",
+                        "addr:housenumber": 200
+                    }
+                },
+                "opening_hours": "Mo-Su 06:00-22:30",
+                "contact": {
+                    "phone": "0961024568"
+                },
+                "facilities": {
+                    "internet_access": true
+                },
+                "catering": {
+                    "cuisine": "tea;breakfast;coffee_shop"
+                },
+                "distance": 3391,
+                "place_id": "5164e025ddbbaa5a405968712ac8f1ae2540f00103f901865df8290100000092031343c3a0205068c3aa2047c3b363205068e1bb91"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6677163,
+                    10.841688399487523
+                ]
+            },
+            "id": 68
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường An Hội Đông",
+                "postcode": "71500",
+                "street": "Lê Đức Thọ",
+                "lon": 106.6650701,
+                "lat": 10.8495922,
+                "formatted": "Lê Đức Thọ, 71500, Vietnam",
+                "address_line1": "Lê Đức Thọ",
+                "address_line2": "71500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 4195621004,
+                        "amenity": "cafe",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3412,
+                "place_id": "5109432e8290aa5a4059d679afbffdb22540f00103f9018c1814fa00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6650701,
+                    10.849592199488068
+                ]
+            },
+            "id": 69
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pink Pong Buffet",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "postcode": "71913",
+                "street": "Tay Thanh",
+                "housenumber": "367",
+                "lon": 106.6194316,
+                "lat": 10.8094435,
+                "formatted": "Pink Pong Buffet, 367, Tay Thanh, 71913, Vietnam",
+                "address_line1": "Pink Pong Buffet",
+                "address_line2": "367, Tay Thanh, 71913, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.contact"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Pink Pong Buffet",
+                        "phone": "+84 869 066 600",
+                        "osm_id": 12366272301,
+                        "amenity": "restaurant",
+                        "cuisine": "korean;vietnamese",
+                        "website": "http://pinkpongbuffet.com",
+                        "osm_type": "n",
+                        "addr:street": "Tây Thạnh",
+                        "self_service": "only",
+                        "opening_hours": "Mo-Su 16:00-23:00",
+                        "addr:housenumber": 367
+                    }
+                },
+                "website": "http://pinkpongbuffet.com",
+                "opening_hours": "Mo-Su 16:00-23:00",
+                "contact": {
+                    "phone": "+84 869 066 600"
+                },
+                "catering": {
+                    "cuisine": "korean;vietnamese"
+                },
+                "distance": 3477,
+                "place_id": "51f90670c4a4a75a4059a77fdc606f9e2540f00103f9012d5716e10200000092031050696e6b20506f6e6720427566666574"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6194316,
+                    10.809443499485338
+                ]
+            },
+            "id": 70
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bobapop",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Bình",
+                "city": "Ho Chi Minh City",
+                "postcode": "70500",
+                "street": "Tan Ky Tan Quy",
+                "lon": 106.6360581,
+                "lat": 10.8039477,
+                "formatted": "Bobapop, Tan Ky Tan Quy, Ho Chi Minh City, 70500, Vietnam",
+                "address_line1": "Bobapop",
+                "address_line2": "Tan Ky Tan Quy, Ho Chi Minh City, 70500, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.cafe",
+                    "catering.cafe.bubble_tea",
+                    "catering.cafe.tea"
+                ],
+                "details": [
+                    "details.catering"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Bobapop",
+                        "osm_id": 11453123702,
+                        "amenity": "cafe",
+                        "cuisine": "bubble_tea",
+                        "osm_type": "n"
+                    }
+                },
+                "catering": {
+                    "cuisine": "bubble_tea"
+                },
+                "distance": 3482,
+                "place_id": "51c776082db5a85a4059f7f669089f9b2540f00103f90176cca8aa02000000920307426f6261706f70"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6360581,
+                    10.803947699484963
+                ]
+            },
+            "id": 71
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Big Bowl",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72100",
+                "street": "đường bộ hành",
+                "lon": 106.6636524,
+                "lat": 10.8170498,
+                "formatted": "Big Bowl, đường bộ hành, 72100, Vietnam",
+                "address_line1": "Big Bowl",
+                "address_line2": "đường bộ hành, 72100, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.vietnamese"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Big Bowl",
+                        "osm_id": 11423745246,
+                        "amenity": "restaurant",
+                        "cuisine": "vietnamese",
+                        "name:en": "Big Bowl",
+                        "osm_type": "n",
+                        "addr:floor": 3,
+                        "check_date": "2023-12-16",
+                        "payment:cash": "yes",
+                        "payment:visa": "yes",
+                        "payment:mastercard": "yes"
+                    }
+                },
+                "name_international": {
+                    "en": "Big Bowl"
+                },
+                "payment_options": {
+                    "cash": true,
+                    "visa": true,
+                    "mastercard": true
+                },
+                "catering": {
+                    "cuisine": "vietnamese"
+                },
+                "distance": 3518,
+                "place_id": "515d7aea4779aa5a40597dfdef5954a22540f00103f901de84e8a80200000092030842696720426f776c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6636524,
+                    10.817049799485853
+                ]
+            },
+            "id": 72
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burger King",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72100",
+                "street": "đường bộ hành",
+                "lon": 106.6637424,
+                "lat": 10.8170893,
+                "formatted": "Burger King, đường bộ hành, 72100, Vietnam",
+                "address_line1": "Burger King",
+                "address_line2": "đường bộ hành, 72100, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.fast_food",
+                    "catering.fast_food.burger"
+                ],
+                "details": [
+                    "details",
+                    "details.catering",
+                    "details.facilities",
+                    "details.payment"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Burger King",
+                        "brand": "Burger King",
+                        "osm_id": 2997206393,
+                        "amenity": "fast_food",
+                        "cuisine": "burger",
+                        "name:en": "Burger King",
+                        "delivery": "no",
+                        "osm_type": "n",
+                        "takeaway": "yes",
+                        "addr:floor": 3,
+                        "check_date": "2024-05-18",
+                        "description": "International departures",
+                        "payment:cash": "yes",
+                        "payment:visa": "yes",
+                        "drive_through": "no",
+                        "brand:wikidata": "Q177054",
+                        "brand:wikipedia": "en:Burger King",
+                        "outdoor_seating": "no",
+                        "air_conditioning": "yes",
+                        "payment:mastercard": "yes"
+                    }
+                },
+                "brand": "Burger King",
+                "brand_details": {
+                    "wikidata": "Q177054",
+                    "wikipedia": "en:Burger King"
+                },
+                "description": "International departures",
+                "name_international": {
+                    "en": "Burger King"
+                },
+                "facilities": {
+                    "air_conditioning": true,
+                    "outdoor_seating": false,
+                    "takeaway": true,
+                    "delivery": false
+                },
+                "payment_options": {
+                    "cash": true,
+                    "visa": true,
+                    "mastercard": true
+                },
+                "catering": {
+                    "cuisine": "burger"
+                },
+                "distance": 3524,
+                "place_id": "51fd3d67c17aaa5a40591768568759a22540f00103f90179bda5b20000000092030b427572676572204b696e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6637424,
+                    10.817089299485856
+                ]
+            },
+            "id": 73
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Star Cafe",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "postcode": "72100",
+                "street": "đường bộ hành",
+                "lon": 106.6622082,
+                "lat": 10.8150935,
+                "formatted": "Star Cafe, đường bộ hành, 72100, Vietnam",
+                "address_line1": "Star Cafe",
+                "address_line2": "đường bộ hành, 72100, Vietnam",
+                "categories": [
+                    "catering",
+                    "catering.restaurant"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Star Cafe",
+                        "osm_id": 7081572269,
+                        "amenity": "restaurant",
+                        "osm_type": "n"
+                    }
+                },
+                "distance": 3524,
+                "place_id": "512689809e61aa5a40595cf266ef53a12540f00103f901ad3718a601000000920309537461722043616665"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66220819999998,
+                    10.81509349948572
+                ]
+            },
+            "id": 74
         }
     ]
 }

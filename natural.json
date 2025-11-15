@@ -1,0 +1,1925 @@
+{
+    "type": "category_natural, radius_5000, limit_75",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rạch Chợ Mới",
+                "lon": 106.63364058343646,
+                "lat": 10.843629549487655,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Rạch Chợ Mới",
+                        "water": "river",
+                        "osm_id": 32666236,
+                        "natural": "water",
+                        "alt_name": "Rạch Bến Thượng",
+                        "osm_type": "w"
+                    }
+                },
+                "name_other": {
+                    "alt_name": "Rạch Bến Thượng"
+                },
+                "distance": 498,
+                "place_id": "51cad13b918da85a405936fa5936f0af2540f00102f9017c72f2010000000092031252e1baa16368204368e1bba3204de1bb9b69"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63364058343646,
+                    10.843629549487655
+                ]
+            },
+            "id": 166
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.6510641049739,
+                "lat": 10.833497999486966,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 377269799,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 914,
+                "place_id": "51989dc708aba95a4059e827f23fc0aa2540f00102f90127ae7c1600000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6510641049739,
+                    10.833497999486966
+                ]
+            },
+            "id": 167
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kênh Tham Lương",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tây Thạnh",
+                "lon": 106.62419250113032,
+                "lat": 10.82028715,
+                "formatted": "Kênh Tham Lương, Phường Tây Thạnh, Vietnam",
+                "address_line1": "Kênh Tham Lương",
+                "address_line2": "Phường Tây Thạnh, Vietnam",
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Kênh Tham Lương",
+                        "osm_id": 460356445,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1185,
+                "place_id": "51d8b01ac5f2a75a405956be60adfca32540f00102f9015d7b701b000000009203124bc3aa6e68205468616d204cc6b0c6a16e67"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62419250113032,
+                    10.820287149486074
+                ]
+            },
+            "id": 168
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.64541868643234,
+                "lat": 10.827489099486563,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "golf": "water_hazard",
+                        "osm_id": 377269780,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1185,
+                "place_id": "51119d2d8a4ea95a4059bc2eb8a6aca72540f00102f90114ae7c1600000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64541868643234,
+                    10.827489099486563
+                ]
+            },
+            "id": 169
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.64774929199658,
+                "lat": 10.839369999487367,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 815851409,
+                        "natural": "wood",
+                        "osm_type": "w",
+                        "leaf_type": "mixed"
+                    }
+                },
+                "distance": 1202,
+                "place_id": "517a4872b974a95a4059641592e7c1ad2540f00102f90191e7a03000000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64774929199658,
+                    10.839369999487367
+                ]
+            },
+            "id": 170
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.6482073274423,
+                "lat": 10.824574099486359,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "golf": "water_hazard",
+                        "osm_id": 505734681,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1303,
+                "place_id": "511a19963a7ca95a40595ad88c932ea62540f00102f90119e6241e00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6482073274423,
+                    10.824574099486359
+                ]
+            },
+            "id": 171
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.6518724574834,
+                "lat": 10.82925109948668,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "golf": "water_hazard",
+                        "osm_id": 377269796,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1334,
+                "place_id": "517b834147b8a95a405946efa09993a82540f00102f90124ae7c1600000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6518724574834,
+                    10.82925109948668
+                ]
+            },
+            "id": 172
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.64959731283426,
+                "lat": 10.83053619948677,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 502896837,
+                        "natural": "wood",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1415,
+                "place_id": "51548c9b0093a95a40592fe16d0a3ca92540f00102f901c598f91d00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64959731283426,
+                    10.83053619948677
+                ]
+            },
+            "id": 173
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.64745838382186,
+                "lat": 10.826384999486482,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "golf": "water_hazard",
+                        "osm_id": 377269777,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1446,
+                "place_id": "514c024af56fa95a40591a6645ef1ba72540f00102f90111ae7c1600000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64745838382186,
+                    10.826384999486482
+                ]
+            },
+            "id": 174
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.65034483725907,
+                "lat": 10.830693299486772,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 502896838,
+                        "natural": "wood",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1479,
+                "place_id": "519cc9f33f9fa95a4059a29ad4a150a92540f00102f901c698f91d00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65034483725907,
+                    10.830693299486772
+                ]
+            },
+            "id": 175
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.65342547209372,
+                "lat": 10.827961399486584,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "golf": "water_hazard",
+                        "osm_id": 502896868,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1805,
+                "place_id": "51044112b9d1a95a4059614a7a8eeaa72540f00102f901e498f91d00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65342547209372,
+                    10.827961399486584
+                ]
+            },
+            "id": 176
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.65197768366897,
+                "lat": 10.826644999486504,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "golf": "water_hazard",
+                        "osm_id": 505736047,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1832,
+                "place_id": "5120459b00baa95a405998646c033ea72540f00102f9016feb241e00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65197768366897,
+                    10.826644999486504
+                ]
+            },
+            "id": 177
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.63942060495245,
+                "lat": 10.817751249485891,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 377269767,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 1948,
+                "place_id": "5132aa6644eca85a40592e9cb14ab0a22540f00102f90107ae7c1600000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63942060495245,
+                    10.817751249485891
+                ]
+            },
+            "id": 178
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.63483032877595,
+                "lat": 10.815005849485715,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "river",
+                        "osm_id": 1281346279,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 2071,
+                "place_id": "518126630fa1a85a4059002e5b7248a12540f00102f901e7ca5f4c00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63483032877595,
+                    10.815005849485715
+                ]
+            },
+            "id": 179
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.65631679822134,
+                "lat": 10.83091649948679,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "golf": "water_hazard",
+                        "osm_id": 505736044,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 2113,
+                "place_id": "51450b2c1801aa5a405950012ee36da92540f00102f9016ceb241e00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65631679822134,
+                    10.83091649948679
+                ]
+            },
+            "id": 180
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.65797284726247,
+                "lat": 10.833012999486932,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "lake",
+                        "osm_id": 314820963,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 2145,
+                "place_id": "517e29253a1caa5a4059e4e00bae80aa2540f00102f90163c9c31200000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65797284726247,
+                    10.833012999486932
+                ]
+            },
+            "id": 181
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.6283593131332,
+                "lat": 10.853792599488358,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "lake",
+                        "osm_id": 1290208605,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 2246,
+                "place_id": "51d302fb0937a85a405918bdb84d24b52540f00102f9015d05e74c00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6283593131332,
+                    10.853792599488358
+                ]
+            },
+            "id": 182
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.62251695065945,
+                "lat": 10.81826654948593,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1149724849,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 2279,
+                "place_id": "516e125651d7a75a4059dae74ad5f3a22540f00102f901b168874400000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62251695065945,
+                    10.81826654948593
+                ]
+            },
+            "id": 183
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.6339738820167,
+                "lat": 10.812151249485517,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "river",
+                        "osm_id": 1281346278,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 2483,
+                "place_id": "51ea71300793a85a405944e4df49d29f2540f00102f901e6ca5f4c00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6339738820167,
+                    10.812151249485517
+                ]
+            },
+            "id": 184
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.61839890814966,
+                "lat": 10.813364349485603,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1153133764,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 2597,
+                "place_id": "51a29803d993a75a4059c48bc14a71a02540f00102f901c46cbb4400000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61839890814966,
+                    10.813364349485603
+                ]
+            },
+            "id": 185
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.62817719085143,
+                "lat": 10.811058349485442,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "reservoir",
+                        "osm_id": 1149376515,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 2792,
+                "place_id": "5134b31a0e34a85a40591c603c0a439f2540f00102f9010318824400000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62817719085143,
+                    10.811058349485442
+                ]
+            },
+            "id": 186
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.61279867469926,
+                "lat": 10.82149659948615,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 460356446,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 2920,
+                "place_id": "5164b7ee1738a75a4059ee22c9339ba42540f00102f9015e7b701b00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61279867469926,
+                    10.82149659948615
+                ]
+            },
+            "id": 187
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.65640425700052,
+                "lat": 10.858130249488653,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "river",
+                        "osm_id": 32669188,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3067,
+                "place_id": "516f31008702aa5a405930861ad95cb72540f00102f901047ef20100000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65640425700052,
+                    10.858130249488653
+                ]
+            },
+            "id": 188
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.62531124147178,
+                "lat": 10.809147199485313,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1241077902,
+                        "landuse": "forest",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3148,
+                "place_id": "5151fc701905a85a4059fae0ae8a489e2540f00102f9018e58f94900000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.62531124147178,
+                    10.809147199485313
+                ]
+            },
+            "id": 189
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.6051955514136,
+                "lat": 10.824803799486379,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 220421809,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3525,
+                "place_id": "5164401f86bba65a405932d200af4ca62540f00102f901b15e230d00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6051955514136,
+                    10.824803799486379
+                ]
+            },
+            "id": 190
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.67102449999999,
+                "lat": 10.836107149487145,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1036030804,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3663,
+                "place_id": "512494be10f2aa5a405986ff7d3c16ac2540f00102f9015493c03d00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67102449999999,
+                    10.836107149487145
+                ]
+            },
+            "id": 191
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.67102664999999,
+                "lat": 10.836272049487158,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1036030803,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3664,
+                "place_id": "51a41fc319f2aa5a405965369ed92bac2540f00102f9015393c03d00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67102664999999,
+                    10.836272049487158
+                ]
+            },
+            "id": 192
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sông Bến Cát",
+                "lon": 106.68300995965139,
+                "lat": 10.847953899487953,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [
+                    "details"
+                ],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Sông Bến Cát",
+                        "water": "river",
+                        "osm_id": 51253646,
+                        "name:en": "Song Ben Cat",
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "name_international": {
+                    "en": "Song Ben Cat"
+                },
+                "distance": 3754,
+                "place_id": "51e1e2676fb6ab5a405903a2750327b22540f00102f9018e110e030000000092031053c3b46e672042e1babf6e2043c3a174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.68300995965139,
+                    10.847953899487953
+                ]
+            },
+            "id": 193
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rạch Bến Cát",
+                "lon": 106.66142332420995,
+                "lat": 10.871898549489602,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Rạch Bến Cát",
+                        "water": "river",
+                        "osm_id": 32668019,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3755,
+                "place_id": "51c6927ec254aa5a4059b1f9967c69be2540f00102f9017379f2010000000092031152e1baa163682042e1babf6e2043c3a174"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66142332420995,
+                    10.871898549489602
+                ]
+            },
+            "id": 194
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.66455397745048,
+                "lat": 10.814336299485664,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": -3532269,
+                        "natural": "water",
+                        "osm_type": "r"
+                    }
+                },
+                "distance": 3766,
+                "place_id": "51e6e4670d88aa5a40592279fcaff0a02540f00101f901ede5350000000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66455397745048,
+                    10.814336299485664
+                ]
+            },
+            "id": 195
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.61434539983642,
+                "lat": 10.808550549485279,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "stream",
+                        "osm_id": 1162779528,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3800,
+                "place_id": "51b62f5e6f51a75a40597a676e56fa9d2540f00102f901889b4e4500000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61434539983642,
+                    10.808550549485279
+                ]
+            },
+            "id": 196
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.63367336877388,
+                "lat": 10.870312499489488,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 675755159,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3851,
+                "place_id": "51b8cebe1a8ea85a4059f936959999bd2540f00102f9019734472800000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63367336877388,
+                    10.870312499489488
+                ]
+            },
+            "id": 197
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.6178926575081,
+                "lat": 10.804596549485007,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "pond",
+                        "osm_id": 256453277,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3978,
+                "place_id": "51e41ba58d8ba75a40596d063514f49b2540f00102f9019d2a490f00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6178926575081,
+                    10.804596549485007
+                ]
+            },
+            "id": 198
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.61305424077398,
+                "lat": 10.807013049485167,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "stream",
+                        "osm_id": 1162779526,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 3990,
+                "place_id": "5118b3da473ca75a4059d2f77dd0309d2540f00102f901869b4e4500000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61305424077398,
+                    10.807013049485167
+                ]
+            },
+            "id": 199
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.63574841422744,
+                "lat": 10.872148999489621,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 675755158,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4000,
+                "place_id": "51cee51d1ab0a85a405916184c508abe2540f00102f9019634472800000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63574841422744,
+                    10.872148999489621
+                ]
+            },
+            "id": 200
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.60572766631216,
+                "lat": 10.802965449484889,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 330922844,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4074,
+                "place_id": "51f645f93dc4a65a405909b692491e9b2540f00102f9015c7bb91300000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.60572766631216,
+                    10.802965449484889
+                ]
+            },
+            "id": 201
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.61806261693037,
+                "lat": 10.803090899484904,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "pond",
+                        "osm_id": 256453269,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4077,
+                "place_id": "5127a681568ea75a40597a01faba2e9b2540f00102f901952a490f00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61806261693037,
+                    10.803090899484904
+                ]
+            },
+            "id": 202
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.63677205672045,
+                "lat": 10.874608849489796,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 675755157,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4158,
+                "place_id": "51bea795dfc0a85a4059a4b32abbccbf2540f00102f9019534472800000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.63677205672045,
+                    10.874608849489796
+                ]
+            },
+            "id": 203
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.60344591769334,
+                "lat": 10.817086049485855,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1237819957,
+                        "landuse": "forest",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4208,
+                "place_id": "517259a0db9ea65a4059821e491a59a22540f00102f90135a2c74900000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.60344591769334,
+                    10.817086049485855
+                ]
+            },
+            "id": 204
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.60294135309586,
+                "lat": 10.81716044948586,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1237819961,
+                        "landuse": "forest",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4213,
+                "place_id": "51f93c549796a65a4059bb40bcda62a22540f00102f90139a2c74900000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.60294135309586,
+                    10.81716044948586
+                ]
+            },
+            "id": 205
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.6757152956956,
+                "lat": 10.85059644948814,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "river",
+                        "osm_id": 1160368490,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4337,
+                "place_id": "51da1a5eeb3eab5a4059624ab96081b32540f00102f9016ad1294500000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6757152956956,
+                    10.85059644948814
+                ]
+            },
+            "id": 206
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.60385204944124,
+                "lat": 10.812888699485566,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1237558765,
+                        "landuse": "forest",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4378,
+                "place_id": "5141fe1083a5a65a40592e2897f232a02540f00102f901eda5c34900000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.60385204944124,
+                    10.812888699485566
+                ]
+            },
+            "id": 207
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.61067340189946,
+                "lat": 10.804186649484981,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "stream",
+                        "osm_id": 1162779524,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4392,
+                "place_id": "517f6ce44515a75a4059ebd53e5abe9b2540f00102f901849b4e4500000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61067340189946,
+                    10.804186649484981
+                ]
+            },
+            "id": 208
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.67612169706585,
+                "lat": 10.866636899489238,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "river",
+                        "osm_id": 32666179,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4409,
+                "place_id": "51e340f09345ab5a405951a0e9d4b7bb2540f00102f9014372f20100000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67612169706585,
+                    10.866636899489238
+                ]
+            },
+            "id": 209
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.64347936135634,
+                "lat": 10.875056249489816,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 308616226,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4413,
+                "place_id": "514b2b0fc42ea95a405938706b5f07c02540f00102f901221c651200000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.64347936135634,
+                    10.875056249489816
+                ]
+            },
+            "id": 210
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.61235854775603,
+                "lat": 10.802372499484854,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "pond",
+                        "osm_id": 256453271,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4471,
+                "place_id": "517202e8e130a75a405994fe7891d09a2540f00102f901972a490f00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.61235854775603,
+                    10.802372499484854
+                ]
+            },
+            "id": 211
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.60483344874262,
+                "lat": 10.810437299485404,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "lake",
+                        "osm_id": 1237558778,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4486,
+                "place_id": "5118785a97b5a65a40592a7f41a3f19e2540f00102f901faa5c34900000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.60483344874262,
+                    10.810437299485404
+                ]
+            },
+            "id": 212
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.66447280634637,
+                "lat": 10.804263399484977,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "lake",
+                        "osm_id": 1230637665,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4518,
+                "place_id": "51b215f3b886aa5a4059c6508c69c89b2540f00102f901610a5a4900000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66447280634637,
+                    10.804263399484977
+                ]
+            },
+            "id": 213
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.66101078368526,
+                "lat": 10.800422049484721,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "lake",
+                        "osm_id": 1220604740,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4649,
+                "place_id": "51d18e2c004eaa5a40597f113bebd0992540f00102f90144f3c04800000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66101078368526,
+                    10.800422049484721
+                ]
+            },
+            "id": 214
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.59166147181736,
+                "lat": 10.830798999486777,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 330871752,
+                        "natural": "wood",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4679,
+                "place_id": "5190f013c8dda55a4059c2b0887c5ea92540f00102f901c8b3b81300000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.59166147181736,
+                    10.830798999486777
+                ]
+            },
+            "id": 215
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hồ nước ở công viên",
+                "country": "Vietnam",
+                "country_code": "vn",
+                "county": "Phường Tân Sơn Hòa",
+                "lon": 106.66412742197886,
+                "lat": 10.8012661,
+                "formatted": "Hồ nước ở công viên, Phường Tân Sơn Hòa, Vietnam",
+                "address_line1": "Hồ nước ở công viên",
+                "address_line2": "Phường Tân Sơn Hòa, Vietnam",
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Hồ nước ở công viên",
+                        "salt": "no",
+                        "tidal": "no",
+                        "water": "lake",
+                        "osm_id": 718091529,
+                        "fishing": "customers",
+                        "natural": "water",
+                        "osm_type": "w",
+                        "intermittent": "yes"
+                    }
+                },
+                "distance": 4741,
+                "place_id": "51a8714d1081aa5a40597a5cd98c3f9a2540f00102f9010935cd2a0000000092031c48e1bb93206ec6b0e1bb9b6320e1bb9f2063c3b46e67207669c3aa6e"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.66412742197883,
+                    10.801266099484781
+                ]
+            },
+            "id": 216
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.67536947427652,
+                "lat": 10.813769299485621,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "pond",
+                        "osm_id": 1080063083,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4775,
+                "place_id": "51002fe34039ab5a4059248f9f5ea6a02540f00102f9016b74604000000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67536947427652,
+                    10.813769299485621
+                ]
+            },
+            "id": 217
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.67447694479452,
+                "lat": 10.811894599485498,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1296322600,
+                        "natural": "wood",
+                        "osm_type": "w",
+                        "leaf_type": "mixed"
+                    }
+                },
+                "distance": 4795,
+                "place_id": "511af358a12aab5a4059b02d21a6b09f2540f00102f9012850444d00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67447694479452,
+                    10.811894599485498
+                ]
+            },
+            "id": 218
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.65412309846116,
+                "lat": 10.794855199484347,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "lake",
+                        "osm_id": 1228282071,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4838,
+                "place_id": "51badc2027dda95a405981aebd42f7962540f00102f901d718364900000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.65412309846116,
+                    10.794855199484347
+                ]
+            },
+            "id": 219
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.67460285581582,
+                "lat": 10.811583249485484,
+                "categories": [
+                    "natural",
+                    "natural.forest"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1296322599,
+                        "natural": "wood",
+                        "osm_type": "w",
+                        "leaf_type": "mixed"
+                    }
+                },
+                "distance": 4841,
+                "place_id": "5119e174b12cab5a40590a0bf5d6879f2540f00102f9012750444d00000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67460285581582,
+                    10.811583249485484
+                ]
+            },
+            "id": 220
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": 106.67422416341387,
+                "lat": 10.810474499485402,
+                "categories": [
+                    "natural",
+                    "natural.water"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "water": "pond",
+                        "osm_id": 846926731,
+                        "natural": "water",
+                        "osm_type": "w"
+                    }
+                },
+                "distance": 4870,
+                "place_id": "5146021b7d26ab5a405944107b83f69e2540f00102f9018b137b3200000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.67422416341387,
+                    10.810474499485402
+                ]
+            },
+            "id": 221
+        }
+    ]
+}
